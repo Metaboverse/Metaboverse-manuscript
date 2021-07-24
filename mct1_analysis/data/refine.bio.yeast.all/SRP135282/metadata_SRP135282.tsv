@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR6829574	SRP135282							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		ssl2-frb		Ssl2aa no rapa rep 1	
+SRR6829575	SRP135282							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		ssl2-frb		Ssl2aa no rapa rep 2	
+SRR6829576	SRP135282							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		ssl2-frb		Ssl2aa with rapa rep 1	
+SRR6829577	SRP135282							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		ssl2-frb		Ssl2aa with rapa rep 2	

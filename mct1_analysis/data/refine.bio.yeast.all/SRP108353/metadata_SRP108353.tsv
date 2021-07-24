@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5632649	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		WT_rep1	
+SRR5632650	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		mmm1del_rep1	
+SRR5632651	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		mdm34del_rep1	
+SRR5632652	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		WT_celanYPD	
+SRR5632653	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		WT_celanYPD_BPS	
+SRR5632654	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		WT_rep2	
+SRR5632655	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		VPS13-D716H	
+SRR5632656	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		mmm1del_rep2	
+SRR5632657	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		VPS13-D716H_mmm1del	
+SRR5632658	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		Aft1-1up	
+SRR5632659	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		sam37del	
+SRR5632660	SRP108353							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA		by4741 background		VPS13-D716H_sam37del	

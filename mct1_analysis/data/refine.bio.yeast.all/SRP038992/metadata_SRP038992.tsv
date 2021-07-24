@@ -1,0 +1,9 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1177156	SRP038992		by					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		BY_mRNA	
+SRR1177157	SRP038992		by					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		BY_FP	
+SRR1177158	SRP038992		rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		RM_mRNA	
+SRR1177159	SRP038992		rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		RM_FP	
+SRR1177160	SRP038992		by/rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		hybrid_mRNA1	
+SRR1177161	SRP038992		by/rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		hybrid_mRNA2	
+SRR1177162	SRP038992		by/rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		hybrid_FP1	
+SRR1177163	SRP038992		by/rm					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		exponentially growing culture		hybrid_FP2	

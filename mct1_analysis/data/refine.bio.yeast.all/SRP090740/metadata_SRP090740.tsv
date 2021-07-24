@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR4340313	SRP090740		w303					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		itox2c_dcas9-vp64_no grna		no gRNA REP1	
+SRR4340314	SRP090740		w303					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		itox2c_dcas9-vp64_no grna		no gRNA REP2	
+SRR4340315	SRP090740		w303					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		itox2c_dcas9-vp64_grna 9-1		gRNA 9-1 REP1	
+SRR4340316	SRP090740		w303					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		itox2c_dcas9-vp64_grna 9-1		gRNA 9-1 REP2	

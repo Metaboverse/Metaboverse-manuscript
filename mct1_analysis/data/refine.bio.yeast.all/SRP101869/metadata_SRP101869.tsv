@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5342689	SRP101869		sgrp-4x		whole organism			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA	synthetic wine must			Low Ammonium 2	
+SRR5342690	SRP101869		sgrp-4x		whole organism			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA	synthetic wine must			Low Ammonium 1	
+SRR5342691	SRP101869		sgrp-4x		whole organism			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA	synthetic wine must			High Ammonium 2	
+SRR5342692	SRP101869		sgrp-4x		whole organism			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 4000 (IlluminaHiSeq4000)	True				SRA	synthetic wine must			High Ammonium 1	

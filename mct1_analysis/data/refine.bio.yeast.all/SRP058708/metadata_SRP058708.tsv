@@ -1,0 +1,19 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2039751	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 WT replicate 1	
+SRR2039752	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 WT replicate 2	
+SRR2039753	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 WT replicate 3	
+SRR2039754	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 PIH1 deletion replicate 1	
+SRR2039755	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 PIH1 deletion replicate 2	
+SRR2039756	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 PIH1 deletion replicate 3	
+SRR2039757	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 TAH1 deletion replicate 1	
+SRR2039758	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 TAH1 deletion replicate 2	
+SRR2039759	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb1 TAH1 deletion replicate 3	
+SRR2039760	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb1		Rvb2 WT replicate 1	
+SRR2039761	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 WT replicate 2	
+SRR2039762	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 WT replicate 3	
+SRR2039763	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 PIH1 deletion replicate 1	
+SRR2039764	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 PIH1 deletion replicate 2	
+SRR2039765	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 PIH1 deletion replicate 3	
+SRR2039766	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 TAH1 deletion replicate 1	
+SRR2039767	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 TAH1 deletion replicate 2	
+SRR2039768	SRP058708		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells tagged with rvb2		Rvb2 TAH1 deletion replicate 3	

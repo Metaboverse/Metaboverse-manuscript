@@ -1,0 +1,9 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR8244753	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		WT input replicate 1	
+SRR8244754	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		WT IP replicate 1	
+SRR8244755	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		WT input replicate 2	
+SRR8244756	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		WT IP replicate 2	
+SRR8244757	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		IME4-KO input replicate 1	
+SRR8244758	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		IME4-KO IP replicate 1	
+SRR8244759	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		IME4-KO input replicate 2	
+SRR8244760	SRP170748		sk1					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		diploid yeast cells		IME4-KO IP replicate 2	

@@ -1,0 +1,35 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR3148171	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	WT Rad5+ t0 batch 1	
+SRR3148172	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN Rad5+ t0 batch 1	
+SRR3148173	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t0 batch 1	
+SRR3148174	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	htz1∆HYG Rad5+ t0 batch 1	
+SRR3148175	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t0 batch 1	
+SRR3148176	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	WT Rad5+ t2 batch 1	
+SRR3148177	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN Rad5+ t2 batch 1	
+SRR3148178	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t2 batch 1	
+SRR3148179	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	htz1∆HYG Rad5+ t2 batch 1	
+SRR3148180	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t2 batch 1	
+SRR3148181	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	WT Rad5+ t0 batch 2	
+SRR3148182	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN Rad5+ t0 batch 2	
+SRR3148183	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t0 batch 2	
+SRR3148184	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t0 batch 2	
+SRR3148185	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	htz1∆HYG Rad5+ t0 batch 2	
+SRR3148186	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t0 batch 2	
+SRR3148187	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	WT Rad5+ t2 batch 2	
+SRR3148188	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN Rad5+ t2 batch 2	
+SRR3148189	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t2 batch 2	
+SRR3148190	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t2 batch 2	
+SRR3148191	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	htz1∆HYG Rad5+ t2 batch 2	
+SRR3148192	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t2 batch 2	
+SRR3148193	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	WT Rad5+ t0 batch 3	
+SRR3148194	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN Rad5+ t0 batch 3	
+SRR3148195	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t0 batch 3	
+SRR3148196	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t0 batch 3	
+SRR3148197	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	htz1∆HYG Rad5+ t0 batch 3	
+SRR3148198	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	0 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t0 batch 3	
+SRR3148199	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	WT Rad5+ t2 batch 3	
+SRR3148200	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN Rad5+ t2 batch 3	
+SRR3148201	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t2 batch 3	
+SRR3148202	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	psh1∆KAN leu2-3,112::pGAL-3Flag-CSE4:LEU2 Rad5+ t2 batch 3	
+SRR3148203	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	htz1∆HYG Rad5+ t2 batch 3	
+SRR3148204	SRP069721							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		asynchronous cells	2 hours	trp1-1::pGAL-H3:TRP1 Rad5+ t2 batch 3	

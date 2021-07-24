@@ -1,0 +1,38 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1223686	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-Ribo_logphase_Replicate1	+glucose
+SRR1223687	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate1	+glucose
+SRR1223688	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate1	+glucose
+SRR1223689	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast by4741		BY-RNA_logphase_Total_Replicate1	+glucose
+SRR1223690	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast by4741		BY-RNA_logphase_Total_Replicate1	+glucose
+SRR1223691	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-RNA_logphase_polyA_Replicate1	+glucose
+SRR1223692	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_Total_Replicate1	+glucose
+SRR1223693	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_Total_Replicate1	+glucose
+SRR1223694	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_RiboZero_Replicate1	+glucose
+SRR1223695	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_RiboZero_Replicate1	+glucose
+SRR1223696	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_polyA_Replicate1	+glucose
+SRR1223697	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-Ribo_-Glu15_Replicate1	-glucose15m
+SRR1223698	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_-Glu15_Replicate1	-glucose15m
+SRR1223699	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_-Glu15_Replicate1	-glucose15m
+SRR1223700	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast by4741		BY-RNA_-Glu15_Total_Replicate1	-glucose15m
+SRR1223702	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_Total_Replicate1	-glucose15m
+SRR1223703	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_Total_Replicate1	-glucose15m
+SRR1223704	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_RiboZero_Replicate1	-glucose15m
+SRR1223705	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_RiboZero_Replicate1	-glucose15m
+SRR1223706	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_polyA_Replicate1	-glucose15m
+SRR1288391	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-Ribo_logphase_Replicate2	+glucose
+SRR1288392	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate2	+glucose
+SRR1288393	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate2	+glucose
+SRR1288394	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate2	+glucose
+SRR1288395	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate2	+glucose
+SRR1288396	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_logphase_Replicate2	+glucose
+SRR1288397	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-RNA_logphase_polyA_Replicate2	+glucose
+SRR1288398	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_polyA_Replicate2	+glucose
+SRR1288399	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_logphase_polyA_Replicate2	+glucose
+SRR1288400	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-Ribo_-Glu15_Replicate2	-glucose15m
+SRR1288401	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_-Glu15_Replicate2	-glucose15m
+SRR1288402	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_-Glu15_Replicate2	-glucose15m
+SRR1288403	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-Ribo_-Glu15_Replicate2	-glucose15m
+SRR1288405	SRP041039		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		yeast by4741		BY-RNA_-Glu15_polyA_Replicate2	-glucose15m
+SRR1288406	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_polyA_Replicate2	-glucose15m
+SRR1288407	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_polyA_Replicate2	-glucose15m
+SRR1288408	SRP041039		ey0690					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast ey0690		EY-RNA_-Glu15_polyA_Replicate2	-glucose15m

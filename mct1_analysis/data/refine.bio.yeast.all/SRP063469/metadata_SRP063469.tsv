@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2302179	SRP063469							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		saccharomyces cerevisiae		WT 1	
+SRR2302180	SRP063469							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		saccharomyces cerevisiae		WT 2	
+SRR2302181	SRP063469							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		saccharomyces cerevisiae		Asr1-RING mutant 1	
+SRR2302182	SRP063469							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		saccharomyces cerevisiae		Asr1-RING mutant 2	

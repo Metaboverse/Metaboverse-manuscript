@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR502967	SRP013468		w303 wild-type					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, wild-type		WT1	
+SRR502968	SRP013468		w303 wild-type					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, wild-type		WT2	
+SRR502969	SRP013468		w303 wild-type					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, wild-type		WT3	
+SRR502970	SRP013468		w303 elc1-delta::ura3					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, elc1 deletion mutant		elc1?1	
+SRR502971	SRP013468		w303 elc1-delta::ura3					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, elc1 deletion mutant		elc1?2	
+SRR502972	SRP013468		w303 elc1-delta::ura3					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yeast cells, elc1 deletion mutant		elc1?3	

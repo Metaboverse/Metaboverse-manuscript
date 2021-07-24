@@ -1,0 +1,16 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR7241882	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo no_drug_NO_DMS, DMSMaP-seq	
+SRR7241883	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo no_drug_300uL_DMS, DMSMaP-seq	
+SRR7241884	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo no_drug_600uL_DMS, DMSMaP-seq	
+SRR7241885	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo CHX_NO_DMS, DMSMaP-seq	
+SRR7241886	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo CHX_300uL_DMS, DMSMaP-seq	
+SRR7241887	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo CHX_600uL_DMS, DMSMaP-seq	
+SRR7241888	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo ANI_NO_DMS, DMSMaP-seq	
+SRR7241889	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo ANI_300uL_DMS, DMSMaP-seq	
+SRR7241890	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		in vivo ANI_600uL_DMS, DMSMaP-seq	
+SRR7241891	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate no_drug_NO_DMS, DMSMaP-seq	
+SRR7241892	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate no_drug_40mM_DMS, DMSMaP-seq	
+SRR7241893	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate no_drug_90mM_DMS, DMSMaP-seq	
+SRR7241894	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate ANI_NO_DMS, DMSMaP-seq	
+SRR7241895	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate ANI_40mM_DMS, DMSMaP-seq	
+SRR7241896	SRP149443							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate ANI_90mM_DMS, DMSMaP-seq	

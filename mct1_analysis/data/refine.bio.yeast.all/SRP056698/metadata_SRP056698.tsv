@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1946706	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 1		sac3? pRS315 13MYC-SAC3 WT_01	
+SRR1946707	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 2		sac3? pRS315 13MYC-SAC3 WT_02	
+SRR1946708	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 3		sac3? pRS315 13MYC-SAC3 WT_03	
+SRR1946709	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 4		sac3? pRS315 vector_01	
+SRR1946710	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 5		sac3? pRS315 vector_02	
+SRR1946711	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 6		sac3? pRS315 vector_03	
+SRR1946712	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 7		sac3? pRS315 Sac3 R288D_01	
+SRR1946713	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 8		sac3? pRS315 Sac3 R288D_02	
+SRR1946714	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 9		sac3? pRS315 Sac3 R288D_03	
+SRR1946715	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 10		cdk8? pRS315 vector_01	
+SRR1946716	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 11		cdk8? pRS315 vector_02	
+SRR1946717	SRP056698							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		sample 12		cdk8? pRS315 vector_03	

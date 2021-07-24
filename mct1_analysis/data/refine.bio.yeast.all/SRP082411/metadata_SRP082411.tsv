@@ -1,0 +1,34 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR4044709	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		WT batch 1 rep1	
+SRR4044710	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		WT batch 1 rep2	
+SRR4044712	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		WT batch 1 rep4	
+SRR4044713	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 15 disome batch 1 rep1	
+SRR4044714	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 15 disome batch 1 rep2	
+SRR4044715	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 15 disome batch 1 rep3	
+SRR4044716	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 15 disome batch 1 rep4	
+SRR4044717	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome batch 1 rep1	
+SRR4044718	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome batch 1 rep2	
+SRR4044719	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome batch 1 rep3	
+SRR4044720	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome batch 1 rep4	
+SRR4044721	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome dig1D hemizygous batch 1 rep1	
+SRR4044722	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome dig1D hemizygous batch 1 rep2	
+SRR4044723	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome dig1D hemizygous batch 1 rep3	
+SRR4044724	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Chr 16 disome dig1D hemizygous batch 1 rep4	
+SRR4044726	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Empty plasmid control batch 1 rep2	
+SRR4044727	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Empty plasmid control batch 1 rep3	
+SRR4044728	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		Empty plasmid control batch 1 rep4	
+SRR4044729	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		DIG1 overexpression plasmid batch 1 rep1	
+SRR4044730	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		DIG1 overexpression plasmid batch 1 rep2	
+SRR4044731	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		DIG1 overexpression plasmid batch 1 rep3	
+SRR4044732	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole colony		DIG1 overexpression plasmid batch 1 rep4	
+SRR4044733	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		WT batch 2 rep1	
+SRR4044734	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		WT batch 2 rep2	
+SRR4044735	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		WT batch 2 rep3	
+SRR4044736	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		cis3D batch 2 rep1	
+SRR4044737	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		cis3D batch 2 rep2	
+SRR4044738	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		cis3D batch 2 rep3	
+SRR4044739	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		cis3D batch 2 rep4	
+SRR4044740	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		flo11D batch 2 rep1	
+SRR4044741	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		flo11D batch 2 rep2	
+SRR4044742	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		flo11D batch 2 rep3	
+SRR4044743	SRP082411		f45					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		whole colony		flo11D batch 2 rep4	

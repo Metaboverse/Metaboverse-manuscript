@@ -1,0 +1,11 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1024146	SRP032541		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		WT rep1	
+SRR1024147	SRP032541		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		WT rep2	
+SRR1024148	SRP032541		set1∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set1∆ rep1	
+SRR1024149	SRP032541		set1∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set1∆ rep2	
+SRR1024150	SRP032541		set5∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set5∆ rep1	
+SRR1024151	SRP032541		set5∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set5∆ rep2	
+SRR1024152	SRP032541		set1∆ set5∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set1∆ set5∆ rep1	
+SRR1024153	SRP032541		set1∆ set5∆					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		set1∆ set5∆ rep2	
+SRR1055288	SRP032541		set5 y402a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		SET5 Y402A rep1	
+SRR1055289	SRP032541		set5 y402a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole-cell		SET5 Y402A rep2	

@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1538684	SRP045321							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		t4v_rna-seq		T4V replicate 1	
+SRR1538685	SRP045321							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		t4v_rna-seq		T4V replicate 2	
+SRR1538686	SRP045321							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		wt rna-seq		WT replicate 1	
+SRR1538687	SRP045321							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		wt rna-seq		WT replicate 2	

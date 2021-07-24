@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2146958	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4741+prs313-ha3-ssn6		BY1	
+SRR2146959	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4741+prs313-ha3-ssn6		BY2	
+SRR2146960	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4741+prs313-ha3-ssn6		BY3	
+SRR2146961	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-ha3-ssn6		DV1	
+SRR2146962	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-ha3-ssn6		DV2	
+SRR2146963	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-ha3-ssn6		DV3	
+SRR2146964	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14-ha3-ssn6		FL1	
+SRR2146965	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14-ha3-ssn6		FL2	
+SRR2146966	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14-ha3-ssn6		FL3	
+SRR2146967	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14w81a-ha3-ssn6		W81A1	
+SRR2146968	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14w81a-ha3-ssn6		W81A2	
+SRR2146969	SRP062085							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		taf14d+prs313-taf14w81a-ha3-ssn6		W81A3	

@@ -1,0 +1,60 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1578442	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		K1 Biological Replicate 1	
+SRR1578443	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		K10 Biological Replicate 1	
+SRR1578444	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		K9 Biological Replicate 1	
+SRR1578445	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.2n Biological Replicate 1	
+SRR1578446	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.2n Biological Replicate 2	
+SRR1578447	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.2n Biological Replicate 3	
+SRR1578448	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.3n Biological Replicate 1	
+SRR1578449	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.3n Biological Replicate 2	
+SRR1578450	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.3n Biological Replicate 3	
+SRR1578451	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.4n Biological Replicate 1	
+SRR1578452	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.4n Biological Replicate 2	
+SRR1578453	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		W303_ChrXII.4n Biological Replicate 3	
+SRR1578454	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.2n Biological Replicate 1	
+SRR1578455	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.2n Biological Replicate 2	
+SRR1578456	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.2n Biological Replicate 3	
+SRR1578457	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.3n Biological Replicate 1	
+SRR1578458	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.3n Biological Replicate 2	
+SRR1578459	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.3n Biological Replicate 3	
+SRR1578460	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.4n Biological Replicate 1	
+SRR1578462	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.4n Biological Replicate 3	
+SRR1578463	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC3290 Biological Replicate 1	
+SRR1578464	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC3290 Biological Replicate 2	
+SRR1578465	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		NCYC3290 Biological Replicate 3	
+SRR1578466	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		Y2189 Biological Replicate 1	
+SRR1578467	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		Y2189 Biological Replicate 2	
+SRR1578468	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		Y2209 Biological Replicate 1	
+SRR1578469	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		Y2209 Biological Replicate 2	
+SRR1578470	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YJM308 Biological Replicate 1	
+SRR1578471	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YJM308 Biological Replicate 2	
+SRR1578472	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YJM428 Biological Replicate 1	
+SRR1578473	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YJM428 Biological Replicate 2	
+SRR1578474	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.2n Biological Replicate 1	
+SRR1578475	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.2n Biological Replicate 2	
+SRR1578476	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.2n Biological Replicate 3	
+SRR1578477	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.3n Biological Replicate 1	
+SRR1578478	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.3n Biological Replicate 2	
+SRR1578479	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.3n Biological Replicate 3	
+SRR1578480	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.4n Biological Replicate 1	
+SRR1578481	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.4n Biological Replicate 2	
+SRR1578482	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS1009_ChrXII.4n Biological Replicate 3	
+SRR1578483	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS163 Biological Replicate 1	
+SRR1578484	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS163 Biological Replicate 2	
+SRR1578485	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae cells		YPS163 Biological Replicate 3	
+SRR1975674	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS163_ChrVIII.1n Mat a Biological Replicate 1	
+SRR1975675	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 Biological Replicate 4	
+SRR1975676	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.2n Biological Replicate 4	
+SRR1975677	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.3n Biological Replicate 4	
+SRR1975678	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC110_ChrVIII.4n Biological Replicate 4	
+SRR1975679	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YJM428_ChrXVI.2n Biological Replicate 1	
+SRR1975680	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YJM428_ChrXVI.4n Biological Replicate 1	
+SRR1975681	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS163_ChrVIII.2n Mat a Biological Replicate 1	
+SRR1975682	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS163_ChrVIII.1n Mat a Biological Replicate 2	
+SRR1975683	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS163_ChrVIII.2n Mat a Biological Replicate 2	
+SRR1975684	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		T73_ChrVIII.2n Biological Replicate 1	
+SRR1975685	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		T73_ChrVIII.4n Biological Replicate 1	
+SRR1975686	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		T73_ChrVIII.2n Biological Replicate 2	
+SRR1975687	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		T73_ChrVIII.4n Biological Replicate 2	
+SRR1975688	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YJM428_ChrXVI.2n Biological Replicate 2	
+SRR1975689	SRP047289							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YJM428_ChrXVI.4n Biological Replicate 2	

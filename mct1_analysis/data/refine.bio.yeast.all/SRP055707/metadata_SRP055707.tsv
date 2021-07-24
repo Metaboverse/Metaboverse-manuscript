@@ -1,0 +1,33 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1822445	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type DED1 replicate 1_15 deg	
+SRR1822446	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type DED1 replicate 2_15 deg	
+SRR1822447	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_ded1-cs replicate 1_15 deg	
+SRR1822448	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_ded1-cs replicate 2_15 deg	
+SRR1822449	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type DED1 replicate 1_15 deg	
+SRR1822450	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type DED1 replicate 2_15 deg	
+SRR1822451	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_ded1-cs replicate 1_15 deg	
+SRR1822452	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_ded1-cs replicate 2_15 deg	
+SRR1822453	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		ribo_wild-type DED1 replicate 1_37 deg	
+SRR1822454	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		ribo_wild-type DED1 replicate 2_37 deg	
+SRR1822455	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		ribo_ded1-ts replicate 1_37 deg	
+SRR1822456	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		ribo_ded1-ts replicate 2_37 deg	
+SRR1822457	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		mRNA_wild-type DED1 replicate 1_37 deg	
+SRR1822458	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		mRNA_wild-type DED1 replicate 2_37 deg	
+SRR1822459	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		mRNA_ded1-ts replicate 1_37 deg	
+SRR1822460	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		mRNA_ded1-ts replicate 2_37 deg	
+SRR1822461	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type TIF1 replicate 1_30 deg	
+SRR1822462	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type TIF1 replicate 2_30 deg	
+SRR1822463	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_tif1-ts replicate 1_30 deg	
+SRR1822464	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_tif1-ts replicate 2_30 deg	
+SRR1822465	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type TIF1 replicate 1_30 deg	
+SRR1822466	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type TIF1 replicate 2_30 deg	
+SRR1822467	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_tif1-ts replicate 1_30 deg	
+SRR1822468	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_tif1-ts replicate 2_30 deg	
+SRR1822469	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type TIF1 replicate 1_37 deg	
+SRR1822470	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_wild-type TIF1 replicate 2_37 deg	
+SRR1822471	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_tif1-ts replicate 1_37 deg	
+SRR1822472	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		ribo_tif1-ts replicate 2_37 deg	
+SRR1822473	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type TIF1 replicate 1_37 deg	
+SRR1822474	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_wild-type TIF1 replicate 2_37 deg	
+SRR1822475	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_tif1-ts replicate 1_37 deg	
+SRR1822476	SRP055707							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cells		mRNA_tif1-ts replicate 2_37 deg	

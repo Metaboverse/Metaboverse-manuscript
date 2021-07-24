@@ -1,0 +1,9 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5664537	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		control treatment rep 1	
+SRR5664538	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		control treatment rep 2	
+SRR5664539	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		known metal chelator treatment rep1	
+SRR5664540	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		known metal chelator treatment rep2	
+SRR5664541	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		DHPM-thione active treatment rep1	
+SRR5664542	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		DHPM-thione active treatment rep2	
+SRR5664543	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		DHPM-thione inactive treatment rep1	
+SRR5664544	SRP108902		w303 with deletion of pdr1 and pdr3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast culture		DHPM-thione inactive treatment rep2	

@@ -1,0 +1,35 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR7053237	SRP142026		bj20		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	bark of quercus wutaishanica, secondary forest			Saccharomyces cerevisiae	
+SRR7053238	SRP142026		qh1-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented yak milk			Saccharomyces cerevisiae	
+SRR7053239	SRP142026		wm11-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mixed goat and yak milk			Saccharomyces cerevisiae	
+SRR7053241	SRP142026		hn10		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	rotten wood, primeval forest			Saccharomyces cerevisiae	
+SRR7053242	SRP142026		qh7.2		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermenting dough			Saccharomyces cerevisiae	
+SRR7053243	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053244	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	
+SRR7053245	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	
+SRR7053246	SRP142026		qh1-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented yak milk			Saccharomyces cerevisiae	
+SRR7053247	SRP142026		wm11-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mixed goat and yak milk			Saccharomyces cerevisiae	
+SRR7053248	SRP142026		qh7.2		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermenting dough			Saccharomyces cerevisiae	
+SRR7053249	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053250	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053251	SRP142026		hn10		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	rotten wood, primeval forest			Saccharomyces cerevisiae	
+SRR7053252	SRP142026		nx1		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	soil, melonry			Saccharomyces cerevisiae	
+SRR7053253	SRP142026		bj20		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	bark of quercus wutaishanica, secondary forest			Saccharomyces cerevisiae	
+SRR7053255	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	
+SRR7053256	SRP142026		bj20		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	bark of quercus wutaishanica, secondary forest			Saccharomyces cerevisiae	
+SRR7053258	SRP142026		nx1		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	soil, melonry			Saccharomyces cerevisiae	
+SRR7053260	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	
+SRR7053261	SRP142026		wm11-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mixed goat and yak milk			Saccharomyces cerevisiae	
+SRR7053263	SRP142026		hn10		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	rotten wood, primeval forest			Saccharomyces cerevisiae	
+SRR7053265	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053266	SRP142026		qh7.2		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermenting dough			Saccharomyces cerevisiae	
+SRR7053267	SRP142026		nx1		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	soil, melonry			Saccharomyces cerevisiae	
+SRR7053268	SRP142026		bj20		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	bark of quercus wutaishanica, secondary forest			Saccharomyces cerevisiae	
+SRR7053269	SRP142026		qh7.2		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermenting dough			Saccharomyces cerevisiae	
+SRR7053270	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053271	SRP142026		by4741		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	missing			Saccharomyces cerevisiae	
+SRR7053272	SRP142026		hn10		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	rotten wood, primeval forest			Saccharomyces cerevisiae	
+SRR7053273	SRP142026		qh1-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented yak milk			Saccharomyces cerevisiae	
+SRR7053274	SRP142026		wm11-3		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mixed goat and yak milk			Saccharomyces cerevisiae	
+SRR7053275	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	
+SRR7053276	SRP142026		11-3002		single cell			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	fermented mare's milk (kumis)			Saccharomyces cerevisiae	

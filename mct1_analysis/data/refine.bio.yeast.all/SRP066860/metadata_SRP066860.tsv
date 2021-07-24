@@ -1,0 +1,16 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR4020118	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		WT_BMA64_rep1	
+SRR4020119	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		WT_BMA64_rep2	
+SRR4020120	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		rrp6D_BMA64_rep1	
+SRR4020121	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		rrp6D_BMA64_rep2	
+SRR4020122	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		WT_HHY168_t60_rep1	
+SRR4020123	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		WT_HHY168_t60_rep2	
+SRR4020124	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		RRP6_FRB_t60_rep1	
+SRR4020125	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		RRP6_FRB_t60_rep2	
+SRR4020126	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		DIS3_RRP6_FRB_t60_rep1	
+SRR4020127	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		DIS3_RRP6_FRB_t60_rep2	
+SRR4020128	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		SEN1_RRP6_FRB_t60_rep1	
+SRR4020129	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		SEN1_RRP6_FRB_t60_rep2	
+SRR4020130	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		REB1_RRP6_FRB_t60	
+SRR4020131	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		BDP1_RRP6_FRB_t60	
+SRR4020132	SRP066860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cultures		WT_HHY168_t60_ePAP	

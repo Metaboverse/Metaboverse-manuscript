@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1027846	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, mrpl16∆ rho-minus		CDD410	
+SRR1027847	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, sit4∆ mrpl16∆ rho-minus		CDD415	
+SRR1027848	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, sap4∆ sap190∆ mrpl16∆ rho-minus		CDD450	
+SRR1027849	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, sap155∆ sap190∆ mrpl16∆ rho-minus		CDD452	
+SRR1027850	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, pph21∆ pph22∆ mrpl16∆ rho-minus		CDD454	
+SRR1027851	SRP032818							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	whole cells	whole cells, rho-plus		CDD463	

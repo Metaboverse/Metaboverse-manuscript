@@ -1,0 +1,27 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5130661	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, aerobic, glucose		Y22-3 YPD +O2 Rep A	
+SRR5130662	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, aerobic, glucose		Y22-3 YPD +O2 Rep B	
+SRR5130663	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, aerobic, glucose		Y127 YPD +O2 Rep A	
+SRR5130664	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, aerobic, glucose		Y127 YPD +O2 Rep B	
+SRR5130665	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, aerobic, glucose		Y128 YPD +O2 Rep A	
+SRR5130666	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, aerobic, glucose		Y128 YPD +O2 Rep B	
+SRR5130667	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, aerobic, xylose		Y22-3 YPX +O2 Rep A	
+SRR5130668	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, aerobic, xylose		Y22-3 YPX +O2 Rep B	
+SRR5130669	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, aerobic, xylose		Y127 YPX +O2 Rep A	
+SRR5130670	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, aerobic, xylose		Y127 YPX +O2 Rep B	
+SRR5130672	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, aerobic, xylose		Y128 YPX +O2 Rep B	
+SRR5130673	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, anaerobic, glucose		Y22-3 YPD -O2 Rep A	
+SRR5130674	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, anaerobic, glucose		Y22-3 YPD -O2 Rep B	
+SRR5130675	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, anaerobic, glucose		Y127 YPD -O2 Rep A	
+SRR5130676	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, anaerobic, glucose		Y127 YPD -O2 Rep B	
+SRR5130677	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, anaerobic, glucose		Y128 YPD -O2 Rep A	
+SRR5130678	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, anaerobic, glucose		Y128 YPD -O2 Rep B	
+SRR5130679	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, anaerobic, xylose		Y22-3 YPX -O2 Rep A	
+SRR5130680	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, anaerobic, xylose		Y22-3 YPX -O2 Rep B	
+SRR5130681	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, anaerobic, xylose		Y127 YPX -O2 Rep A	
+SRR5130682	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y127 cell culture, anaerobic, xylose		Y127 YPX -O2 Rep B	
+SRR5130683	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, anaerobic, xylose		Y128 YPX -O2 Rep A	
+SRR5130686	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, anaerobic, galactose		Y22-3 YPGal -O2 Rep A	
+SRR5130687	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y22-3 cell culture, aerobic, sorbitol		Y22-3 YPSor +O2 Rep A	
+SRR5130689	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, aerobic, galactose		Y128 YPGal +O2 Rep A	
+SRR5130690	SRP095642							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		y128 cell culture, anaerobic, galactose		Y128 YPGal -O2 Rep A	

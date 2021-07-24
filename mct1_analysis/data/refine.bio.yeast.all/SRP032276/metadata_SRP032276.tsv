@@ -1,0 +1,57 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1019454	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt replicate 1 ip		WTrep1_IP	
+SRR1019455	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt replicate 1 input		WTrep1_input	
+SRR1019457	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt replicate 3 ip		WTrep3_IP	
+SRR1019458	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt replicate 3 input		WTrep3_input	
+SRR1019459	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 1 ip		IME4delrep1_IP	
+SRR1019460	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 1 input		IME4delrep1_input	
+SRR1019461	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 2 ip		IME4delrep2_IP	
+SRR1019462	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 2 input		IME4delrep2_input	
+SRR1019463	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt veg ip		WTVeg_IP	
+SRR1019464	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wt veg input		WTVeg_input	
+SRR1019465	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion veg ip		IME4delVeg_IP	
+SRR1019466	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion veg input		IME4delVeg_input	
+SRR1019467	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mis induction ip		MISplus_IP	
+SRR1019468	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mis induction input		MISplus_input	
+SRR1019469	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mis inducible strains, without induction,ip		MISminus_IP	
+SRR1019470	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mis inducible strains, without induction input		MISminus_input	
+SRR1019471	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 catalytic mutant ip		IME4cat_IP	
+SRR1019472	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 catalytic mutant input		IME4cat_input	
+SRR1019473	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 3 ip		IME4delrep3_IP	
+SRR1019474	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		ime4 deletion replicate 3 input		IME4delrep3_input	
+SRR1019475	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus0min ip		EarlyMeiosisIME4plus0min_IP	
+SRR1019476	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus0min input		EarlyMeiosisIME4plus0min_input	
+SRR1019477	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus15min ip		EarlyMeiosisIME4plus15min_IP	
+SRR1019478	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus15min input		EarlyMeiosisIME4plus15min_input	
+SRR1019479	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus30min ip		EarlyMeiosisIME4plus30min_IP	
+SRR1019480	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus30min input		EarlyMeiosisIME4plus30min_input	
+SRR1019481	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus45min ip		EarlyMeiosisIME4plus45min_IP	
+SRR1019482	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus45min input		EarlyMeiosisIME4plus45min_input	
+SRR1019483	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus1hr ip		EarlyMeiosisIME4plus1hr_IP	
+SRR1019484	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus1hr input		EarlyMeiosisIME4plus1hr_input	
+SRR1019485	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus2hr ip		EarlyMeiosisIME4plus2hr_IP	
+SRR1019486	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus2hr input		EarlyMeiosisIME4plus2hr_input	
+SRR1019487	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus3hr ip		EarlyMeiosisIME4plus3hr_IP	
+SRR1019488	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		time course early meiosisime4plus3hr input		EarlyMeiosisIME4plus3hr_input	
+SRR1019499	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation mus81 ip		PointMutMus81_IP	
+SRR1019500	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation mus81 input		PointMutMus81_input	
+SRR1019501	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ysp3 ip		PointMutYSP3_IP	
+SRR1019502	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ysp3 input		PointMutYSP3_input	
+SRR1019503	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ylr149c ip		PointMutYLR149C_IP	
+SRR1019504	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ylr149c input		PointMutYLR149C_input	
+SRR1019505	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ynl195c ip		PointMutYNL195C_IP	
+SRR1019506	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ynl195c input		PointMutYNL195C_input	
+SRR1019507	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		negative control for meiosis progression, performed using an ime2 deletion strain		PointMutNegCont_IP	
+SRR1019508	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		negative control for meiosis progression, performed using an ime2 deletion strain		PointMutNegCont_input	
+SRR1019509	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		positive control 1 for point mutations, using an ash1 deletion strain		PointMutPosContRep1_IP	
+SRR1019510	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		positive control 1 for point mutations, using an ash1 deletion strain		PointMutPosContRep1_input	
+SRR1019511	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation zip1 ip		PointMutZip1_IP	
+SRR1019512	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation zip1 input		PointMutZip1_input	
+SRR1019513	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation mei5 ip		PointMutMEI5_IP	
+SRR1019514	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation mei5 input		PointMutMEI5_input	
+SRR1019515	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ime2 ip		PointMutIME2_IP	
+SRR1019516	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation ime2 input		PointMutIME2_input	
+SRR1019517	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation nam8 ip		PointMutNam8_IP	
+SRR1019518	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		point mutation nam8 input		PointMutNam8_input	
+SRR1019519	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		positive control 2 for point mutations, using an ash1 deletion strain		PointMutPosContRep2_IP	
+SRR1019520	SRP032276		sk1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		positive control 2 for point mutations, using an ash1 deletion strain		PointMutPosContRep2_input	

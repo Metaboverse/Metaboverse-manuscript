@@ -1,0 +1,32 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2045244	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_S288C_1	
+SRR2045245	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_S288C_2	
+SRR2045247	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_S288C_2	
+SRR2045248	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_37C_1	
+SRR2045249	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_37C_2	
+SRR2045250	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		dcp2_37C_1	
+SRR2045251	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		dcp2_37C_2	
+SRR2045252	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_SK1_1	
+SRR2045253	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_SK1_2	
+SRR2045254	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_SK1_1	
+SRR2045255	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_SK1_2	
+SRR2045256	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_SK1_2n_1	
+SRR2045257	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_SK1_2n_2	
+SRR2045259	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_SK1_2n_2	
+SRR2045260	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_S288C_Ter_1	
+SRR2045261	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_S288C_Ter_2	
+SRR2045262	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_S288C_Ter_1	
+SRR2045263	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		xrn1_S288C_Ter_2	
+SRR2045264	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_37C_Ter_1	
+SRR2045265	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_37C_Ter_2	
+SRR2045266	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		dcp2_37C_Ter_1	
+SRR2045267	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		dcp2_37C_Ter_2	
+SRR2045268	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_W303_1	
+SRR2045269	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_W303_2	
+SRR2045272	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT_UPF1_1	
+SRR2045274	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		upf1_1	
+SRR2045275	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		upf1_2	
+SRR2048394	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yam1 wild-type strain (37°c)		CAGE_WT_1	
+SRR2048395	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yam1 wild-type strain (37°c)		CAGE_WT_2	
+SRR2048396	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yam2283 dcp2-7 strain (37°c)		CAGE_dcp2_1	
+SRR2048397	SRP058860							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		yam2283 dcp2-7 strain (37°c)		CAGE_dcp2_2	

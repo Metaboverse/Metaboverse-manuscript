@@ -1,0 +1,23 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR354085	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 1	none
+SRR354086	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 1	none
+SRR354087	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 1	none
+SRR354088	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 2	none
+SRR354089	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 2	none
+SRR354090	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 3	none
+SRR354091	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Nuclear run-on RNA library 3	none
+SRR354092	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Total RNA library 1	none
+SRR354093	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Total RNA library 2	none
+SRR354094	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		Total RNA library 3	none
+SRR354095	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 1	39°c for 20 min
+SRR354096	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 1	39°c for 20 min
+SRR354097	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 1	39°c for 20 min
+SRR354098	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 2	39°c for 20 min
+SRR354099	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 2	39°c for 20 min
+SRR354100	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 3	39°c for 20 min
+SRR354101	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 3	39°c for 20 min
+SRR354102	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock nuclear run-on RNA library 3	39°c for 20 min
+SRR354103	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock total RNA library 1	39°c for 20 min
+SRR354104	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock total RNA library 2	39°c for 20 min
+SRR354105	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		heat shock-treated cells		Heatshock total RNA library 3	39°c for 20 min
+SRR354106	SRP009043		by4742					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		log-phase growth cells		3' Nuclear run-on RNA library	none

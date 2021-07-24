@@ -1,0 +1,16 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2517449	SRP064177		htabwt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		WT_1	
+SRR2517450	SRP064177		ymc70					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		jhd2_1	
+SRR2517451	SRP064177		ymc64					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		set1_1	
+SRR2517452	SRP064177		ymc42					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1Flag_1	
+SRR2517453	SRP064177		ymc43					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1G990E_1	
+SRR2517454	SRP064177		htabwt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		WT_2	
+SRR2517455	SRP064177		ymc70					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		jhd2_2	
+SRR2517456	SRP064177		ymc64					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		set1_2	
+SRR2517457	SRP064177		ymc42					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1Flag_2	
+SRR2517458	SRP064177		ymc43					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1G990E_2	
+SRR2517459	SRP064177		htabwt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		WT_3	
+SRR2517460	SRP064177		ymc70					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		jhd2_3	
+SRR2517461	SRP064177		ymc64					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		set1_3	
+SRR2517462	SRP064177		ymc42					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1Flag_3	
+SRR2517463	SRP064177		ymc43					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase yeast cells		Set1G990E_3	

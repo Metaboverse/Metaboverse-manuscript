@@ -1,0 +1,21 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR3655584	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t=pre	t=pre unsyncronised	WT T=pre	
+SRR3655585	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t=0 min	t=0 min after release	WT T=0 min	
+SRR3655586	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 15 min	t= 15 min after release	WT T= 15 min	
+SRR3655587	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 30 min	t= 30 min after release	WT T= 30 min	
+SRR3655588	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 45 min	t= 45 min after release	WT T= 45 min	
+SRR3655589	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 60 min	t= 60 min after release	WT T= 60 min	
+SRR3655590	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 75 min	t= 75 min after release	WT T= 75 min	
+SRR3655591	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 90 min	t= 90 min after release	WT T= 90 min	
+SRR3655592	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 105 min	t= 105 min after release	WT T= 105 min	
+SRR3655593	SRP076395		w303a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		wt t= 120 min	t= 120 min after release	WT T= 120 min	
+SRR3655594	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t=pre	t=pre unsyncronised	Delta_set1 T=pre	
+SRR3655595	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t=0 min	t=0 min after release	Delta_set1 T=0 min	
+SRR3655596	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 15 min	t= 15 min after release	Delta_set1 T= 15 min	
+SRR3655597	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 30 min	t= 30 min after release	Delta_set1 T= 30 min	
+SRR3655598	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 45 min	t= 45 min after release	Delta_set1 T= 45 min	
+SRR3655599	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 60 min	t= 60 min after release	Delta_set1 T= 60 min	
+SRR3655600	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 75 min	t= 75 min after release	Delta_set1 T= 75 min	
+SRR3655601	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 90 min	t= 90 min after release	Delta_set1 T= 90 min	
+SRR3655602	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1t= 105 min	t= 105 min after release	Delta_set1T= 105 min	
+SRR3655603	SRP076395		delta_set1					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 1500 (IlluminaHiSeq1500)	True				SRA		delta_set1 t= 120 min	t= 120 min after release	Delta_set1 T= 120 min	

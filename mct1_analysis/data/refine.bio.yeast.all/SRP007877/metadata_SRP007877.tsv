@@ -1,0 +1,3 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR332256	SRP007877		dpb249					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		log-phase liquid culture, wt		smallRNA_S.cerevisiae_WT	
+SRR332257	SRP007877		dpb258					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		log-phase liquid culture, ago1dcr1		smallRNA_S.cerevisiae_AGO1DCR1	

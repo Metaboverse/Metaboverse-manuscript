@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR8697617	SRP187881		ydr007w (by4741 background)					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		wt_37		WT_37_rep1	
+SRR8697618	SRP187881		ydr007w (by4741 background)					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		wt_37		WT_37_rep2	
+SRR8697619	SRP187881		ydr007w (by4741 background)					SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA		wt_37		WT_37_rep3	
+SRR8697620	SRP187881							SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA				GEO accession GSM3660350 is currently private and is scheduled to be released on Mar 07, 2022.	
+SRR8697621	SRP187881							SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA				GEO accession GSM3660351 is currently private and is scheduled to be released on Mar 07, 2022.	
+SRR8697622	SRP187881							SACCHAROMYCES_CEREVISIAE	NextSeq 500 (NextSeq500)	True				SRA				GEO accession GSM3660352 is currently private and is scheduled to be released on Mar 07, 2022.	

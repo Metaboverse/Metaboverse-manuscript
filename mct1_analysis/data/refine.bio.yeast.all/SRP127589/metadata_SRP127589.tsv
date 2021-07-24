@@ -1,0 +1,27 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR6423292	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control total rna		noPap_Nab2AA_input_0_1	
+SRR6423293	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted total rna		noPap_Nab2AA_input_15_1	
+SRR6423294	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control total rna		noPap_Mex67AA_input_0_1	
+SRR6423295	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted total rna		noPap_Mex67AA_input_15_1	
+SRR6423296	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control 2'' 4tu rna		noPap_Nab2AA_ip_0_1	
+SRR6423297	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted 2'' 4tu rna		noPap_Nab2AA_ip_15_1	
+SRR6423298	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control 2'' 4tu rna		noPap_Mex67AA_ip_0_1	
+SRR6423299	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted 2'' 4tu rna		noPap_Mex67AA_ip_15_1	
+SRR6423300	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control total rna in vitro polyadenylated		xPap_Nab2AA_input_0_1	
+SRR6423301	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted total rna in vitro polyadenylated		xPap_Nab2AA_input_15_1	
+SRR6423302	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control total rna in vitro polyadenylated		xPap_Mex67AA_input_0_1	
+SRR6423303	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted total rna in vitro polyadenylated		xPap_Mex67AA_input_15_1	
+SRR6423304	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control 2'' 4tu rna in vitro polyadenylated replicate 1		xPap_Nab2AA_ip_0_1	
+SRR6423305	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control 2'' 4tu rna in vitro polyadenylated replicate 2		xPap_Nab2AA_ip_0_2	
+SRR6423306	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa control 2'' 4tu rna in vitro polyadenylated replicate 3		xPap_Nab2AA_ip_0_3	
+SRR6423307	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 1		xPap_Nab2AA_ip_15_1	
+SRR6423308	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 2		xPap_Nab2AA_ip_15_2	
+SRR6423309	SRP127589		nab2-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		nab2-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 3		xPap_Nab2AA_ip_15_3	
+SRR6423310	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control 2'' 4tu rna in vitro polyadenylated replicate 1		xPap_Mex67AA_ip_0_1	
+SRR6423311	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control 2'' 4tu rna in vitro polyadenylated replicate 2		xPap_Mex67AA_ip_0_2	
+SRR6423312	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa control 2'' 4tu rna in vitro polyadenylated replicate 3		xPap_Mex67AA_ip_0_3	
+SRR6423313	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 1		xPap_Mex67AA_ip_15_1	
+SRR6423314	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 2		xPap_Mex67AA_ip_15_2	
+SRR6423315	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		mex67-aa 15'' depleted 2'' 4tu rna in vitro polyadenylated replicate 3		xPap_Mex67AA_ip_15_3	
+SRR6423316	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		control unlabeled ip rna		noPap_Mex67AA_ip_neg	
+SRR6423317	SRP127589		mex67-aa					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		control unlabeled ip rna in vitro polyadenylated		xPap_Mex67AA_ip_neg	

@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1528570	SRP044920		imy104					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK34	
+SRR1528571	SRP044920		imy104					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK35	
+SRR1528572	SRP044920		imy104					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK36	
+SRR1528573	SRP044920		cen.pk113-7d					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK37	
+SRR1528574	SRP044920		cen.pk113-7d					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK38	
+SRR1528575	SRP044920		cen.pk113-7d					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		aerobic glucose-limited chemostat		BK39	

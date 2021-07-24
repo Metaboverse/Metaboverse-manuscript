@@ -1,0 +1,28 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2225482	SRP063022		bfr1 rna tagging strain		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	lab strain			Saccharomyces cerevisiae	
+SRR2225547	SRP063022		bfr1 rna tagging strain		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	lab strain			Saccharomyces cerevisiae	
+SRR2225548	SRP063022		bfr1 rna tagging strain		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	lab strain			Saccharomyces cerevisiae	
+SRR2225549	SRP063022		puf3 tagging strain		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				PUF3-PUP RNA Tagging strain	
+SRR2225550	SRP063022		puf3 tagging strain		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				PUF3-PUP RNA Tagging strain	
+SRR2225551	SRP063022		by4742		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA	lab strain			Wild-type BY4742 wickens lab strain	
+SRR2225552	SRP063022		by4742		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	lab strain			Wild-type BY4742 wickens lab strain	
+SRR2225553	SRP063022		by4742		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	lab strain			Wild-type BY4742 wickens lab strain	
+SRR2225554	SRP063022		by4742		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	lab strain			Wild-type BY4742 wickens lab strain	
+SRR2225555	SRP063022		by4742		lab strain			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA	lab strain			Wild-type BY4742 wickens lab strain	
+SRR5116539	SRP063022		puf4 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p RNA Tagging yeast strain	
+SRR5116540	SRP063022		puf4 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p RNA Tagging yeast strain	
+SRR5116542	SRP063022		puf4 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p RNA Tagging yeast strain	
+SRR5116543	SRP063022		puf4 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p RNA Tagging yeast strain	
+SRR5116547	SRP063022		puf5 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Saccharomyces cerevisiae	
+SRR5116548	SRP063022		puf5 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Saccharomyces cerevisiae	
+SRR5116550	SRP063022		puf5 rna tagging strain		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Saccharomyces cerevisiae	
+SRR5116551	SRP063022		puf5 rna tagging strain with pbes removed from phd1		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p RNA Tagging strain with mutant PBEs in PHD1 mRNA 3'' UTR	
+SRR5116552	SRP063022		puf5 rna tagging strain with pbes removed from phd1		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p RNA Tagging strain with mutant PBEs in PHD1 mRNA 3'' UTR	
+SRR5116554	SRP063022		puf5 rna tagging strain with pbes removed from phd1		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p RNA Tagging strain with mutant PBEs in PHD1 mRNA 3'' UTR	
+SRR5116555	SRP063022		puf4 rna tagging strain in absence of puf5		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p;KOpuf5 RNA Tagging strain	
+SRR5116556	SRP063022		puf4 rna tagging strain in absence of puf5		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p;KOpuf5 RNA Tagging strain	
+SRR5116558	SRP063022		puf4 rna tagging strain in absence of puf5		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf4p;KOpuf5 RNA Tagging strain	
+SRR5116559	SRP063022		puf5 rna tagging strain in absence of puf4		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p;KOpuf4 RNA Tagging strain	
+SRR5116560	SRP063022		puf5 rna tagging strain in absence of puf4		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p;KOpuf4 RNA Tagging strain	
+SRR5116561	SRP063022		puf5 rna tagging strain in absence of puf4		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p;KOpuf4 RNA Tagging strain	
+SRR5116562	SRP063022		puf5 rna tagging strain in absence of puf4		log phase culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Puf5p;KOpuf4 RNA Tagging strain	

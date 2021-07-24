@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5000465	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_polyA_exp1_rep1	
+SRR5000466	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_polyA_exp1_rep2	
+SRR5000467	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_polyA_exp1_rep1	
+SRR5000468	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_polyA_exp1_rep2	
+SRR5000469	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_polyA_exp2_rep1	
+SRR5000470	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_polyA_exp2_rep2	
+SRR5000471	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_polyA_exp2_rep1	
+SRR5000472	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_polyA_exp2_rep2	
+SRR5000473	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_rRNA-depl_exp2_rep1	
+SRR5000474	SRP092767		yfr972					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		SPT6 WT_rRNA-depl_exp2_rep2	
+SRR5000475	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_rRNA-depl_exp2_rep1	
+SRR5000476	SRP092767		yfr974					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		frozen yeast cells		spt6-1004_rRNA-depl_exp2_rep2	

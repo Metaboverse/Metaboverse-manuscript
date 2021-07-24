@@ -1,0 +1,8 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR953535	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4741		BY4741	
+SRR953536	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		rrp6		Rrp6	
+SRR953537	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		prp40		Prp40	
+SRR953538	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		smd1_tap		SmD1_TAP_1	
+SRR953539	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		control		Control_1	
+SRR953540	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		smd1_tap		SmD1_TAP_2	
+SRR953541	SRP028893							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		control		Control_2	

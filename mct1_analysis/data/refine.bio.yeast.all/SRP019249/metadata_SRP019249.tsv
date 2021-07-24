@@ -1,0 +1,5 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR771542	SRP019249				drn1-tap clip-seq			SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		s. cerevisiae		Drn1-TAP CLIP-seq replicate 1	
+SRR771543	SRP019249				drn1-tap clip-seq			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae		Drn1-TAP CLIP-seq replicate 2	
+SRR771544	SRP019249				dbr1-tap clip-seq			SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		s. cerevisiae		Dbr1-TAP CLIP-seq replicate 1	
+SRR771545	SRP019249				dbr1-tap clip-seq			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae		Dbr1-TAP CLIP-seq replicate 2	

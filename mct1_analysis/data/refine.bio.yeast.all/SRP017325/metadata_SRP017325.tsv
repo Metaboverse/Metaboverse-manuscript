@@ -1,0 +1,19 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR620390	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 1	
+SRR620391	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 2	
+SRR620392	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 3	
+SRR620393	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 4	
+SRR620394	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 5	
+SRR620395	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		Wild-type, Replicate 6	
+SRR620396	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal067c heterozygous diploid, Replicate 1	
+SRR620397	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal067c heterozygous diploid, Replicate 2	
+SRR620398	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal067c heterozygous diploid, Replicate 3	
+SRR620399	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal031c heterozygous diploid, Replicate 1	
+SRR620400	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal031c heterozygous diploid, Replicate 2	
+SRR620401	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal031c heterozygous diploid, Replicate 3	
+SRR620402	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal022c heterozygous diploid, Replicate 1	
+SRR620403	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal022c heterozygous diploid, Replicate 2	
+SRR620404	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal022c heterozygous diploid, Replicate 3	
+SRR620405	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal008w heterozygous diploid, Replicate 1	
+SRR620406	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal008w heterozygous diploid, Replicate 2	
+SRR620407	SRP017325							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast mrna extract		yal008w heterozygous diploid, Replicate 3	

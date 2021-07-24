@@ -1,0 +1,46 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5228950	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t0, replicate 1	
+SRR5228951	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t0, replicate 2	
+SRR5228952	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t0, replicate 2	
+SRR5228953	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t0, replicate 1	
+SRR5228954	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t0, replicate 1	
+SRR5228955	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t0, replicate 2	
+SRR5228956	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t0, replicate 2	
+SRR5228957	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t0, replicate 1	
+SRR5228958	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t0, replicate 1	
+SRR5228959	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t0, replicate 2	
+SRR5228960	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t0, replicate 2	
+SRR5228961	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t0, replicate 1	
+SRR5228962	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t0, replicate 1	
+SRR5228963	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t0, replicate 2	
+SRR5228964	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t0, replicate 2	
+SRR5228965	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t10, replicate 1	
+SRR5228966	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t10, replicate 1	
+SRR5228967	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t10, replicate 2	
+SRR5228968	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t10, replicate 2	
+SRR5228969	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t10, replicate 1	
+SRR5228970	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t10, replicate 1	
+SRR5228971	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t10, replicate 2	
+SRR5228972	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t10, replicate 2	
+SRR5228973	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t10, replicate 1	
+SRR5228974	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t10, replicate 1	
+SRR5228975	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t10, replicate 2	
+SRR5228976	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t10, replicate 2	
+SRR5228977	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t10, replicate 1	
+SRR5228978	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t10, replicate 1	
+SRR5228979	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t10, replicate 2	
+SRR5228980	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t10, replicate 2	
+SRR5228981	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t20, replicate 1	
+SRR5228982	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t20, replicate 1	
+SRR5228983	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t20, replicate 2	
+SRR5228984	SRP098827		wt					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		wild type strain, t20, replicate 2	
+SRR5228985	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t20, replicate 1	
+SRR5228986	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t20, replicate 1	
+SRR5228987	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t20, replicate 2	
+SRR5228988	SRP098827		strain 1 (ypd1 m20d/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 1, t20, replicate 2	
+SRR5228989	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t20, replicate 1	
+SRR5228990	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t20, replicate 1	
+SRR5228992	SRP098827		strain 2 (ypd1 m20d, m92k/ sln1 e1101k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 2, t20, replicate 2	
+SRR5228993	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t20, replicate 1	
+SRR5228995	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t20, replicate 2	
+SRR5228996	SRP098827		strain 3 (ypd1 i13d/ sln1 e1101k, l1109k, e1110k, s1179d)					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		whole cell		Mutated strain 3, t20, replicate 2	

@@ -1,0 +1,107 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR364535	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0 hr Replicate 1	
+SRR364536	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0 hr Replicate 2	
+SRR364537	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0 hr Replicate 3	
+SRR364538	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0 hr Replicate 4	
+SRR364539	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0.5 hr Replicate 1	
+SRR364540	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0.5 hr Replicate 2	
+SRR364541	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0.5 hr Replicate 3	
+SRR364542	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 0.5 hr Replicate 4	
+SRR364543	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 1.5 hr Replicate 1	
+SRR364544	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 1.5 hr Replicate 2	
+SRR364545	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 1.5 hr Replicate 3	
+SRR364546	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 3 hr Replicate 1	
+SRR364547	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 3 hr Replicate 2	
+SRR364548	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 3 hr Replicate 3	
+SRR364549	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 3 hr Replicate 4	
+SRR364550	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 6 hr Replicate 1	
+SRR364551	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 6 hr Replicate 2	
+SRR364552	SRP009362		jmw007					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type strain		WT(JMW007) 6 hr Replicate 3	
+SRR364553	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 1	
+SRR364554	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 2	
+SRR364555	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 3	
+SRR364556	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 4	
+SRR364557	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 5	
+SRR364558	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 6	
+SRR364559	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 0 hr Replicate 7	
+SRR364560	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 1.5 hr Replicate 1	
+SRR364561	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 1.5 hr Replicate 2	
+SRR364562	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 1.5 hr Replicate 3	
+SRR364563	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 1	
+SRR364564	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 2	
+SRR364565	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 3	
+SRR364566	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 4	
+SRR364567	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 5	
+SRR364568	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 6	
+SRR364569	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 3 hr Replicate 7	
+SRR364570	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 6 hr Replicate 1	
+SRR364571	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 6 hr Replicate 2	
+SRR364572	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 6 hr Replicate 3	
+SRR364574	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 6 hr Replicate 5	
+SRR364575	SRP009362		jmw119					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain		trm44del tan1del (JMW119) 6 hr Replicate 6	
+SRR364576	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 1	
+SRR364577	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 2	
+SRR364578	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 3	
+SRR364579	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 4	
+SRR364580	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 5	
+SRR364581	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 6	
+SRR364582	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 0 hr Replicate 7	
+SRR364583	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 1.5 hr Replicate 1	
+SRR364584	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 1.5 hr Replicate 2	
+SRR364585	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 1.5 hr Replicate 3	
+SRR364586	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 1	
+SRR364587	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 2	
+SRR364588	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 3	
+SRR364589	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 4	
+SRR364590	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 5	
+SRR364591	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 6	
+SRR364592	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 3 hr Replicate 7	
+SRR364594	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 6 hr Replicate 2	
+SRR364595	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 6 hr Replicate 3	
+SRR364596	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 6 hr Replicate 4	
+SRR364597	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 6 hr Replicate 5	
+SRR364598	SRP009362		ly1729					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 met22 deletion strain		trm44del tan1del met22del (LY1729) 6 hr Replicate 6	
+SRR364599	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 0 hr Replicate 1	
+SRR364600	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 0 hr Replicate 2	
+SRR364601	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 0 hr Replicate 3	
+SRR364602	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 3 hr Replicate 1	
+SRR364603	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 3 hr Replicate 2	
+SRR364604	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 3 hr Replicate 3	
+SRR364605	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 6 hr Replicate 1	
+SRR364606	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 6 hr Replicate 2	
+SRR364607	SRP009362		isc850					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 xrn1 deletion strain		trm44del tan1del xrn1del (ISC850) 6 hr Replicate 3	
+SRR364609	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0 hr Replicate 2	
+SRR364610	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0 hr Replicate 3	
+SRR364611	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0 hr Replicate 4	
+SRR364612	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0.1 hr Replicate 1	
+SRR364613	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0.1 hr Replicate 2	
+SRR364614	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0.1 hr Replicate 3	
+SRR364615	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0.1 hr Replicate 4	
+SRR364619	SRP009362		jmw009					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm8 trm4 deletion strain		trm8del trm4del (JMW009) 0.5 hr Replicate 4	
+SRR364620	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 0 hr Replicate 1	
+SRR364621	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 0 hr Replicate 2	
+SRR364622	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 0 hr Replicate 3	
+SRR364623	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 3 hr Replicate 1	
+SRR364624	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 3 hr Replicate 2	
+SRR364626	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 6 hr Replicate 1	
+SRR364628	SRP009362		jmw510					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		met22 deletion strain		met22del (JMW510) 6 hr Replicate 3	
+SRR364630	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 0 hr Replicate 2	
+SRR364631	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 0 hr Replicate 3	
+SRR364632	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 3 hr Replicate 1	
+SRR364633	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 3 hr Replicate 2	
+SRR364635	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 6 hr Replicate 1	
+SRR364637	SRP009362		isc725					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		xrn1 deletion strain		xrn1del (ISC725) 6 hr Replicate 3	
+SRR364638	SRP009362		jmw1251					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 c6:g67 g2:c71 mutant		trm44del tan1del tRNASer(CGA) G51:C63 C6:G67 G2:C71 (JMW1251) 0 hr Replicate 1	
+SRR364639	SRP009362		jmw1251					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 c6:g67 g2:c71 mutant		trm44del tan1del tRNASer(CGA) G51:C63 C6:G67 G2:C71 (JMW1251) 0 hr Replicate 2	
+SRR364640	SRP009362		jmw1251					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 c6:g67 g2:c71 mutant		trm44del tan1del tRNASer(CGA) G51:C63 C6:G67 G2:C71 (JMW1251) 0 hr Replicate 3	
+SRR364645	SRP009362		jmw316					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 mutant		trm44del tan1del tRNASer(CGA) G51:C63 (JMW316) 0 hr Replicate 2	
+SRR364646	SRP009362		jmw316					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 mutant		trm44del tan1del tRNASer(CGA) G51:C63 (JMW316) 0 hr Replicate 3	
+SRR364647	SRP009362		jmw316					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 mutant		trm44del tan1del tRNASer(CGA) G51:C63 (JMW316) 6 hr Replicate 1	
+SRR364648	SRP009362		jmw316					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 mutant		trm44del tan1del tRNASer(CGA) G51:C63 (JMW316) 6 hr Replicate 2	
+SRR364649	SRP009362		jmw316					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) g51:c63 mutant		trm44del tan1del tRNASer(CGA) G51:C63 (JMW316) 6 hr Replicate 3	
+SRR364650	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 0 hr Replicate 1	
+SRR364651	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 0 hr Replicate 2	
+SRR364652	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 0 hr Replicate 3	
+SRR364653	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 6 hr Replicate 1	
+SRR364654	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 6 hr Replicate 2	
+SRR364655	SRP009362		jmw561					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		trm44 tan1 deletion strain containing trnaser(cga) u6:a67 mutant		trm44del tan1del tRNASer(CGA) U6:A67 (JMW561) 6 hr Replicate 3	

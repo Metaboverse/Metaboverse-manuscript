@@ -1,0 +1,25 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR788070	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT Ribosome Footprint 1	
+SRR788071	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT Ribosome Footprint 2	
+SRR788072	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg269		Δncs6 Ribosome Footprint 1	
+SRR788073	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg385		Δncs6 Ribosome Footprint 2	
+SRR788074	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 Ribosome Footprint 1	
+SRR788075	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 Ribosome Footprint 2	
+SRR788076	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg382		Δelp3 Ribosome Footprint	
+SRR788077	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg386		Δncs2 Ribosome Footprint	
+SRR788078	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT RNA-seq 1	
+SRR788079	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT RNA-seq 2	
+SRR788080	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg269		Δncs6 RNA-seq 1	
+SRR788081	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg385		Δncs6 RNA-seq 2	
+SRR788082	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 RNA-seq 1	
+SRR788083	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 RNA-seq 2	
+SRR788084	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg382		Δelp3 RNA-seq	
+SRR788085	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg386		Δncs2 RNA-seq	
+SRR788086	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT RNA-seq 1 repeat	
+SRR788087	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg11		WT RNA-seq 2 repeat	
+SRR788088	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg269		Δncs6 RNA-seq 1 repeat	
+SRR788089	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg385		Δncs6 RNA-seq 2 repeat	
+SRR788090	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 RNA-seq 1 repeat	
+SRR788091	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg271		Δuba4 RNA-seq 2 repeat	
+SRR788092	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg382		Δelp3 RNA-seq repeat	
+SRR788093	SRP019833		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		ywg386		Δncs2 RNA-seq repeat	

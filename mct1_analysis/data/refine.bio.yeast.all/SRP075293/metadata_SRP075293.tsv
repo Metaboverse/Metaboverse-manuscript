@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR3537138	SRP075293		hky36/381 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky36/hky381		36EV1US (No tag control 25°C)	
+SRR3537139	SRP075293		hky36/381 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky36/hky381		36EV2US (No tag control 25°C)	
+SRR3537140	SRP075293		hky157 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky157		157EV1US (Npl3 IP 25°C)	
+SRR3537141	SRP075293		hky157 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky157		157EV2US (Npl3 IP 25°C)	
+SRR3537142	SRP075293		hky1266 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky1266		1266EV1US (Mex67 IP 25°C)	
+SRR3537143	SRP075293		hky1266 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky1266		1266EV2US (Mex67 IP 25C)	
+SRR3537144	SRP075293		hky36/381 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky36/hky381		36EV1S (No tag control (42°C)	
+SRR3537145	SRP075293		hky36/381 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky36/hky381		36EV2S (No tag control (42°C)	
+SRR3537146	SRP075293		hky157 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky157		157EV1S (Npl3 IP 42°C)	
+SRR3537147	SRP075293		hky157 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky157		157EV2S (Npl3 IP 42°C)	
+SRR3537148	SRP075293		hky1266 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky1266		1266EV1S (Mex67 IP 42°C)	
+SRR3537149	SRP075293		hky1266 cell lysate					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		hky1266		1266EV2S (Mex67 IP 42°C)	

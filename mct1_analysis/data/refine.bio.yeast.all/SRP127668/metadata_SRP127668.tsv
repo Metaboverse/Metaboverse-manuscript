@@ -1,0 +1,25 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR6426322	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep1	
+SRR6426323	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep1	
+SRR6426324	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep2	
+SRR6426325	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep2	
+SRR6426326	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep3	
+SRR6426327	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep3	
+SRR6426328	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep4	
+SRR6426329	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		WT rep4	
+SRR6426330	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep1	
+SRR6426331	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep1	
+SRR6426332	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep2	
+SRR6426333	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep2	
+SRR6426334	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep3	
+SRR6426335	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep3	
+SRR6426336	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep4	
+SRR6426337	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg1Δ rep4	
+SRR6426338	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep1	
+SRR6426339	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep1	
+SRR6426340	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep2	
+SRR6426341	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep2	
+SRR6426342	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep3	
+SRR6426343	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep3	
+SRR6426344	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep4	
+SRR6426345	SRP127668		by4743					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cell pellet		atg41Δ rep4	

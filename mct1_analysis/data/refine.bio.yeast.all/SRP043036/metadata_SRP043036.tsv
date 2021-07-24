@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1363412	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		untreated		Untreated replicate 1	untreated
+SRR1363413	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		untreated		Untreated replicate 2	untreated
+SRR1363414	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		untreated		Untreated replicate 3	untreated
+SRR1363415	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cycloheximide		Cycloheximide replicate 1	cycloheximide
+SRR1363416	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		cycloheximide		Cycloheximide replicate 2	cycloheximide
+SRR1363417	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		anisomycin		Anisomycin replicate 1A	anisomycin
+SRR1363418	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		anisomycin		Anisomycin replicate 1B	anisomycin
+SRR1363419	SRP043036		by4741					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		anisomycin		Anisomycin replicate 2	anisomycin
+SRR1363420	SRP043036		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		3-at treatment, 10 min		3-AT treatment, 10 min	3-aminotriazole
+SRR1363421	SRP043036		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		3-at treatment, 10 min		3-AT treatment, 10 min	3-aminotriazole
+SRR1363422	SRP043036		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		3-at treatment, 60 min		3-AT treatment, 60 min	3-aminotriazole
+SRR1363423	SRP043036		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		3-at treatment, 60 min		3-AT treatment, 60 min	3-aminotriazole

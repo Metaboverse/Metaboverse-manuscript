@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR7241897	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute no_drug_NO_DMS, DMSMaP-seq	
+SRR7241898	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute no_drug_40mM_DMS, DMSMaP-seq	
+SRR7241899	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute no_drug_90mM_DMS, DMSMaP-seq	
+SRR7241900	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute TIG_NO_DMS, DMSMaP-seq	
+SRR7241901	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute TIG_40mM_DMS, DMSMaP-seq	
+SRR7241902	SRP149444							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		lysate dilute TIG_90mM_DMS, DMSMaP-seq	

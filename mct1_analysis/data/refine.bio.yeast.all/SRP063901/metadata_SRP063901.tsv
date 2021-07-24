@@ -1,0 +1,12 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2467141	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		EV RNA-seq 1	
+SRR2467142	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		EV RNA-seq 2	
+SRR2467143	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		EV RNA-seq 3	
+SRR2467144	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		EV RNA-seq 4	
+SRR2467145	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		WT Puf2p RNA-seq 1	
+SRR2467146	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		WT Puf2p RNA-seq 2	
+SRR2467147	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		WT Puf2p RNA-seq 3	
+SRR2467148	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		R1 SNE Puf2p RNA-seq 1	
+SRR2467149	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		R1 SNE Puf2p RNA-seq 2	
+SRR2467150	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		R1 SNE Puf2p RNA-seq 3	
+SRR2467151	SRP063901		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by4742 puf2 null mutants		R1 SNE Puf2p RNA-seq 4	

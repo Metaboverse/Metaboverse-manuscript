@@ -1,0 +1,25 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR039244	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_01		Hybrid_cDNASeq_01	
+SRR039245	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_02		Hybrid_cDNASeq_02	
+SRR039246	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_03		Hybrid_cDNASeq_03	
+SRR039247	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_04		Hybrid_cDNASeq_04	
+SRR039248	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_05		Hybrid_cDNASeq_05	
+SRR039249	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_06		Hybrid_cDNASeq_06	
+SRR039250	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_07		Hybrid_cDNASeq_07	
+SRR039251	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_08		Hybrid_cDNASeq_08	
+SRR039252	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_09		Hybrid_cDNASeq_09	
+SRR039253	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_10		Hybrid_cDNASeq_10	
+SRR039254	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_11		Hybrid_cDNASeq_11	
+SRR039255	SRP002237		by4741xrm11-1alpha					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		hybrid_cdnaseq_12		Hybrid_cDNASeq_12	
+SRR039256	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_01		Co-culture_cDNASeq_01	
+SRR039257	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_02		Co-culture_cDNASeq_02	
+SRR039258	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_03		Co-culture_cDNASeq_03	
+SRR039259	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_04		Co-culture_cDNASeq_04	
+SRR039260	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_05		Co-culture_cDNASeq_05	
+SRR039261	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_06		Co-culture_cDNASeq_06	
+SRR039262	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_07		Co-culture_cDNASeq_07	
+SRR039263	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_08		Co-culture_cDNASeq_08	
+SRR039264	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_09		Co-culture_cDNASeq_09	
+SRR039265	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_10		Co-culture_cDNASeq_10	
+SRR039266	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_11		Co-culture_cDNASeq_11	
+SRR039267	SRP002237							SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer (IlluminaGenomeAnalyzer)	True				SRA		co-culture_cdnaseq_12		Co-culture_cDNASeq_12	

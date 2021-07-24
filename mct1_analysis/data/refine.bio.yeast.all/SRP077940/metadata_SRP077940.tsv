@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR3744656	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, ypl	before medium switch	WT_YPL_rep1	
+SRR3744657	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, sl, 1h	1h after medium switch	WT_SL_1h_rep1	
+SRR3744658	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, sl, 3h	3h after medium switch	WT_SL_3h_rep1	
+SRR3744659	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, ypl	before medium switch	cho2_YPL_rep1	
+SRR3744660	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, sl, 1h	1h after medium switch	cho2_SL_1h_rep1	
+SRR3744661	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, sl, 3h	3h after medium switch	cho2_SL_3h_rep1	
+SRR3744662	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, ypl	before medium switch	WT_YPL_rep2	
+SRR3744663	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, sl, 1h	1h after medium switch	WT_SL_1h_rep2	
+SRR3744664	SRP077940		cen.pk, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, wt, sl, 3h	3h after medium switch	WT_SL_3h_rep2	
+SRR3744665	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, ypl	before medium switch	cho2_YPL_rep2	
+SRR3744666	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, sl, 1h	1h after medium switch	cho2_SL_1h_rep2	
+SRR3744667	SRP077940		cen.pk, cho2-delta::kanmx, mat a					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells, cho2-delta, sl, 3h	3h after medium switch	cho2_SL_3h_rep2	

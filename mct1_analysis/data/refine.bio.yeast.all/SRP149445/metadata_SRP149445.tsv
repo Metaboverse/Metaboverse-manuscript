@@ -1,0 +1,8 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR7241903	SRP149445		ycw30					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		WT_CHX1	
+SRR7241904	SRP149445		ycw30					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		WT_CHX2	
+SRR7241905	SRP149445		ycw19					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		3AT_CHX	
+SRR7241907	SRP149445		wild-type					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		vector_CHX	
+SRR7241908	SRP149445		ykw13					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		eRF1 depletion CHX replicate 1	
+SRR7241909	SRP149445		ykw13					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		eRF1 depletion CHX replicate 2	
+SRR8093860	SRP149445		ycw19					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		whole cells		3AT_CHX2	

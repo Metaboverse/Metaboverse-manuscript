@@ -1,0 +1,619 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+ERR1157525	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 0	
+ERR1157526	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 105	
+ERR1157527	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 111	
+ERR1157529	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 12	
+ERR1157530	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 123	
+ERR1157531	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 129	
+ERR1157532	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 135	
+ERR1157533	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 15	
+ERR1157534	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 18	
+ERR1157535	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 21	
+ERR1157537	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 27	
+ERR1157538	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 3	
+ERR1157539	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 30	
+ERR1157540	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 33	
+ERR1157541	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 36	
+ERR1157542	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 39	
+ERR1157543	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 45	
+ERR1157544	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 51	
+ERR1157545	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 57	
+ERR1157546	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 6	
+ERR1157547	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 63	
+ERR1157548	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 69	
+ERR1157549	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 75	
+ERR1157550	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 81	
+ERR1157551	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 87	
+ERR1157552	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 9	
+ERR1157553	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 93	
+ERR1157554	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 99	
+ERR1157555	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 sync	
+ERR1157556	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 sync hydroxyurea HU synchcronized	
+ERR1157557	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 asf1?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dasf1 sync hydroxyurea YPD	
+ERR1157558	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 0	
+ERR1157559	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 0	
+ERR1157560	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 105	
+ERR1157561	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 105	
+ERR1157562	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 111	
+ERR1157563	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 111	
+ERR1157564	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 117	
+ERR1157565	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 117	
+ERR1157566	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 12	
+ERR1157567	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 12	
+ERR1157568	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 123	
+ERR1157569	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 123	
+ERR1157570	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 129	
+ERR1157571	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 129	
+ERR1157572	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 135	
+ERR1157573	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 135	
+ERR1157574	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 15	
+ERR1157575	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 15	
+ERR1157576	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 18	
+ERR1157577	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 18	
+ERR1157578	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 21	
+ERR1157579	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 21	
+ERR1157580	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 24	
+ERR1157581	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 24	
+ERR1157582	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 27	
+ERR1157583	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 27	
+ERR1157584	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 3	
+ERR1157585	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 3	
+ERR1157586	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 30	
+ERR1157587	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 30	
+ERR1157588	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 33	
+ERR1157589	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 33	
+ERR1157590	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 36	
+ERR1157591	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 36	
+ERR1157592	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 39	
+ERR1157593	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 39	
+ERR1157594	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 45	
+ERR1157595	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 45	
+ERR1157596	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 51	
+ERR1157597	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 51	
+ERR1157598	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 57	
+ERR1157599	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 57	
+ERR1157600	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 6	
+ERR1157601	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 6	
+ERR1157602	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 63	
+ERR1157603	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 63	
+ERR1157604	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 69	
+ERR1157605	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 69	
+ERR1157606	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 75	
+ERR1157607	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 75	
+ERR1157608	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 81	
+ERR1157609	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 81	
+ERR1157610	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 87	
+ERR1157611	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 87	
+ERR1157612	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 9	
+ERR1157613	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 9	
+ERR1157614	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 93	
+ERR1157615	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 93	
+ERR1157616	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 99	
+ERR1157617	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 99	
+ERR1157618	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 sync	
+ERR1157619	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 gcn5?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dgcn5 sync	
+ERR1157620	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 0	
+ERR1157621	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 12	
+ERR1157622	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 15	
+ERR1157623	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 18	
+ERR1157624	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 21	
+ERR1157625	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 24	
+ERR1157626	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 27	
+ERR1157627	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 3	
+ERR1157628	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 30	
+ERR1157629	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 33	
+ERR1157630	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 33	
+ERR1157631	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 36	
+ERR1157632	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 39	
+ERR1157633	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 6	
+ERR1157634	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) 9	
+ERR1157635	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 (DNA content experiment) sync	
+ERR1157636	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 0	
+ERR1157637	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 10	
+ERR1157638	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 12	
+ERR1157639	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 14	
+ERR1157640	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 16	
+ERR1157641	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 18	
+ERR1157642	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 2	
+ERR1157643	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 20	
+ERR1157644	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 22	
+ERR1157645	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 24	
+ERR1157646	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 26	
+ERR1157647	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 28	
+ERR1157648	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 30	
+ERR1157649	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 32	
+ERR1157650	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 34	
+ERR1157651	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 36	
+ERR1157652	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 38	
+ERR1157653	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4	
+ERR1157654	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 40	
+ERR1157655	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 42	
+ERR1157656	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 44	
+ERR1157657	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 46	
+ERR1157658	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 48	
+ERR1157659	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 0	
+ERR1157660	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 0	
+ERR1157661	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 12	
+ERR1157662	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 12	
+ERR1157663	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 18	
+ERR1157664	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 18	
+ERR1157665	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157666	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157667	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157668	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157669	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157670	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157671	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157672	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157673	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157674	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 24	
+ERR1157675	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 30	
+ERR1157676	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 30	
+ERR1157677	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 30	
+ERR1157678	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 36	
+ERR1157679	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 36	
+ERR1157680	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 42	
+ERR1157681	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 42	
+ERR1157682	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 48	
+ERR1157683	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 48	
+ERR1157684	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 48	
+ERR1157685	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su 6	
+ERR1157686	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su sync	
+ERR1157687	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 4su sync	
+ERR1157688	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 50	
+ERR1157689	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 52	
+ERR1157690	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 54	
+ERR1157691	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 56	
+ERR1157692	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 58	
+ERR1157693	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 6	
+ERR1157694	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 60	
+ERR1157695	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 8	
+ERR1157696	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 0	
+ERR1157697	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 0	
+ERR1157698	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 105	
+ERR1157699	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 105	
+ERR1157700	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 111	
+ERR1157701	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 111	
+ERR1157702	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 117	
+ERR1157703	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 117	
+ERR1157704	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 12	
+ERR1157705	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 12	
+ERR1157706	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 123	
+ERR1157707	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 123	
+ERR1157708	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 129	
+ERR1157709	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 129	
+ERR1157710	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 135	
+ERR1157711	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 135	
+ERR1157712	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 15	
+ERR1157713	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 15	
+ERR1157714	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 18	
+ERR1157715	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 18	
+ERR1157716	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 21	
+ERR1157717	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 21	
+ERR1157718	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 24	
+ERR1157719	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 24	
+ERR1157720	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 27	
+ERR1157721	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 27	
+ERR1157722	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 3	
+ERR1157723	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 3	
+ERR1157724	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 30	
+ERR1157725	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 30	
+ERR1157726	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 33	
+ERR1157727	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 33	
+ERR1157728	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 36	
+ERR1157729	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 36	
+ERR1157730	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 39	
+ERR1157731	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 39	
+ERR1157732	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 45	
+ERR1157733	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 45	
+ERR1157734	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 51	
+ERR1157735	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 51	
+ERR1157736	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 57	
+ERR1157737	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 57	
+ERR1157738	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 6	
+ERR1157739	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 6	
+ERR1157740	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 63	
+ERR1157741	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 63	
+ERR1157742	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 69	
+ERR1157743	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 69	
+ERR1157744	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 75	
+ERR1157745	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 75	
+ERR1157746	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 81	
+ERR1157747	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 81	
+ERR1157748	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 87	
+ERR1157749	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 87	
+ERR1157750	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 9	
+ERR1157751	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 9	
+ERR1157752	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 93	
+ERR1157753	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 93	
+ERR1157754	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 99	
+ERR1157755	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat 99	
+ERR1157756	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat sync	
+ERR1157757	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 repeat sync	
+ERR1157759	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 sync hydroxyurea HU synchcronized	
+ERR1157760	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 sync hydroxyurea YPD	
+ERR1157761	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 0	
+ERR1157762	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 0	
+ERR1157763	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 12	
+ERR1157764	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 12	
+ERR1157765	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 18	
+ERR1157766	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 18	
+ERR1157768	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 24	
+ERR1157769	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 30	
+ERR1157770	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 30	
+ERR1157771	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 36	
+ERR1157772	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 36	
+ERR1157773	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 42	
+ERR1157774	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 48	
+ERR1157775	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) 6	
+ERR1157776	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109 total (synthesis rate experiment) sync	
+ERR1157777	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 0	
+ERR1157779	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 111	
+ERR1157782	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 123	
+ERR1157783	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 129	
+ERR1157784	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 135	
+ERR1157785	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 15	
+ERR1157787	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 21	
+ERR1157788	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 24	
+ERR1157789	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 27	
+ERR1157790	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 3	
+ERR1157791	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 30	
+ERR1157793	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 36	
+ERR1157794	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 39	
+ERR1157795	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 45	
+ERR1157796	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 51	
+ERR1157797	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 57	
+ERR1157798	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 6	
+ERR1157799	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 63	
+ERR1157800	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 69	
+ERR1157801	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 75	
+ERR1157802	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 81	
+ERR1157804	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 9	
+ERR1157805	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 93	
+ERR1157807	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, asf1?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dasf1 sync	
+ERR1157808	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 0	
+ERR1157809	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 105	
+ERR1157810	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 111	
+ERR1157811	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 117	
+ERR1157812	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 12	
+ERR1157814	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 129	
+ERR1157815	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 135	
+ERR1157816	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 15	
+ERR1157817	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 18	
+ERR1157818	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 21	
+ERR1157820	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 27	
+ERR1157821	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 3	
+ERR1157822	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 30	
+ERR1157823	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 33	
+ERR1157826	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 39	
+ERR1157828	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 45	
+ERR1157829	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 51	
+ERR1157830	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 57	
+ERR1157832	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 63	
+ERR1157833	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 69	
+ERR1157834	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 75	
+ERR1157835	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 75	
+ERR1157836	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 75	
+ERR1157837	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 75	
+ERR1157838	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 81	
+ERR1157839	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 87	
+ERR1157840	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 9	
+ERR1157842	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 99	
+ERR1157843	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 rtt109?0::kanmx4, tos4?0::hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Drtt109+Dtos4 sync	
+ERR1157844	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 0	
+ERR1157845	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 105	
+ERR1157846	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 111	
+ERR1157848	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 12	
+ERR1157849	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 123	
+ERR1157850	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 129	
+ERR1157851	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 135	
+ERR1157852	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 15	
+ERR1157853	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 18	
+ERR1157854	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 21	
+ERR1157855	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 24	
+ERR1157857	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 3	
+ERR1157859	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 33	
+ERR1157860	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 36	
+ERR1157861	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 39	
+ERR1157862	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 45	
+ERR1157863	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 51	
+ERR1157864	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 57	
+ERR1157865	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 6	
+ERR1157866	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 63	
+ERR1157867	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 69	
+ERR1157868	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 75	
+ERR1157869	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 81	
+ERR1157870	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 87	
+ERR1157871	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 9	
+ERR1157872	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 93	
+ERR1157873	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 99	
+ERR1157874	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 sync	
+ERR1157875	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 tos4?0::kanmx4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Dtos4 sync hydroxyurea HU synchcronized	
+ERR1157877	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56A  sync hydroxyurea HU synchcronized	
+ERR1157878	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56A  sync hydroxyurea YPD	
+ERR1157880	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56A sync hydroxyurea repeat YPD	
+ERR1157881	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56Q sync hydroxyurea HU synchcronized	
+ERR1157883	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56Q sync hydroxyurea repeat YPD	
+ERR1157884	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k56q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K56Q sync hydroxyurea YPD	
+ERR1157885	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9A sync hydroxyurea HU synchcronized	
+ERR1157886	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9A sync hydroxyurea repeat HU synchcronized	
+ERR1157887	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9A sync hydroxyurea repeat YPD	
+ERR1157888	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9a-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9A sync hydroxyurea YPD	
+ERR1157889	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9Q sync hydroxyurea HU synchcronized	
+ERR1157890	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9Q sync hydroxyurea repeat HU synchcronized	
+ERR1157891	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9Q sync hydroxyurea repeat YPD	
+ERR1157892	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts-k9q-hhfs]*-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				H3K9Q sync hydroxyurea YPD	
+ERR1157893	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 0	
+ERR1157894	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 105	
+ERR1157895	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 111	
+ERR1157896	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 117	
+ERR1157897	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 12	
+ERR1157898	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 123	
+ERR1157899	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 129	
+ERR1157900	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 135	
+ERR1157901	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 135	
+ERR1157902	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 15	
+ERR1157903	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 18	
+ERR1157904	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 21	
+ERR1157905	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 24	
+ERR1157906	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 27	
+ERR1157907	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 3	
+ERR1157908	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 30	
+ERR1157909	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 33	
+ERR1157910	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 36	
+ERR1157911	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 39	
+ERR1157912	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 45	
+ERR1157913	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 51	
+ERR1157914	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 57	
+ERR1157915	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 6	
+ERR1157916	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 63	
+ERR1157917	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 69	
+ERR1157918	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 75	
+ERR1157919	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 81	
+ERR1157920	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 87	
+ERR1157921	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 9	
+ERR1157922	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 93	
+ERR1157923	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE 99	
+ERR1157924	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst3::nat-ptdh3-hst3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst3-OE sync	
+ERR1157925	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 0	
+ERR1157926	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 105	
+ERR1157927	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 111	
+ERR1157928	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 117	
+ERR1157929	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 12	
+ERR1157930	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 123	
+ERR1157931	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 129	
+ERR1157932	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 135	
+ERR1157933	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 15	
+ERR1157934	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 18	
+ERR1157936	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 24	
+ERR1157937	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 27	
+ERR1157938	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 3	
+ERR1157939	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 30	
+ERR1157940	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 33	
+ERR1157941	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 36	
+ERR1157942	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 39	
+ERR1157943	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 45	
+ERR1157944	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 51	
+ERR1157945	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 57	
+ERR1157946	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 6	
+ERR1157947	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 63	
+ERR1157948	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 69	
+ERR1157949	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 75	
+ERR1157950	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 75	
+ERR1157951	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 81	
+ERR1157952	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 87	
+ERR1157953	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 9	
+ERR1157954	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 93	
+ERR1157955	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE 99	
+ERR1157956	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0 hst4::kanmx-ptdh3-hst4					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				Hst4-OE sync	
+ERR1157957	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (0) 0	
+ERR1157958	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 0	
+ERR1157959	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 10	
+ERR1157960	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 20	
+ERR1157961	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 30	
+ERR1157962	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 40	
+ERR1157963	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 50	
+ERR1157964	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 60	
+ERR1157965	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 70	
+ERR1157966	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 80	
+ERR1157967	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (10,80) 90	
+ERR1157968	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 0	
+ERR1157969	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 10	
+ERR1157971	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 20	
+ERR1157972	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 30	
+ERR1157973	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 40	
+ERR1157974	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 5	
+ERR1157975	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 50	
+ERR1157976	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 60	
+ERR1157977	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 70	
+ERR1157978	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 80	
+ERR1157979	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (20,70) 90	
+ERR1157980	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 0	
+ERR1157981	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 10	
+ERR1157982	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 100	
+ERR1157983	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 20	
+ERR1157984	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 30	
+ERR1157985	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 40	
+ERR1157986	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 5	
+ERR1157987	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 50	
+ERR1157988	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 60	
+ERR1157989	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 70	
+ERR1157990	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (30,90) 80	
+ERR1157993	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 0	
+ERR1157994	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 10	
+ERR1157995	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 20	
+ERR1157996	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 30	
+ERR1157997	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 40	
+ERR1158000	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 70	
+ERR1158001	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 80	
+ERR1158002	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (40,90) 90	
+ERR1158003	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 0	
+ERR1158004	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 10	
+ERR1158005	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 20	
+ERR1158006	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 30	
+ERR1158007	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 40	
+ERR1158008	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 5	
+ERR1158009	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 50	
+ERR1158010	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 60	
+ERR1158011	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 70	
+ERR1158012	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 80	
+ERR1158013	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) 90	
+ERR1158014	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (5,60) sync	
+ERR1158015	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0, rpd3::rpd3-9myc-his3mx6, whi5:whi5-3ha-hph					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				HU (sync) sync	
+ERR1158016	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 12	
+ERR1158017	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 15	
+ERR1158018	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 18	
+ERR1158019	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 21	
+ERR1158020	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 24	
+ERR1158021	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 27	
+ERR1158022	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 30	
+ERR1158023	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 33	
+ERR1158024	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 36	
+ERR1158025	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 39	
+ERR1158026	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 42	
+ERR1158027	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 45	
+ERR1158028	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 6	
+ERR1158029	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 9	
+ERR1158030	ERP013410		mata ade2-1 trp1-1 his3-11,-15 ura3-1 leu2-3,-112 can1-100					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				W303 sync	
+ERR1158031	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 12	
+ERR1158032	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 15	
+ERR1158033	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 18	
+ERR1158034	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 21	
+ERR1158035	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 24	
+ERR1158036	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 27	
+ERR1158037	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 30	
+ERR1158038	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 33	
+ERR1158039	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 36	
+ERR1158040	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 39	
+ERR1158041	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) 9	
+ERR1158042	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT (DNA content experiment) sync	
+ERR1158043	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 0	
+ERR1158044	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 10	
+ERR1158045	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 12	
+ERR1158046	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 14	
+ERR1158047	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 16	
+ERR1158048	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 18	
+ERR1158049	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 2	
+ERR1158050	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 20	
+ERR1158051	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 22	
+ERR1158052	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 24	
+ERR1158054	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 28	
+ERR1158055	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 30	
+ERR1158056	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 32	
+ERR1158057	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 34	
+ERR1158058	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 36	
+ERR1158059	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 38	
+ERR1158060	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4	
+ERR1158061	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 40	
+ERR1158062	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 42	
+ERR1158063	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 44	
+ERR1158064	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 46	
+ERR1158065	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 48	
+ERR1158066	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 0	
+ERR1158067	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 0	
+ERR1158068	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 0	
+ERR1158069	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 0	
+ERR1158070	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 12	
+ERR1158071	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 12	
+ERR1158072	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 12	
+ERR1158073	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 18	
+ERR1158074	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 18	
+ERR1158075	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 18	
+ERR1158076	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 18	
+ERR1158077	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 24	
+ERR1158078	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 24	
+ERR1158079	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 24	
+ERR1158080	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 24	
+ERR1158081	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 30	
+ERR1158082	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 30	
+ERR1158084	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 30	
+ERR1158086	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 36	
+ERR1158087	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 42	
+ERR1158088	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 42	
+ERR1158089	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 42	
+ERR1158090	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 48	
+ERR1158091	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 48	
+ERR1158092	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 6	
+ERR1158093	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 6	
+ERR1158094	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su 6	
+ERR1158095	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su sync	
+ERR1158096	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su sync	
+ERR1158098	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 4su sync	
+ERR1158099	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 50	
+ERR1158101	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 54	
+ERR1158102	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 56	
+ERR1158103	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 58	
+ERR1158104	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 6	
+ERR1158105	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT 60	
+ERR1158110	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 105	
+ERR1158112	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 111	
+ERR1158113	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 117	
+ERR1158114	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 117	
+ERR1158117	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 123	
+ERR1158118	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 123	
+ERR1158119	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 129	
+ERR1158124	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 15	
+ERR1158125	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 18	
+ERR1158126	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 18	
+ERR1158127	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 21	
+ERR1158128	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 21	
+ERR1158129	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 24	
+ERR1158131	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 27	
+ERR1158132	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 27	
+ERR1158133	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 3	
+ERR1158134	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 3	
+ERR1158135	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 30	
+ERR1158136	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 30	
+ERR1158137	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 33	
+ERR1158138	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 33	
+ERR1158139	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 36	
+ERR1158140	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 36	
+ERR1158141	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 39	
+ERR1158142	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 39	
+ERR1158143	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 45	
+ERR1158144	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 45	
+ERR1158145	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 51	
+ERR1158146	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 51	
+ERR1158147	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 57	
+ERR1158148	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 57	
+ERR1158149	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 6	
+ERR1158151	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 63	
+ERR1158152	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 63	
+ERR1158153	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 69	
+ERR1158154	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 69	
+ERR1158155	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 75	
+ERR1158156	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 75	
+ERR1158157	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 81	
+ERR1158158	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 81	
+ERR1158159	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 87	
+ERR1158160	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 87	
+ERR1158161	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 9	
+ERR1158162	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 9	
+ERR1158163	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 93	
+ERR1158164	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 93	
+ERR1158165	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 99	
+ERR1158166	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat 99	
+ERR1158167	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat sync	
+ERR1158168	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT repeat sync	
+ERR1158169	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT sync	
+ERR1158170	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts- hhfs]-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT sync hydroxyurea HU synchcronized	
+ERR1158171	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts- hhfs]-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT sync hydroxyurea YPD	
+ERR1158173	ERP013410		mata his3?200 leu2?0 lys2?0 trp1?63 ura3?0 met15?0 can1::mfa1pr-his3 hht1-hhf1::natmx4 hht2-hhf2::[hhts- hhfs]-ura3					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT sync hydroxyurea YPD	
+ERR1158174	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 0	
+ERR1158175	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 0	
+ERR1158176	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 12	
+ERR1158177	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 12	
+ERR1158178	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 18	
+ERR1158179	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 18	
+ERR1158181	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 24	
+ERR1158182	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 30	
+ERR1158183	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 30	
+ERR1158184	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 36	
+ERR1158185	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 36	
+ERR1158186	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 42	
+ERR1158187	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 48	
+ERR1158188	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 48	
+ERR1158189	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 6	
+ERR1158190	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) 6	
+ERR1158191	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) sync	
+ERR1158192	ERP013410		mata, his3?1, leu2?0, met15?0, ura3?0					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA				WT total (synthesis rate experiment) sync	

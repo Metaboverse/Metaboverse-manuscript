@@ -1,0 +1,17 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5130645	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, wt, anaerobic, xylose		Y128 WT Rep A	
+SRR5130646	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, wt, anaerobic, xylose		Y128 WT Rep A	
+SRR5130647	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, wt, anaerobic, xylose		Y128 WT Rep B	
+SRR5130648	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, wt, anaerobic, xylose		Y128 WT Rep B	
+SRR5130649	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1∆, anaerobic, xylose		Y128 azf1∆ Rep A	
+SRR5130650	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1∆, anaerobic, xylose		Y128 azf1∆ Rep A	
+SRR5130651	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1∆, anaerobic, xylose		Y128 azf1∆ Rep B	
+SRR5130652	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1∆, anaerobic, xylose		Y128 azf1∆ Rep B	
+SRR5130653	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, moby control, anaerobic, xylose		Y128 MoBY Control Rep A	
+SRR5130654	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, moby control, anaerobic, xylose		Y128 MoBY Control Rep A	
+SRR5130655	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, moby control, anaerobic, xylose		Y128 MoBY Control Rep B	
+SRR5130656	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, moby control, anaerobic, xylose		Y128 MoBY Control Rep B	
+SRR5130657	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1 moby, anaerobic, xylose		Y128 AZF1 MoBY Rep A	
+SRR5130658	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1 moby, anaerobic, xylose		Y128 AZF1 MoBY Rep A	
+SRR5130659	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1 moby, anaerobic, xylose		Y128 AZF1 MoBY Rep B	
+SRR5130660	SRP095641							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		y128 cell culture, azf1 moby, anaerobic, xylose		Y128 AZF1 MoBY Rep B	

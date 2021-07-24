@@ -1,0 +1,19 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1555415	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_0min		BY_RM_0min_R1	
+SRR1555416	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_6min		BY_RM_6min_R1	
+SRR1555417	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_12min		BY_RM_12min_R1	
+SRR1555418	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_18min		BY_RM_18min_R1	
+SRR1555419	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_24min		BY_RM_24min_R1	
+SRR1555420	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_42min		BY_RM_42min_R1	
+SRR1555421	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_0min		BY_RM_0min_R2	
+SRR1555422	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_6min		BY_RM_6min_R2	
+SRR1555423	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_12min		BY_RM_12min_R2	
+SRR1555424	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_18min		BY_RM_18min_R2	
+SRR1555425	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_24min		BY_RM_24min_R2	
+SRR1555426	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_42min		BY_RM_42min_R2	
+SRR1555427	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_0min		BY_RM_0min_R3	
+SRR1555428	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_6min		BY_RM_6min_R3	
+SRR1555429	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_12min		BY_RM_12min_R3	
+SRR1555430	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_18min		BY_RM_18min_R3	
+SRR1555431	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_24min		BY_RM_24min_R3	
+SRR1555432	SRP045678		by4716 x rm11_1a diploid		yepd liquid culture			SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		by_rm_42min		BY_RM_42min_R3	

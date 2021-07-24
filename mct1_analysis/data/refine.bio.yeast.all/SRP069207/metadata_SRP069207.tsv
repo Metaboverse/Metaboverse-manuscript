@@ -1,0 +1,37 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR3140106	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 YPD REP1	
+SRR3140107	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 YPD REP2	
+SRR3140108	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 SynH -HTs REP1	
+SRR3140109	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 SynH -HTs REP2	
+SRR3140110	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 SynHv REP1	
+SRR3140111	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC361 SynHv REP2	
+SRR3140112	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 YPD REP1	
+SRR3140113	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 YPD REP2	
+SRR3140114	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 SynH -HT REP1	
+SRR3140115	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 SynH -HT REP2	
+SRR3140116	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 SynH REP1	
+SRR3140117	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		UWO.S05.22-7 SynH REP2	
+SRR3140118	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 YPD REP1	
+SRR3140119	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 YPD REP2	
+SRR3140120	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 SynH -HT REP1	
+SRR3140121	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 SynH -HT REP2	
+SRR3140122	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 SynH REP1	
+SRR3140123	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		Y7568 SynH REP2	
+SRR3140124	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 YPD REP1	
+SRR3140125	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 YPD REP2	
+SRR3140126	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 SynH -HT REP1	
+SRR3140127	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 SynH -HT REP2	
+SRR3140128	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 SynH REP1	
+SRR3140129	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		K11 SynH REP2	
+SRR3140130	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 YPD REP1	
+SRR3140131	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 YPD REP2	
+SRR3140132	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 SynH -HT REP1	
+SRR3140133	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 SynH -HT REP2	
+SRR3140134	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 SynH REP1	
+SRR3140135	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		YPS128 SynH REP2	
+SRR3140136	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 YPD REP1	
+SRR3140137	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 YPD REP2	
+SRR3140138	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 SynH -HT REP1	
+SRR3140139	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 SynH -HT REP2	
+SRR3140140	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 SynH REP1	
+SRR3140141	SRP069207							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		s. cerevisiae cells		NCYC3290 SynH REP2	

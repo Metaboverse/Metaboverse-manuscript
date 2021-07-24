@@ -1,0 +1,19 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR2972866	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delRXT3_rep1	
+SRR2972867	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73RXT3_rep1	
+SRR2972868	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215RXT3_rep1	
+SRR2972869	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delPHO23_rep1	
+SRR2972870	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73PHO23_rep1	
+SRR2972871	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215PHO23_rep1	
+SRR2972872	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delRXT3_rep2	
+SRR2972873	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73RXT3_rep2	
+SRR2972874	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215RXT3_rep2	
+SRR2972875	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delPHO23_rep2	
+SRR2972876	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73PHO23_rep2	
+SRR2972877	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215PHO23_rep2	
+SRR2972878	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delRXT3_rep3	
+SRR2972879	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73RXT3_rep3	
+SRR2972880	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215RXT3_rep3	
+SRR2972881	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		delPHO23_rep3	
+SRR2972882	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		T73PHO23_rep3	
+SRR2972883	SRP066973		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		cell population		CLIB215PHO23_rep3	

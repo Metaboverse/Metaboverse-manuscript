@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR039177	SRP002218		sigma 1278b					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		budding yeast, haploid		1n Sc_mid log_repA	
+SRR039178	SRP002218		sigma 1278b					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		budding yeast, tetraploid		4n Sc_mid log_repA	
+SRR039179	SRP002218		sigma 1278b					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		budding yeast, haploid		1n Sc_mid log_repB	
+SRR039180	SRP002218		sigma 1278b					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True				SRA		budding yeast, tetraploid		4n Sc_mid log_repB	
+SRR1257937	SRP002218		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True		not determined		SRA	na			Model organism or animal sample from Saccharomyces cerevisiae	
+SRR1257938	SRP002218		s288c					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer II (IlluminaGenomeAnalyzerII)	True		not determined		SRA	na			Model organism or animal sample from Saccharomyces cerevisiae	

@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR945046	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATα-playing-a Biological Replicate 1	
+SRR945047	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATα-playing-a Biological Replicate 2	
+SRR945048	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATα-playing-a Biological Replicate 3	
+SRR945049	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATα-playing-a Biological Replicate 1	
+SRR945050	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATα-playing-a Biological Replicate 2	
+SRR945051	SRP028333		lbhy29					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATα-playing-a Biological Replicate 3	
+SRR945052	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATa Biological Replicate 1	
+SRR945053	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATa Biological Replicate 2	
+SRR945054	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Unstimulated MATa Biological Replicate 3	
+SRR945055	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATa Biological Replicate 1	
+SRR945056	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATa Biological Replicate 2	
+SRR945057	SRP028333		mp 384					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		Stimulated MATa Biological Replicate 3	

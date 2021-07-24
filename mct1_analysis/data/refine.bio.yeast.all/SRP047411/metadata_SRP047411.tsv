@@ -1,0 +1,26 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1583741	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, high pi, 0 min		phm3_del, high Pi, 0 min	
+SRR1583742	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 15 min		phm3_del, no Pi, 15 min	
+SRR1583743	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 30min		phm3_del, no Pi, 30min	
+SRR1583744	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 45 min		phm3_del, no Pi, 45 min	
+SRR1583745	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 60 min		phm3_del, no Pi, 60 min	
+SRR1583746	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 75 min		phm3_del, no Pi, 75 min	
+SRR1583747	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 90 min		phm3_del, no Pi, 90 min	
+SRR1583748	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 105 min		phm3_del, no Pi, 105 min	
+SRR1583749	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 120 min		phm3_del, no Pi, 120 min	
+SRR1583750	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 135 min		phm3_del, no Pi, 135 min	
+SRR1583751	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 150 min		phm3_del, no Pi, 150 min	
+SRR1583752	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 165 min		phm3_del, no Pi, 165 min	
+SRR1583753	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 180 min		phm3_del, no Pi, 180 min	
+SRR1583754	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 195 min		phm3_del, no Pi, 195 min	
+SRR1583755	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 210 min		phm3_del, no Pi, 210 min	
+SRR1583756	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 225 min		phm3_del, no Pi, 225 min	
+SRR1583757	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 240 min		phm3_del, no Pi, 240 min	
+SRR1583758	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 255 min		phm3_del, no Pi, 255 min	
+SRR1583759	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 270 min		phm3_del, no Pi, 270 min	
+SRR1583760	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 285 min		phm3_del, no Pi, 285 min	
+SRR1583761	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 300 min		phm3_del, no Pi, 300 min	
+SRR1583762	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 315 min		phm3_del, no Pi, 315 min	
+SRR1583763	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 330 min		phm3_del, no Pi, 330 min	
+SRR1583764	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 345 min		phm3_del, no Pi, 345 min	
+SRR1583765	SRP047411							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		phm3_del, no pi, 360 min		phm3_del, no Pi, 360 min	

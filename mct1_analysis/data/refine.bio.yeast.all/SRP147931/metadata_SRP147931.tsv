@@ -1,0 +1,11 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR7174202	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_0	
+SRR7174203	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_3	
+SRR7174204	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_6	
+SRR7174205	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_8	
+SRR7174206	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_10	
+SRR7174207	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_15	
+SRR7174208	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_20	
+SRR7174209	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_30	
+SRR7174210	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_45	
+SRR7174211	SRP147931		yjc1257					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		mid-log phase culture		rpb1-1/caf1_60	

@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR5351186	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type w303		WT2-7_rep1	wild type control
+SRR5351187	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		wild type w303		WT2-10_rep2	wild type control
+SRR5351188	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		gal-psd1 w303		Psd1_oe2-8_rep1	psd1_oe2
+SRR5351189	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		gal-psd1 w303		Psd1_oe2-11_rep2	psd1_oe2
+SRR5351190	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		pdr3∆ gal-psd1 w303		Psd1_oe_Pdr3_ko2-9_rep1	psd1_oe_pdr3_ko2
+SRR5351191	SRP102032							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		pdr3∆ gal-psd1 w303		Psd1_oe_Pdr3_ko2-12_rep2	psd1_oe_pdr3_ko2

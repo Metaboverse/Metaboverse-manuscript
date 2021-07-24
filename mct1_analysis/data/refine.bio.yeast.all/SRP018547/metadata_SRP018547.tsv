@@ -1,0 +1,48 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR701791	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701792	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701793	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701794	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701795	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701796	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep1	
+SRR701797	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701798	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701800	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701801	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701802	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701804	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701805	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701806	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-noRapa-Rep2	
+SRR701807	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep1	200ng/ml rapamycin for 10 min
+SRR701808	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep1	200ng/ml rapamycin for 10 min
+SRR701809	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep1	200ng/ml rapamycin for 10 min
+SRR701810	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep1	200ng/ml rapamycin for 10 min
+SRR701812	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701813	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701814	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701815	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701816	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701817	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa10'-Rep2	200ng/ml rapamycin for 10 min
+SRR701818	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep1	200ng/ml rapamycin for 60 min
+SRR701819	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep1	200ng/ml rapamycin for 60 min
+SRR701820	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep1	200ng/ml rapamycin for 60 min
+SRR701821	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep1	200ng/ml rapamycin for 60 min
+SRR701822	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep1	200ng/ml rapamycin for 60 min
+SRR701823	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701824	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701825	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701826	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701828	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701829	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		BY-Rapa60'-Rep2	200ng/ml rapamycin for 60 min
+SRR701831	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1	
+SRR701832	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1	
+SRR701833	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1	
+SRR701834	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1	
+SRR701835	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701836	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701837	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701838	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701839	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701842	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701843	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)
+SRR701844	SRP018547							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		yeast cells		prp4-1_pGAL-IFH	~50% down-regulation of ifh1 transcription factor (specific for ribosomal protein genes)

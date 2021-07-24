@@ -1,0 +1,19 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR636633	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0hrs_rep1	
+SRR636634	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0hrs_rep2	
+SRR636635	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0hrs_rep3	
+SRR636636	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0.5hrs_rep1	
+SRR636637	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0.5hrs_rep2	
+SRR636638	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae wild-type (by4741) strain		WT_0.5hrs_rep3	
+SRR636639	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0hrs_rep1	
+SRR636640	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0hrs_rep2	
+SRR636641	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0hrs_rep3	
+SRR636642	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0.5hrs_rep1	
+SRR636643	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0.5hrs_rep2	
+SRR636644	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae snt2 deletion strain		snt2D_0.5hrs_rep3	
+SRR636645	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0hrs_rep1	
+SRR636646	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0hrs_rep2	
+SRR636647	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0hrs_rep3	
+SRR636648	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0.5hrs_rep1	
+SRR636649	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0.5hrs_rep2	
+SRR636650	SRP017603							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True				SRA		s. cerevisiae ecm5 deletion strain		ecm5D_0.5hrs_rep3	

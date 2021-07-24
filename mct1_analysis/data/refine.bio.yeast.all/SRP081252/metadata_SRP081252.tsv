@@ -1,0 +1,13 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR4018567	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT Snf2 RNAseq Replicate 1	
+SRR4018568	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT Snf2 RNAseq Replicate 2	
+SRR4018569	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		WT Snf2 RNAseq Replicate 3	
+SRR4018570	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Swp82 RNAseq Replicate 1	
+SRR4018571	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Swp82 RNAseq Replicate 2	
+SRR4018572	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Swp82 RNAseq Replicate 3	
+SRR4018573	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf2 RNAseq Replicate 1	
+SRR4018574	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf2 RNAseq Replicate 2	
+SRR4018575	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf2 RNAseq Replicate 3	
+SRR4018576	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf5 RNAseq Replicate 1	
+SRR4018577	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf5 RNAseq Replicate 2	
+SRR4018578	SRP081252		by4741					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		yeast cells		Delta Snf5 RNAseq Replicate 3	

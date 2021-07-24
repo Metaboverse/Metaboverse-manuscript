@@ -1,0 +1,7 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR223526	SRP006915		yef473a					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		wild-type-rna-3hr	3 hours	wild-type-RNA-3hr-rep1	
+SRR223527	SRP006915		yef473a					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		wild-type-rna-3hr	3 hours	wild-type-RNA-3hr-rep2	
+SRR223528	SRP006915		yef473a					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		wild-type-rna-3hr	3 hours	wild-type-RNA-3hr-rep3	
+SRR223529	SRP006915		dcb200.1					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		h3shutoff-rna-3hr	3 hours	H3shutoff-RNA-3hr-rep1	
+SRR223530	SRP006915		dcb200.1					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		h3shutoff-rna-3hr	3 hours	H3shutoff-RNA-3hr-rep2	
+SRR223531	SRP006915		dcb200.1					SACCHAROMYCES_CEREVISIAE	Illumina Genome Analyzer IIx (IlluminaGenomeAnalyzerIIx)	True				SRA		h3shutoff-rna-3hr	3 hours	H3shutoff-RNA-3hr-rep3	

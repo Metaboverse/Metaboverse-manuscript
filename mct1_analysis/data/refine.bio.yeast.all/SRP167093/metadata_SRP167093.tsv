@@ -1,0 +1,50 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR8126634	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_0	
+SRR8126635	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_0	
+SRR8126636	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_0	
+SRR8126637	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_0	
+SRR8126638	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_1	
+SRR8126639	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_1	
+SRR8126640	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_1	
+SRR8126641	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_1	
+SRR8126642	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_1	
+SRR8126643	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_2	
+SRR8126644	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_2	
+SRR8126645	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_2	
+SRR8126646	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_2	
+SRR8126647	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_50 generations		WT_50G_2	
+SRR8126648	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_0	
+SRR8126649	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_0	
+SRR8126650	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_0	
+SRR8126651	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_0	
+SRR8126652	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_0	
+SRR8126653	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_1	
+SRR8126654	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_1	
+SRR8126655	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_1	
+SRR8126656	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_2	
+SRR8126657	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_2	
+SRR8126658	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		wt_500 generations		WT_500G_2	
+SRR8126659	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_0	
+SRR8126660	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_0	
+SRR8126661	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_0	
+SRR8126662	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_0	
+SRR8126663	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_1	
+SRR8126664	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_1	
+SRR8126665	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_1	
+SRR8126666	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_1	
+SRR8126667	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_1	
+SRR8126668	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_2	
+SRR8126669	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_2	
+SRR8126670	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_2	
+SRR8126671	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _50 generations		Ulp2_50G_2	
+SRR8126672	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_0	
+SRR8126673	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_0	
+SRR8126674	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_0	
+SRR8126675	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_1	
+SRR8126676	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_1	
+SRR8126677	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_1	
+SRR8126678	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_1	
+SRR8126679	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_2	
+SRR8126680	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_2	
+SRR8126681	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_2	
+SRR8126682	SRP167093							SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		ulp2δ _500 generations		Ulp2_500G_2	

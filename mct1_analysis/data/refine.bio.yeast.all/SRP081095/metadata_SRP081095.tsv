@@ -1,0 +1,26 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR4011662	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YAD	
+SRR4011663	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YAD	
+SRR4011664	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YAD	
+SRR4011665	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YAD	
+SRR4011666	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YAD	
+SRR4011667	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YAD	
+SRR4011668	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YAR	
+SRR4011669	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YAR	
+SRR4011670	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YAR	
+SRR4011671	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YAR	
+SRR4011672	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YGD	
+SRR4011673	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT_RNA_SEQ_YGD	
+SRR4011674	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YGD	
+SRR4011675	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		jhd2_RNA_SEQ_YGD	
+SRR4011676	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAR	
+SRR4011677	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAR	
+SRR4011678	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAR	
+SRR4011679	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT O/E_YAR	
+SRR4011681	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT O/E_YAR	
+SRR4011685	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAD	
+SRR4011687	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAD	
+SRR4011689	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT empty vector_YAD	
+SRR4011691	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT O/E_YAD	
+SRR4011693	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT O/E_YAD	
+SRR4011695	SRP081095		by4742					SACCHAROMYCES_CEREVISIAE	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True				SRA		vegatative cells		WT O/E_YAD	
