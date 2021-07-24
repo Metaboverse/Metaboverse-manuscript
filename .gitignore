@@ -1,0 +1,17 @@
+**fd8ddf2d-1c36-468b-aa3a-c7eb68c7b06d.zip
+**_correlations_*.tsv
+**_correlations_*.json
+**clustered.pdf
+mct1_analysis/data/yeast_mct1_rnaseq_spqn_cor.tsv
+rna_cancer_data/rna_cancer_sample.tsv
+**mvrs
+**mvdb
+**nbdb
+mct1_analysis/notebooks/refine_bio_all.tsv
+mct1_analysis/data/mct1_mct1sit4_rnaseq_tpm25_spqn_cor.tsv
+mct1_analysis/data/refine_bio_all.tsv
+mct1_analysis/data/refine_bio_all_spqn_cor.tsv
+mct1_analysis/data/refine_bio_wt.tsv
+mct1_analysis/data/refine_bio_wt_spqn_cor.tsv
+rna_cancer_data/tcga_classic/rna_cancer_sample.tsv
+rna_cancer_data/tcga_firehose/**
