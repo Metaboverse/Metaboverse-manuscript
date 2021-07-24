@@ -1,0 +1,9 @@
+	Genotype	Media	Time	Conc. (ng/uL)	Volume (uL)	Sample Type	Organism	QC Conc. (ng/uL)	QC RIN	Seq Lib Protocol	Prepped by Core?	Index Tag A	Index Tag Sequence A	Sample Name	Lib QC Conc.
+14251X4	a_WT	Raffinose	3 hr	838.5	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	660	8.4	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 10 TAGCTT	TAGCTT	SMN469	27
+14251X6	mct1del	Raffinose	3 hr	103.2	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	69	8.9	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 16 CCGTCC	CCGTCC	SMN471	19
+14251X10	a_WT	Raffinose	3 hr	1124.2	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	817	7.9	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 5 ACAGTG	ACAGTG	SMN477	32
+14251X12	mct1del	Raffinose	3 hr	293.7	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	234	8.8	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 11 GGCTAC	GGCTAC	SMN479	29
+14251X16	a_WT	Raffinose	3 hr	325.2	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	246	8.8	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 25 ACTGAT	ACTGAT	SMN493	17
+14251X18	mct1del	Raffinose	3 hr	401.3	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	308	9	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 6 GCCAAT	GCCAAT	SMN495	28
+14251X22	a_WT	Raffinose	3 hr	292.9	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	216	9.3	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 19 GTGAAA	GTGAAA	SMN501	28
+14251X24	mct1del	Raffinose	3 hr	433.1	10	Total RNA (eukaryote)	Saccharomyces cerevisiae	337	9.2	Illumina TruSeq HT Stranded mRNA Library Preparation Kit with PolyA Selection 	Y	Index 27 ATTCCT	ATTCCT	SMN503	31
