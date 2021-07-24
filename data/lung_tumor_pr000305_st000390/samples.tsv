@@ -1,0 +1,79 @@
+mb_sample_id 	subject	identifier	sex	smoke	diagnosis	tumor	stage	age	race	pair	group
+SA018330	37	121129bbdsa05_1	F 	Current Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	59	White	1	normal
+SA018331	75	121129bbdsa33_1	F 	Current Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	59	White	1	tumor
+SA018328	33	121130bbdsa17_1	F 	Current Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	78	White	2	normal
+SA018329	26	121130bbdsa21_1	F 	Current Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	78	White	2	tumor
+SA018357	50	121129bbdsa12_1	F 	Ex-Smoker 	adenocarcinoma, multiple primaries 	No	pT2 N0 Mx (IB)	85	White	3	normal
+SA018359	65	121130bbdsa07_1	F 	Ex-Smoker 	adenocarcinoma, multiple primaries 	Yes	pT2 N0 Mx (IB)	85	White	3	tumor
+SA018356	72	121130bbdsa27_1	F 	Ex-Smoker 	adenocarcinoma, multiple primaries 	No	pT2 N0 Mx (IB)	69	White	4	normal
+SA018358	70	121129bbdsa24_1	F 	Ex-Smoker 	adenocarcinoma, multiple primaries 	Yes	pT2 N0 Mx (IB)	69	White	4	tumor
+SA018362	27	121129bbdsa10_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	70	White	5	normal
+SA018370	12	121129bbdsa15_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	70	White	5	tumor
+SA018367	97	121129bbdsa17_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT2N0Mx (IB)	80	White	6	normal
+SA018375	29	121130bbdsa06_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT2N0Mx (IB)	80	White	6	tumor
+SA018364	73	121129bbdsa22_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	80	White	7	normal
+SA018372	69	121130bbdsa14_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	80	White	7	tumor
+SA018361	47	121129bbdsa34_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	65	White	8	normal
+SA018369	8	121129bbdsa13_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	65	White	8	tumor
+SA018360	63	121129bbdsa50_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	62	White	9	normal
+SA018368	59	121130bbdsa20_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	62	White	9	tumor
+SA018365	90	121130bbdsa05_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT2 N0 Mx (IB)	79	White	10	normal
+SA018373	43	121130bbdsa01_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT2 N0 Mx (IB)	79	White	10	tumor
+SA018363	32	121130bbdsa12_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	73	White	11	normal
+SA018371	6	121130bbdsa09_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	73	White	11	tumor
+SA018366	25	121130bbdsa34_1	F 	Ex-Smoker 	adenocarcinoma 	No	pT2 N0 Mx (IB)	83	White	12	normal
+SA018374	61	121130bbdsa16_1	F 	Ex-Smoker 	adenocarcinoma 	Yes	pT2 N0 Mx (IB)	83	White	12	tumor
+SA018336	44	121129bbdsa41_1	F 	Ex-Smoker 	Adenocarcinoma 	No	pT1 N0 M0 (IA)	63	White	13	normal
+SA018337	87	121129bbdsa32_1	F 	Ex-Smoker 	Adenocarcinoma 	Yes	pT1 N0 M0 (IA)	63	White	13	tumor
+SA018333	89	121130bbdsa25_1	F 	Ex-Smoker 	Adenocarcinoma w/ BAC 	No	pT1a N0 M0 (IA)	70	White	14	normal
+SA018335	13	121130bbdsa04_1	F 	Ex-Smoker 	Adenocarcinoma w/ BAC 	Yes	pT1a N0 M0 (IA)	70	White	14	tumor
+SA018350	28	121129bbdsa27_1	F 	Ex-Smoker 	adenocarcinoma w/ bac 	No	pT2 N0 Mx (IB)	80	White	15	normal
+SA018351	94	121129bbdsa31_1	F 	Ex-Smoker 	adenocarcinoma w/ bac 	Yes	pT2 N0 Mx (IB)	80	White	15	tumor
+SA018343	35	121129bbdsa06_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT2 N0 Mx (IB)	74	White	16	normal
+SA018349	40	121129bbdsa44_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT2 N0 Mx (IB)	74	White	16	tumor
+SA018340	34	121129bbdsa08_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	63	White	17	normal
+SA018346	45	121129bbdsa25_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	63	White	17	tumor
+SA018342	95	121129bbdsa23_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT2 N0 Mx (IB)	71	White	18	normal
+SA018348	18	121129bbdsa02_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT2 N0 Mx (IB)	71	White	18	tumor
+SA018341	11	121129bbdsa26_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 NO Mx (IA)	79	White	19	normal
+SA018347	52	121130bbdsa03_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 NO Mx (IA)	79	White	19	tumor
+SA018338	71	121129bbdsa43_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	(LUL) pT2 N0 Mx, (RUL) pT1 N0 Mx (IB)	80	Unknown_Refused	20	normal
+SA018344	20	121129bbdsa04_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	(LUL) pT2 N0 Mx, (RUL) pT1 N0 Mx (IB)	80	Unknown_Refused	20	tumor
+SA018339	17	121130bbdsa11_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	59	White	21	normal
+SA018345	31	121130bbdsa35_1	F 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	59	White	21	tumor
+SA018353	2	121129bbdsa37_1	F 	Ex-Smoker 	adenocarcinoma w/BAC 	No	pT2N0M0 (IA)	55	White	22	normal
+SA018355	30	121130bbdsa24_1	F 	Ex-Smoker 	adenocarcinoma w/BAC 	Yes	pT2N0M0 (IA)	55	White	22	tumor
+SA018352	36	121130bbdsa02_1	F 	Ex-Smoker 	adenocarcinoma w/BAC 	No	pT1 N0 Mx (IA)	58	White	23	normal
+SA018354	54	121129bbdsa16_1	F 	Ex-Smoker 	adenocarcinoma w/BAC 	Yes	pT1 N0 Mx (IA)	58	White	23	tumor
+SA018332	100	121129bbdsa21_1	F 	Ex-Smoker 	Adenocarcinoma w/ BAC 	No	pT1N0Mx (IA)	78	White	24	normal
+SA018334	49	121130bbdsa29_1	F 	Ex-Smoker 	Adenocarcinoma w/ BAC 	Yes	pT1N0Mx (IA)	78	White	24	tumor
+SA018379	46	121129bbdsa48_1	M 	Current Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	69	White	25	normal
+SA018381	81	121130bbdsa23_1	M 	Current Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	69	White	25	tumor
+SA018378	62	121130bbdsa19_1	M 	Current Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	65	White	26	normal
+SA018380	5	121129bbdsa46_1	M 	Current Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	65	White	26	tumor
+SA018376	91	121129bbdsa39_1	M 	Current Smoker 	adenocarcinoma w/ BAC 	No	pT2 N0 Mx (IB)	62	White	27	normal
+SA018377	56	121130bbdsa08_1	M 	Current Smoker 	adenocarcinoma w/ BAC 	Yes	pT2 N0 Mx (IB)	62	White	27	tumor
+SA018400	4	121129bbdsa47_1	M 	Ex-Smoker 	adenocarcinoma 	No	pT1 N0 Mx (IA)	63	White	28	normal
+SA018403	39	121129bbdsa40_1	M 	Ex-Smoker 	adenocarcinoma 	Yes	pT1 N0 Mx (IA)	63	White	28	tumor
+SA018402	10	121130bbdsa22_1	M 	Ex-Smoker 	adenocarcinoma 	No	pT2 N0 Mx (IB)	91	White	29	normal
+SA018405	79	121129bbdsa11_1	M 	Ex-Smoker 	adenocarcinoma 	Yes	pT2 N0 Mx (IB)	91	White	29	tumor
+SA018401	74	121130bbdsa31_1	M 	Ex-Smoker 	adenocarcinoma 	No	pT2 N0 Mx (IB)	84	White	30	normal
+SA018404	93	121130bbdsa36_1	M 	Ex-Smoker 	adenocarcinoma 	Yes	pT2 N0 Mx (IB)	84	White	30	tumor
+SA018382	55	121129bbdsa38_1	M 	Ex-Smoker 	Adenocarcinoma 	No	pT2N0Mx(IB)	77	Asian	31	normal
+SA018383	68	121130bbdsa13_1	M 	Ex-Smoker 	Adenocarcinoma 	Yes	pT2N0Mx(IB)	77	Asian	31	tumor
+SA018384	1	121129bbdsa01_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	67	White	32	normal
+SA018392	58	121129bbdsa30_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	67	White	32	tumor
+SA018389	84	121129bbdsa09_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT2 N0 Mx (IB)	75	White	33	normal
+SA018397	85	121130bbdsa26_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT2 N0 Mx (IB)	75	White	33	tumor
+SA018387	24	121129bbdsa14_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	78	White	34	normal
+SA018395	96	121130bbdsa15_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	78	White	34	tumor
+SA018390	53	121129bbdsa18_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT2 N0 Mx (IB)	79	White	35	normal
+SA018398	3	121130bbdsa18_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT2 N0 Mx (IB)	79	White	35	tumor
+SA018391	78	121129bbdsa35_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT2N0Mx (IB)	78	White	36	normal
+SA018399	19	121130bbdsa32_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT2N0Mx (IB)	78	White	36	tumor
+SA018386	14	121130bbdsa10_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	78	White	37	normal
+SA018393	83	121129bbdsa29_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	78	White	37	tumor
+SA018388	80	121130bbdsa37_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1N0Mx (IA)	64	Unknown_Refused	38	normal
+SA018396	66	121129bbdsa07_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1N0Mx (IA)	64	Unknown_Refused	38	tumor
+SA018385	15	121129bbdsa45_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	No	pT1 N0 Mx (IA)	78	White	39	normal
+SA018394	64	121130bbdsa30_1	M 	Ex-Smoker 	adenocarcinoma w/ BAC 	Yes	pT1 N0 Mx (IA)	78	White	39	tumor

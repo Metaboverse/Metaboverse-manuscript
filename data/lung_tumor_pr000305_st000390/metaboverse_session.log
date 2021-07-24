@@ -1,0 +1,49 @@
+Operating System information:
+5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Metaboverse/v0.5.0b Chrome/80.0.3987.165 Electron/8.3.4 Safari/537.36
+Log date: 2021-02-16
+
+C:\Users\jorda\Desktop\projects\Metaboverse\app\python\metaboverse-cli-win.exe curate --output "C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390" --output_file "C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390\scesce.mvrs" --organism_id SCE --organism_curation_file "C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390\SCE.mvdb" --neighbor_dictionary_file None --graph_template_file None --transcriptomics None --proteomics None --metabolomics "C:\Users\jorda\Desktop\projects\manuscript\data\sce_mct1_omics\_data\metabolomics_timecourse_mct1.txt" --database_source reactome --experiment_type timecourse --experiment_name "awerga" --labels 0,15,30,60,180 --blocklist H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+ --force_new_curation --broadcast_genes --broadcast_metabolites --progress_log "C:\Users\jorda\AppData\Roaming\Metaboverse\progress_log.json" --session_data "C:\Users\jorda\AppData\Roaming\Metaboverse\session_data.json"
+Metaboverse-CLI version: 0.5.0-beta
+======================
+User commands summary:
+======================
+cmd: curate
+output: C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390\
+organism_id: SCE
+organism_curation_file: C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390\SCE.mvdb
+neighbor_dictionary_file: None
+graph_template_file: None
+output_file: C:\Users\jorda\Desktop\projects\manuscript\data\lung_tumor_pr000305_st000390\scesce.mvrs
+transcriptomics: None
+proteomics: None
+metabolomics: C:\Users\jorda\Desktop\projects\manuscript\data\sce_mct1_omics\_data\metabolomics_timecourse_mct1.txt
+database_source: reactome
+force_new_curation: True
+collapse_with_modifiers: False
+broadcast_genes: True
+broadcast_metabolites: True
+experiment_type: timecourse
+experiment_name: awerga
+labels: 0,15,30,60,180
+blocklist: H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+
+session_data: C:\Users\jorda\AppData\Roaming\Metaboverse\session_data.json
+progress_log: C:\Users\jorda\AppData\Roaming\Metaboverse\progress_log.json
+path: C:\Users\jorda\AppData\Local\Temp\_MEI98282\
+=====================
+End commands summary
+=====================
+
+Back-end parsed arguments:
+{'cmd': 'curate', 'output': 'C:\\Users\\jorda\\Desktop\\projects\\manuscript\\data\\lung_tumor_pr000305_st000390\\', 'organism_id': 'SCE', 'organism_curation_file': 'C:\\Users\\jorda\\Desktop\\projects\\manuscript\\data\\lung_tumor_pr000305_st000390\\SCE.mvdb', 'neighbor_dictionary_file': 'None', 'graph_template_file': 'None', 'output_file': 'C:\\Users\\jorda\\Desktop\\projects\\manuscript\\data\\lung_tumor_pr000305_st000390\\scesce.mvrs', 'transcriptomics': 'None', 'proteomics': 'None', 'metabolomics': 'C:\\Users\\jorda\\Desktop\\projects\\manuscript\\data\\sce_mct1_omics\\_data\\metabolomics_timecourse_mct1.txt', 'database_source': 'reactome', 'force_new_curation': True, 'collapse_with_modifiers': False, 'broadcast_genes': True, 'broadcast_metabolites': True, 'experiment_type': 'timecourse', 'experiment_name': 'awerga', 'labels': '0,15,30,60,180', 'blocklist': 'H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+', 'session_data': 'C:\\Users\\jorda\\AppData\\Roaming\\Metaboverse\\session_data.json', 'progress_log': 'C:\\Users\\jorda\\AppData\\Roaming\\Metaboverse\\progress_log.json', 'path': 'C:\\Users\\jorda\\AppData\\Local\\Temp\\_MEI98282\\'}
+
+Generating Metaboverse-compatible database...
+
+########
+STDERR:
+########
+Traceback (most recent call last):
+  File "__main__.py", line 197, in <module>
+  File "__main__.py", line 147, in main
+  File "utils.py", line 68, in update_network_vars
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\jorda\\Desktop\\projects\\manuscript\\data\\lung_tumor_pr000305_st000390\\SCE.mvdb'
+[9756] Failed to execute script __main__
