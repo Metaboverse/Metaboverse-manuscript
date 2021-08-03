@@ -16,6 +16,60 @@ sns.set(font_scale=float(.1))
 jakes_cmap = sns.diverging_palette(212, 61, s=99, l=77, sep=1, n=16, center='dark') #Custom aesthetics
 
 
+def mean_confidence_interval(data, confidence=0.95):
+    _interval = st.t.interval(
+        alpha=confidence,
+        df=len(data)-1,
+        loc=np.mean(data),
+        scale=st.sem(data)
+    )
+    _interval = ["{:e}".format(e) for e in _interval]
+
+    return np.mean(data), _interval
+
+def mean_confidence_interval_norm(data, confidence=0.95):
+    _interval = st.norm.interval(
+        alpha=confidence,
+        loc=np.mean(data),
+        scale=st.sem(data)
+    )
+    _interval = ["{:e}".format(e) for e in _interval]
+    return np.mean(data), _interval
+
+def cohen_d(x,y):
+    return (
+        mean(x) - mean(y)) / sqrt((std(x, ddof=1) ** 2 + std(y, ddof=1) ** 2) / 2.0
+    )
+
+def confidence_overlap(set1, set2, id, confidence=0.95):
+
+    conf1 = mean_confidence_interval(
+        set1.loc[id].values.tolist(),
+        confidence=confidence)
+    conf2 = mean_confidence_interval(
+        set2.loc[id].values.tolist(),
+        confidence=confidence)
+
+    conf1 = [float(x) for x in conf1[1]]
+    conf2 = [float(x) for x in conf2[1]]
+
+    def getOverlap(a, b):
+        return max(0, min(a[1], b[1]) - max(a[0], b[0]))
+
+    _overlap = getOverlap(conf1, conf2)
+    _diff = max(conf1 + conf2) - min(conf1 + conf2)
+
+    if _overlap > 0:
+        print('Confidence intervals (' + str(confidence) + ') OVERLAP')
+        print(
+            'Overlap: ' + str(_overlap)
+            + ' (' + str(round((_overlap / _diff) * 100, 2)) + '%)')
+        print('    Interval 1: ' + str(conf1))
+        print('    Interval 2: ' + str(conf2))
+    else:
+        print('Confidence intervals (' + str(confidence) + ') DO NOT overlap')
+
+
 def read_table(
         url,
         sep='\t',
