@@ -26,18 +26,18 @@ LUAD-collapse-average-sort_stat
 
 MCT1-12hr-non-collapse-modreg-sort_stat
 ---------------------------------------
-1. propionyl-CoA + carnitine => propionylcarnitine + CoA SH
-2. FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster 
-3. Succinate <=> Fumarate (with FAD redox reaction on enzyme)
-4. HLCS biotinylates PC:Mn2+
+\textbf{a.} propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
+\textbf{b.} FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
+\textbf{c.} Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
+\textbf{d.} HLCS biotinylates PC:Mn2+, 
 
 
 MCT1-12hr-non-collapse-transreg-sort_stat
 -----------------------------------------
-1. SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix
-2. Electron transfer from ubiquinol to cytochrome c of complex III 
-3. HLCS biotinylates PC:Mn2+
-4. Transport of Citrate from Mitochondrial Matrix to cytosol
+\textbf{e.} SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
+\textbf{f.} Electron transfer from ubiquinol to cytochrome c of complex III, 
+\textbf{g.} HLCS biotinylates PC:Mn2+, and 
+\textbf{h.} Transport of Citrate from Mitochondrial Matrix to cytosol.
 
 
 

@@ -16,12 +16,12 @@ LUAD-non-collapse-average-sort_stat
 
 LUAD-collapse-average-sort_stat
 -------------------------------
-1. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // Mitochondrial FPGS-1 transforms THF to THFPG (collapsed)
-2. Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA // oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2] (collapsed)
-3. histidine => urocanate + NH4+ // Guanine + H2O => Xanthine + NH4+ (collapsed)
-4. histidine => urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF (collapsed)
-9. ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR // NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix] // lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O (collapsed)
-24. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR (collapsed)
+\textbf{a.} Reaction \#1: lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // Mitochondrial FPGS-1 transforms THF to THFPG [cross-pathway; 3-reaction],
+\textbf{b.} Reaction \#2: Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA // oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2] [cross-pathway],
+\textbf{c.} Reaction \#3: histidine => urocanate + NH4+ // Guanine + H2O => Xanthine + NH4+ [cross-pathway],
+\textbf{d.} Reaction \#4: histidine => urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF [cross-pathway; 3-reaction],
+\textbf{e.} Reaction \#9: ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR // NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix] // lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O [cross-pathway; 3-reaction], and
+\textbf{f.} Reaction \#24: lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR [cross-pathway; 3-reaction].
 
 
 MCT1-12hr-non-collapse-modreg-sort_stat
