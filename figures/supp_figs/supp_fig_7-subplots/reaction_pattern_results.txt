@@ -1,0 +1,50 @@
+LUAD-non-collapse-average-sort_stat
+-----------------------------------
+1. dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine
+2. GLYCTK phosphorylates DGA to 3PDGA
+3. PGP:Mg2+ dimer hydrolyses 3PG to glycerol
+4. (deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate (UPP)
+5. uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]
+6. ornithine => putrescine + CO2
+7. trehalose + H2O => 2 D-glucose
+8. maltose + H2O => 2 D-glucose (sucrase-isomaltase)
+9. Digestion of linear starch (amylose) by extracellular amylase
+10. maltose + H2O => 2 D-glucose (maltase-glucoamylase)
+11. XDH dehydrogenates hypoxanthine to form xanthine
+12. XDH oxidizes hypoxanthine to form xanthine
+
+
+LUAD-collapse-average-sort_stat
+-------------------------------
+1. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // Mitochondrial FPGS-1 transforms THF to THFPG (collapsed)
+2. Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA // oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2] (collapsed)
+3. histidine => urocanate + NH4+ // Guanine + H2O => Xanthine + NH4+ (collapsed)
+4. histidine => urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF (collapsed)
+9. ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR // NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix] // lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O (collapsed)
+24. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR (collapsed)
+
+
+MCT1-12hr-non-collapse-modreg-sort_stat
+---------------------------------------
+1. propionyl-CoA + carnitine => propionylcarnitine + CoA SH
+2. FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster 
+3. Succinate <=> Fumarate (with FAD redox reaction on enzyme)
+4. HLCS biotinylates PC:Mn2+
+
+
+MCT1-12hr-non-collapse-transreg-sort_stat
+-----------------------------------------
+1. SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix
+2. Electron transfer from ubiquinol to cytochrome c of complex III 
+3. HLCS biotinylates PC:Mn2+
+4. Transport of Citrate from Mitochondrial Matrix to cytosol
+
+
+
+
+
+
+MCT1-3hr-non-collapse-modreg-sort_stat
+--------------------------------------
+
+
