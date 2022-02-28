@@ -11,40 +11,17 @@ LUAD-non-collapse-average-sort_stat
 9. Digestion of linear starch (amylose) by extracellular amylase
 10. maltose + H2O => 2 D-glucose (maltase-glucoamylase)
 11. XDH dehydrogenates hypoxanthine to form xanthine
-12. XDH oxidizes hypoxanthine to form xanthine
 
 
 LUAD-collapse-average-sort_stat
 -------------------------------
-\textbf{a.} Reaction \#1: lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // Mitochondrial FPGS-1 transforms THF to THFPG [cross-pathway; 3-reaction],
-\textbf{b.} Reaction \#2: Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA // oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2] [cross-pathway],
-\textbf{c.} Reaction \#3: histidine => urocanate + NH4+ // Guanine + H2O => Xanthine + NH4+ [cross-pathway],
-\textbf{d.} Reaction \#4: histidine => urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF [cross-pathway; 3-reaction],
-\textbf{e.} Reaction \#9: ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR // NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix] // lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O [cross-pathway; 3-reaction], and
-\textbf{f.} Reaction \#24: lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR [cross-pathway; 3-reaction].
+\textbf{a.} Reaction \#1: lysine + tRNA(Lys) + ATP =$>$ Lys-tRNA(Lys) + AMP + pyrophosphate // Adenylate Kinase 3 is a GTP-AMP phosphotransferase // Mitochondrial FPGS-1 transforms THF to THFPG [3-reaction],
+\textbf{b.} Reaction \#3: Acetyl-CoA + H2O + Oxaloacetate =$>$ Citrate + CoA // oxaloacetate + glutamate $<$=$>$ aspartate + alpha-ketoglutarate [GOT2]  [cross-pathway],
+\textbf{c.} Reaction \#4: histidine =$>$ urocanate + NH4+ // Guanine + H2O =$>$ Xanthine + NH4+ [cross-pathway],
+\textbf{d.} Reaction \#5: histidine =$>$ urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF [3-reaction],
+\textbf{e.} Reaction \#6: HPRT1 catalyzes the conversion of guanine or hypoxanthine to GMP or IMP // NAPRT1 dimer transfers PRIB to NCA to form NAMN // NAMPT transfers PRIB to NAM to form NAMN [cross-pathway; 3-reaction], and 
+\textbf{f.} Reaction \#10: XDH oxidizes xanthine to form urate // PRDX1,2,5 catalyze TXN reduced + H2O2 => TXN oxidized + 2H2O // MSRA reduces L-methyl-(S)-S-oxide to L-Methionine [3-reaction].
 
 
-MCT1-12hr-non-collapse-modreg-sort_stat
----------------------------------------
-1. propionyl-CoA + carnitine => propionylcarnitine + CoA SH
-2. FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster 
-3. Succinate <=> Fumarate (with FAD redox reaction on enzyme)
-4. HLCS biotinylates PC:Mn2+
-
-
-MCT1-12hr-non-collapse-transreg-sort_stat
------------------------------------------
-1. SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix
-2. Electron transfer from ubiquinol to cytochrome c of complex III 
-3. HLCS biotinylates PC:Mn2+
-4. Transport of Citrate from Mitochondrial Matrix to cytosol
-
-
-
-
-
-
-MCT1-3hr-non-collapse-modreg-sort_stat
---------------------------------------
 
 

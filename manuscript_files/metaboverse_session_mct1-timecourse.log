@@ -1,0 +1,87 @@
+Operating System information:
+5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) metaboverse/0.9.0 Chrome/83.0.4103.122 Electron/9.4.4 Safari/537.36
+Log date: 2022-02-28
+
+C:\Users\jorda\Desktop\projects\Metaboverse\app\python\metaboverse-cli-windows.exe curate --output "C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\manuscript_files" --organism_id "SCE" --output_file "C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\manuscript_files\\mct1_timecourse.mvrs" --organism_curation_file "None" --neighbor_dictionary_file "None" --graph_template_file "None" --transcriptomics "C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\data\\sce_mct1_omics\\sce_mct1_03hr_counts_diffx.txt" --proteomics "None" --metabolomics "C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\data\\sce_mct1_omics\\metabolomics_timecourse_mct1.txt" --database_source "reactome" --experiment_type "timecourse" --experiment_name "mct1-timecourse" --labels "0min,15min,30min,60min,180min" --blocklist "H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+" --broadcast_genes --broadcast_metabolites --collapse_threshold "0.3" --progress_log "C:\\Users\\jorda\\AppData\\Roaming\\metaboverse\\progress_log.json" --session_data "C:\\Users\\jorda\\AppData\\Roaming\\metaboverse\\session_data.json"
+Metaboverse-CLI version: 0.9.0
+======================
+User commands summary:
+======================
+cmd: curate
+output: C:\Users\jorda\Desktop\projects\Metaboverse-manuscript\manuscript_files\
+organism_id: SCE
+organism_curation_file: None
+neighbor_dictionary_file: None
+graph_template_file: None
+output_file: C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\manuscript_files\\mct1_timecourse.mvrs
+transcriptomics: C:\Users\jorda\Desktop\projects\Metaboverse-manuscript\data\sce_mct1_omics\sce_mct1_03hr_counts_diffx.txt
+proteomics: None
+metabolomics: C:\Users\jorda\Desktop\projects\Metaboverse-manuscript\data\sce_mct1_omics\metabolomics_timecourse_mct1.txt
+database_source: reactome
+force_new_curation: False
+collapse_with_modifiers: False
+broadcast_genes: True
+broadcast_metabolites: True
+experiment_type: timecourse
+experiment_name: mct1-timecourse
+labels: 0min,15min,30min,60min,180min
+blocklist: H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+
+collapse_threshold: 0.3
+session_data: C:\Users\jorda\AppData\Roaming\metaboverse\session_data.json
+progress_log: C:\Users\jorda\AppData\Roaming\metaboverse\progress_log.json
+path: C:\Users\jorda\AppData\Local\Temp\_MEI299642\
+=====================
+End commands summary
+=====================
+
+Back-end parsed arguments:
+{'cmd': 'curate', 'output': 'C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\manuscript_files\\', 'organism_id': 'SCE', 'organism_curation_file': 'None', 'neighbor_dictionary_file': 'None', 'graph_template_file': 'None', 'output_file': 'C:\\\\Users\\\\jorda\\\\Desktop\\\\projects\\\\Metaboverse-manuscript\\\\manuscript_files\\\\mct1_timecourse.mvrs', 'transcriptomics': 'C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\data\\sce_mct1_omics\\sce_mct1_03hr_counts_diffx.txt', 'proteomics': 'None', 'metabolomics': 'C:\\Users\\jorda\\Desktop\\projects\\Metaboverse-manuscript\\data\\sce_mct1_omics\\metabolomics_timecourse_mct1.txt', 'database_source': 'reactome', 'force_new_curation': False, 'collapse_with_modifiers': False, 'broadcast_genes': True, 'broadcast_metabolites': True, 'experiment_type': 'timecourse', 'experiment_name': 'mct1-timecourse', 'labels': '0min,15min,30min,60min,180min', 'blocklist': 'H+,H2O,CO2,e-,Mn2+,K+,Na+,Mg2+,O2,H2O2,NAD+,NADH,NADPH,NAAD,ATP,ADP,Pi,PPi,Ca2+', 'collapse_threshold': 0.3, 'session_data': 'C:\\Users\\jorda\\AppData\\Roaming\\metaboverse\\session_data.json', 'progress_log': 'C:\\Users\\jorda\\AppData\\Roaming\\metaboverse\\progress_log.json', 'path': 'C:\\Users\\jorda\\AppData\\Local\\Temp\\_MEI299642\\'}
+
+Generating Metaboverse-compatible database...
+Downloading pre-curated .MVDB database... 
+	 https://rutter.chpc.utah.edu/Metaboverse/source/v0.9.0/mvdb/SCE.mvdb
+Skipping organism network modeling as one was found...
+Curating data onto the network model...
+Warning: Input data table contained duplicate row names. Duplicates will be removed.
+	Removing 2 rows.
+	File: C:\Users\jorda\Desktop\projects\Metaboverse-manuscript\data\sce_mct1_omics\metabolomics_timecourse_mct1.txt
+Entities removed:
+	- Ethanolamine
+	- Ethanolamine
+Data processed of dimensions: (6711, 5)
+Downloading Metaboverse graph template for organism...
+Downloading graph template database... 
+	 https://rutter.chpc.utah.edu/Metaboverse/source/v0.9.0/mvrs/SCE_template.mvrs
+Reading metabolite mapper...
+Successfully loaded network with 8355 nodes and 21229 edges
+Downloading Metaboverse neighbors dictionary for organism...
+Downloading nearest neighbors database... 
+	 https://rutter.chpc.utah.edu/Metaboverse/source/v0.9.0/nbdb/SCE.nbdb
+Modeling data onto network...
+Post-processing graph metadata...
+Mapping user data...
+Mapping data onto network...
+Input data dimensions: (6711, 5)
+Pre-processed data dimensions: (6711, 5)
+Outputting unmapped metabolomics values (if any exist)...
+	- Outputting 57 unmapped metabolites for reference.
+Broadcasting values where available...
+Compiling collapsed reaction reference...
+Collapse match threshold: 0.3
+Degree threshold for collapsing: 32.0
+Analyzing 1621 reactions for collapsing...
+Exporting graph...
+Graphing complete.
+
+########
+STDERR:
+########
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 20 29.7M   20 6132k    0     0  6386k      0  0:00:04 --:--:--  0:00:04 6388k 41 29.7M   41 12.3M    0     0  6458k      0  0:00:04  0:00:01  0:00:03 6459k 66 29.7M   66 19.7M    0     0  6826k      0  0:00:04  0:00:02  0:00:02 6825k 91 29.7M   91 27.1M    0     0  7002k      0  0:00:04  0:00:03  0:00:01 7002k100 29.7M  100 29.7M    0     0  7054k      0  0:00:04  0:00:04 --:--:-- 7055k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14 17.4M   14 2663k    0     0  5122k      0  0:00:03 --:--:--  0:00:03 5122k 55 17.4M   55  9.7M    0     0  6580k      0  0:00:02  0:00:01  0:00:01 6579k 96 17.4M   96 16.8M    0     0  6858k      0  0:00:02  0:00:02 --:--:-- 6857k100 17.4M  100 17.4M    0     0  6902k      0  0:00:02  0:00:02 --:--:-- 6902k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  669k  100  669k    0     0  3385k      0 --:--:-- --:--:-- --:--:-- 3398k

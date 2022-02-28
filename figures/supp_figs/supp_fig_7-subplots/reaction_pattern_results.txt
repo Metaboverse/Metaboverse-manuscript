@@ -1,50 +1,31 @@
-LUAD-non-collapse-average-sort_stat
------------------------------------
-1. dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine
-2. GLYCTK phosphorylates DGA to 3PDGA
-3. PGP:Mg2+ dimer hydrolyses 3PG to glycerol
-4. (deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate (UPP)
-5. uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]
-6. ornithine => putrescine + CO2
-7. trehalose + H2O => 2 D-glucose
-8. maltose + H2O => 2 D-glucose (sucrase-isomaltase)
-9. Digestion of linear starch (amylose) by extracellular amylase
-10. maltose + H2O => 2 D-glucose (maltase-glucoamylase)
-11. XDH dehydrogenates hypoxanthine to form xanthine
-12. XDH oxidizes hypoxanthine to form xanthine
-
-
-LUAD-collapse-average-sort_stat
--------------------------------
-1. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // Mitochondrial FPGS-1 transforms THF to THFPG (collapsed)
-2. Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA // oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2] (collapsed)
-3. histidine => urocanate + NH4+ // Guanine + H2O => Xanthine + NH4+ (collapsed)
-4. histidine => urocanate + NH4+ // DPH6 ligates ammonium to diphthine-EEF2 // DT fragment A ADP-ribosylates target cell EEF (collapsed)
-9. ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR // NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix] // lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O (collapsed)
-24. lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O // ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG // ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR (collapsed)
-
-
 MCT1-12hr-non-collapse-modreg-sort_stat
 ---------------------------------------
-\textbf{a.} propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
-\textbf{b.} FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
-\textbf{c.} Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
-\textbf{d.} HLCS biotinylates PC:Mn2+, 
+\textbf{a.} Reaction \#1: propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
+\textbf{b.} Reaction \#2: alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+, 
+\textbf{c.} Reaction \#3: FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
+\textbf{d.} Reaction \#4: Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
+
 
 
 MCT1-12hr-non-collapse-transreg-sort_stat
 -----------------------------------------
-\textbf{e.} SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
-\textbf{f.} Electron transfer from ubiquinol to cytochrome c of complex III, 
-\textbf{g.} HLCS biotinylates PC:Mn2+, and 
-\textbf{h.} Transport of Citrate from Mitochondrial Matrix to cytosol.
+\textbf{e.} Reaction \#1: SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
+\textbf{f.} Reaction \#2: SLC25A18,A22 cotransport Glu, H+ from cytosol to mitochondrial matrix, 
+\textbf{g.} Reaction \#4: Electron transfer from ubiquinol to cytochrome c of complex III, and 
+\textbf{h.} Reaction \#6: Transport of Citrate from Mitochondrial Matrix to cytosol.
 
 
 
 
 
 
-MCT1-3hr-non-collapse-modreg-sort_stat
---------------------------------------
 
 
+    \textbf{a.} \texttt{ModReg} reaction \#1: propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
+    \textbf{b.} \texttt{ModReg} reaction \#2: alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+, 
+    \textbf{c.} \texttt{ModReg} reaction \#3: FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
+    \textbf{d.} \texttt{ModReg} reaction \#4: Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
+    \textbf{e.} \texttt{TransReg} reaction \#1: SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
+    \textbf{f.} \texttt{TransReg} reaction \#2: SLC25A18,A22 cotransport Glu, H+ from cytosol to mitochondrial matrix, 
+    \textbf{g.} \texttt{TransReg} reaction \#4: Electron transfer from ubiquinol to cytochrome c of complex III, and 
+    \textbf{h.} \texttt{TransReg} reaction \#6: Transport of Citrate from Mitochondrial Matrix to cytosol.
