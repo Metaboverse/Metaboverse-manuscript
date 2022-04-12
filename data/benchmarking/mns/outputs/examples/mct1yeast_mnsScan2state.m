@@ -8,7 +8,7 @@ load KEGG_SCE_MNS
 model = KEGG_SCE_MNS;
 
 %% load the data
-T=readtable('examples\metabolomics_180min_kegg.txt');
+T=readtable('examples\mct1_12hr_metabolomics.txt');
 data = struct();
 data.id=T{:,1};
 data.fc_log2=T{:,2};

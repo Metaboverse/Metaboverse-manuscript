@@ -14,3 +14,13 @@ rna_cancer_data/tcga_classic/rna_cancer_sample.tsv
 rna_cancer_data/tcga_classic/CRISPR_gene_effect.csv
 rna_cancer_data/tcga_classic/org.Hs.eg.db_3.14.0.tar.gz
 rna_cancer_data/tcga_firehose/**
+**/MNS_toolbox-master
+rna_cancer_data/single_cell/GSE148071_data/**
+rna_cancer_data/single_cell/GSE99254_NSCLC.TCell.S12346.TPM.txt.gz
+rna_cancer_data/single_cell/GSE131907_Lung_Cancer_cell_annotation.txt
+rna_cancer_data/single_cell/GSE131907_Lung_Cancer_Feature_Summary.xlsx
+rna_cancer_data/single_cell/GSE131907_Lung_Cancer_normalized_log2TPM_matrix.txt
+rna_cancer_data/single_cell/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz
+rna_cancer_data/single_cell/GSE148071_RAW.tar
+**.h5ad
+rna_cancer_data/single_cell/Marker_genes.csv

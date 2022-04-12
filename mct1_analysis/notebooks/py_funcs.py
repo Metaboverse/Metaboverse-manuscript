@@ -7,7 +7,6 @@ import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
-import xpressplot as xp
 import networkx as nx
 from networkx.readwrite import json_graph
 
@@ -155,8 +154,8 @@ def make_gene_dict(__path__):
 
     # Parse out old and new names from GTF
     gtf_genes = gtf.loc[gtf[2] == 'gene']
-    gtf_genes['original'] = gtf[8].str.split("gene_id \"").str[1].str.split("\"; ").str[0]
-    gtf_genes['new'] = gtf[8].str.split("gene_name \"").str[1].str.split("\"; ").str[0]
+    gtf_genes['original'] = gtf.loc[gtf[2] == 'gene'][8].str.split("gene_id \"").str[1].str.split("\"; ").str[0].tolist()
+    gtf_genes['new'] = gtf.loc[gtf[2] == 'gene'][8].str.split("gene_name \"").str[1].str.split("\"; ").str[0].tolist()
     gene_dict = pd.Series(gtf_genes['new'].values,index=gtf_genes['original']).to_dict()
     for k in gene_dict.keys():
         try:
