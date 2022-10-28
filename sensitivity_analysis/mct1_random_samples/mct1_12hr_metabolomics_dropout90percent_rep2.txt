@@ -1,0 +1,4 @@
+	log2fc	p-val 
+Fumarate	1.101582776	0.002665504
+Glutathione disulfide	-0.429392792	0.210173577
+Adenosine	0.461904104	0.19337773
