@@ -24,3 +24,8 @@ rna_cancer_data/single_cell/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz
 rna_cancer_data/single_cell/GSE148071_RAW.tar
 **.h5ad
 rna_cancer_data/single_cell/Marker_genes.csv
+sensitivity_analysis/metaboverse-cli-windows.exe
+sensitivity_analysis/lung_graphs/**
+sensitivity_analysis/lung_random_samples/**
+sensitivity_analysis/mct1_graphs/**
+sensitivity_analysis/mct1_random_samples/**

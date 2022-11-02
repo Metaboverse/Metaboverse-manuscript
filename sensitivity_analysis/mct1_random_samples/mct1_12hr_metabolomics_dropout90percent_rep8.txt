@@ -1,4 +1,0 @@
-	log2fc	p-val 
-Adenine	0.382145618	0.422732474
-Glutathione disulfide	-0.429392792	0.210173577
-CoenzymeA	-1.245306813	0.036937349

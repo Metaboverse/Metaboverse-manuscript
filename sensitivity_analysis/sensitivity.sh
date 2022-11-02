@@ -1,12 +1,20 @@
-
+#######################################################
+# Run scripts for sensitivity analysis of Metaboverse #
+#######################################################
 
 # Generate sample datasets
-python sensitivity.py
+python generate-sensitivity-datasets.py
 
-# Get sample dataset files from directory
+# Build sensitivity analysis graphs
+python generate-sensitivity-graphs.py
 
-# Process with metaboverse-cli 
+# Perform "average" and "modreg" reaction pattern search in python and output results
 
 
+# Do with or without collapsing
 
-# Perform "average" reaction pattern search in python and output results
+
+# Run network metrics of collapsed vs non-collapsed graphs
+### Small world, connectivity, etc
+### Compare results - top reactions
+### Upset plots of what is missed

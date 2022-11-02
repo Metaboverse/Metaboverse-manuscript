@@ -10,7 +10,7 @@ import random
 
 __path__ = os.getcwd()
 
-DROPOUT_N = 10
+DROPOUT_N = 4
 DROPOUT_PERCENTS = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 
 ### Take random samples from human lung metabolomics dataset
