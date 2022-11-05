@@ -1,0 +1,12 @@
+name: sensitivity-analysis
+
+channels:
+  - conda-forge
+
+channel_priority: true
+
+dependencies:
+  - python>=3.0.0
+  - pip
+  - pandas 
+  - numpy
