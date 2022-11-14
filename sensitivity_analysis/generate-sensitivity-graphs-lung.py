@@ -5,8 +5,12 @@ Using metaboverse-cli v0.10.0
 
 import os 
 import sys 
+import shutil 
 
 __path__ = os.getcwd()
+
+# Clean
+os.remove('lung-graph-manifest.txt')
 
 # Load resources
 metaboverse =  os.path.join(__path__, "metaboverse-cli-windows.exe")
@@ -17,8 +21,9 @@ if not os.path.exists(metaboverse):
 
 # Create output directory
 lung_output = os.path.join(__path__, "lung_graphs")
-if not os.path.exists(lung_output):
-    os.makedirs(lung_output)
+if os.path.exists(lung_output):
+    shutil.rmtree(lung_output) 
+os.makedirs(lung_output)
     
 # Make human template files
 if not os.path.exists(os.path.join(lung_output, "HSA.mvdb")) \
@@ -59,6 +64,7 @@ or not os.path.exists(os.path.join(lung_output, "HSA_template.mvrs")):
 # Get list of metabolomics datasets
 lung_input = os.path.join(__path__, "lung_random_samples")
 lung_files = next(os.walk(lung_input), (None, None, []))[2]
+lung_files = [x for x in lung_files if "_unmapped" not in x]
 print("\nGathered {0} files for LUAD metabolomics.".format(len(lung_files)))
 
 # Generate graph objects for lung metabolomics
@@ -98,7 +104,8 @@ for f in lung_files:
         os.path.join(lung_output, "session_data.json")
     )
     os.system(human_graph_cmd)
-    
+    with open('lung-graph-manifest.txt', 'a') as fd:
+        fd.write(str(f.split(".")[0]) + ".mvrs\n")
     
 
 

@@ -22,7 +22,7 @@ python generate-sensitivity-graphs-mct1.py
 ### This step requires node.js
 ##### On linux, this can be installed using `sudo apt install nodejs`
 echo "Extracting reaction patterns..."
-node generate-reaction-patterns.js
+npm start
 
 # Run network metrics of collapsed vs non-collapsed graphs
 ### Small world, connectivity, etc

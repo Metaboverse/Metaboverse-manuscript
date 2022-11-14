@@ -7,6 +7,7 @@ import sys
 import pandas as pd
 import numpy as np
 import random
+import shutil 
 
 __path__ = os.getcwd()
 
@@ -17,8 +18,9 @@ DROPOUT_PERCENTS = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 
 # Create output directory
 lung_output = os.path.join(__path__, "lung_random_samples")
-if not os.path.exists(lung_output):
-    os.makedirs(lung_output)
+if os.path.exists(lung_output):
+    shutil.rmtree(lung_output) 
+os.makedirs(lung_output)
     
 # Read metabolomics and generate drop-outs
 lung_metabolomics = pd.read_csv(
@@ -41,8 +43,9 @@ for i in DROPOUT_PERCENTS:
 
 # Create output directory
 mct1_output = os.path.join(__path__, "mct1_random_samples")
-if not os.path.exists(mct1_output):
-    os.makedirs(mct1_output)
+if os.path.exists(mct1_output):
+    shutil.rmtree(mct1_output) 
+os.makedirs(mct1_output)
 
 # Read metabolomics and generate drop-outs
 mct1_metabolomics = pd.read_csv(

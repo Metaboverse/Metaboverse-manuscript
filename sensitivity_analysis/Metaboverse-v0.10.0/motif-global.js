@@ -1,4 +1,10 @@
 /*
+*********************************
+MODIFIED FROM METABOVERSE-V0.10.0
+*********************************
+
+
+
 Metaboverse
 Visualizing and Analyzing Metabolic Networks
 https://github.com/Metaboverse/Metaboverse/
@@ -57,11 +63,10 @@ function gatherMotifs(data, categories) {
     data.metadata.blocklist,
     data.nodes
   )
-
   var stat_type = data.metadata.stat_type;
 
   let threshold = 1;
-
+  
   let collapsed_motifs_Avg = motifSearch_Avg(
     threshold,
     data.collapsed_reaction_dictionary,
@@ -75,77 +80,7 @@ function gatherMotifs(data, categories) {
     data.degree_dictionary,
     data.blocklist,
     categories)
-
-  let collapsed_motifs_MaxMax = motifSearch_MaxMax(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let collapsed_motifs_MinMin = motifSearch_MinMin(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let collapsed_motifs_MaxMin = motifSearch_MaxMin(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let collapsed_motifs_MinMax = motifSearch_MinMax(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let collapsed_motifs_Sustained = motifSearch_Sustained(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
+  console.log(collapsed_motifs_Avg)
   let collapsed_motifs_ModReg = modifierReg(
     threshold,
     data.collapsed_reaction_dictionary,
@@ -159,21 +94,6 @@ function gatherMotifs(data, categories) {
     data.degree_dictionary,
     data.blocklist,
     categories)
-
-  let collapsed_motifs_ModTrans = modifierTransport(
-    threshold,
-    data.collapsed_reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
 
   let motifs_Avg = motifSearch_Avg(
     threshold,
@@ -189,76 +109,6 @@ function gatherMotifs(data, categories) {
     data.blocklist,
     categories)
 
-  let motifs_MaxMax = motifSearch_MaxMax(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let motifs_MinMin = motifSearch_MinMin(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let motifs_MaxMin = motifSearch_MaxMin(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let motifs_MinMax = motifSearch_MinMax(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-
-  let motifs_Sustained = motifSearch_Sustained(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-  
   let motifs_ModReg = modifierReg(
     threshold,
     data.reaction_dictionary,
@@ -273,42 +123,16 @@ function gatherMotifs(data, categories) {
     data.blocklist,
     categories)
 
-  let motifs_ModTrans = modifierTransport(
-    threshold,
-    data.reaction_dictionary,
-    expression_dict,
-    stats_dict,
-    stat_type,
-    stat_value,
-    inferred_dict,
-    link_neighbors,
-    data.motif_reaction_dictionary,
-    data.degree_dictionary,
-    data.blocklist,
-    categories)
-  
   let all_collapsed_motifs = [];
-  for (x in categories) { 
+  for (let x in categories) { 
     all_collapsed_motifs[x] = collapsed_motifs_Avg[x].concat(
-      collapsed_motifs_MaxMax[x],
-      collapsed_motifs_MinMin[x],
-      collapsed_motifs_MaxMin[x],
-      collapsed_motifs_MinMax[x],
-      collapsed_motifs_Sustained[x],
       collapsed_motifs_ModReg[x],
-      collapsed_motifs_ModTrans[x],
       motifs_Avg[x],
-      motifs_MaxMax[x],
-      motifs_MinMin[x],
-      motifs_MaxMin[x],
-      motifs_MinMax[x],
-      motifs_Sustained[x],
-      motifs_ModReg[x],
-      motifs_ModTrans[x]);
+      motifs_ModReg[x]);
   }
 
   let global_collapsed_motifs = [];
-  for (x in categories) {
+  for (let x in categories) {
     global_collapsed_motifs[x] = [];
     for (let m in all_collapsed_motifs[x]) {
       global_collapsed_motifs[x].push(all_collapsed_motifs[x][m].id);
@@ -316,19 +140,13 @@ function gatherMotifs(data, categories) {
   }
 
   let all_motifs = [];
-  for (x in categories) {
+  for (let x in categories) {
     all_motifs[x] = motifs_Avg[x].concat(
-      motifs_MaxMax[x],
-      motifs_MinMin[x],
-      motifs_MaxMin[x],
-      motifs_MinMax[x],
-      motifs_Sustained[x],
-      motifs_ModReg[x],
-      motifs_ModTrans[x]);
+      motifs_ModReg[x]);
   }
 
   let global_motifs = [];
-  for (x in categories) {
+  for (let x in categories) {
     global_motifs[x] = [];
     for (let m in all_motifs[x]) {
       global_motifs[x].push(all_motifs[x][m].id);

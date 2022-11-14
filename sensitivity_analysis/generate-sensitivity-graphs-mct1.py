@@ -5,8 +5,12 @@ Using metaboverse-cli v0.10.0
 
 import os 
 import sys 
+import shutil
 
 __path__ = os.getcwd()
+
+# Clean
+os.remove('mct1-graph-manifest.txt')
 
 # Load resources
 metaboverse =  os.path.join(__path__, "metaboverse-cli-windows.exe")
@@ -17,8 +21,9 @@ if not os.path.exists(metaboverse):
 
 # Create output directory
 mct1_output = os.path.join(__path__, "mct1_graphs")
-if not os.path.exists(mct1_output):
-    os.makedirs(mct1_output)
+if os.path.exists(mct1_output):
+    shutil.rmtree(mct1_output) 
+os.makedirs(mct1_output)
     
 # Make yeast template files
 if not os.path.exists(os.path.join(mct1_output, "SCE.mvdb")) \
@@ -109,7 +114,8 @@ for f in mct1_metabolomics:
             os.path.join(mct1_output, "session_data.json")
         )
         os.system(yeast_graph_cmd)
-    
+        with open('mct1-graph-manifest.txt', 'a') as fd:
+            fd.write(str(f.split(".")[0]) + ".mvrs\n")
     
 
 
