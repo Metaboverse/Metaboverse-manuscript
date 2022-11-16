@@ -71,14 +71,7 @@ const {
     // and load the index.html of the app.
     mainWindow.loadFile("index.html");
     mainWindow.webContents.openDevTools()
-  
-    // Emitted when the window is closed.
-    mainWindow.on("closed", function() {
-      fs.unlinkSync(session_file);
-      mainWindow = null;
-    });
-  
-    mainWindow.webContents.setFrameRate(60)
+    mainWindow.webContents.setFrameRate(30)
   }
   
   // This method will be called when Electron has finished

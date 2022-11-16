@@ -33,10 +33,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 */
+var FileSaver = require('file-saver');
 
-
-function exportTable(motifs, sample_idx, exclude_idx, filename) {
-    // for each item (condition) in this.motif, output with column describing the condition
+function exportTable(motifs, entity_species_reverse_dictionary, filename) {
+    // for each item (condition) in motifs, output with column describing the condition
     var i = 0;
     var rows = [];
     let column_names = [
@@ -56,31 +56,31 @@ function exportTable(motifs, sample_idx, exclude_idx, filename) {
     ];
     rows.push(column_names);
 
-    for (let condition in this.motif) {
-    for (let motif in this.motif[condition]) {
-        let this_entry = this.motif[condition][motif];
+    for (let condition in motifs) {
+    for (let motif in motifs[condition]) {
+        let this_entry = motifs[condition][motif];
 
         let these_reactants = [];
         for (let r in this_entry["reactants"]) {
-        if (this_entry["reactants"][r] in this.entity_species_reverse_dictionary) {
-            these_reactants.push(this.entity_species_reverse_dictionary[this_entry["reactants"][r]][0]);
+        if (this_entry["reactants"][r] in entity_species_reverse_dictionary) {
+            these_reactants.push(entity_species_reverse_dictionary[this_entry["reactants"][r]][0]);
         } else {
             these_reactants.push(this_entry["reactants"][r]);
         }
         }
         let these_products = [];
         for (let p in this_entry["products"]) {
-        if (this_entry["products"][p] in this.entity_species_reverse_dictionary) {
-            these_products.push(this.entity_species_reverse_dictionary[this_entry["products"][p]][0]);
+        if (this_entry["products"][p] in entity_species_reverse_dictionary) {
+            these_products.push(entity_species_reverse_dictionary[this_entry["products"][p]][0]);
         } else {
             these_products.push(this_entry["products"][p]);
         }
         }
         let these_modifiers = [];
         for (let m in this_entry["modifiers"]) {
-        if (this_entry["modifiers"][m][0] in this.entity_species_reverse_dictionary) {
+        if (this_entry["modifiers"][m][0] in entity_species_reverse_dictionary) {
             these_modifiers.push([
-            this.entity_species_reverse_dictionary[this_entry["modifiers"][m][0]][0],
+            entity_species_reverse_dictionary[this_entry["modifiers"][m][0]][0],
             this_entry["modifiers"][m][1]
             ]);
         } else {
@@ -111,16 +111,14 @@ function exportTable(motifs, sample_idx, exclude_idx, filename) {
     // Source: https://stackoverflow.com/a/14966131/9571488
     let csvContent = "data:text/tab-separated-values;charset=utf-8,";
     rows.forEach(function(rowArray) {
-    let row = rowArray.join("\t");
-    csvContent += row + "\r\n";
+      let row = rowArray.join("\t");
+      csvContent += row + "\r\n";
     });
 
     var encodedUri = encodeURI(csvContent);
     // End code snippet
 
     // Source: https://stackoverflow.com/a/14966131/9571488
-    let timestamp = formatDate(new Date());
-    let filename = this.data.metadata.experiment_name + "_" + selected_pattern + "_patterns_" + timestamp + ".tsv";
     var link = document.createElement("a");
     link.setAttribute("href", encodedUri);
     link.setAttribute("download", filename);

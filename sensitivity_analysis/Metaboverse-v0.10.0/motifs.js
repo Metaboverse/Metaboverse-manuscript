@@ -694,12 +694,6 @@ function motifSearch_Avg(
     degree_dict,
     blocklist,
     sample_indices) {
-
-
-
-  console.log("11111111111111111111111")
-  
-  
   
   let discovered_motifs = [];
 

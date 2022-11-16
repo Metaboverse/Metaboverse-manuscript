@@ -10,7 +10,10 @@ import shutil
 __path__ = os.getcwd()
 
 # Clean
-os.remove('lung-graph-manifest.txt')
+try:
+    os.remove('lung-graph-manifest.txt')
+except:
+    pass
 
 # Load resources
 metaboverse =  os.path.join(__path__, "metaboverse-cli-windows.exe")

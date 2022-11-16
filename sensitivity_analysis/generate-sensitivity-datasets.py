@@ -12,7 +12,8 @@ import shutil
 __path__ = os.getcwd()
 
 DROPOUT_N = 4
-DROPOUT_PERCENTS = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+DROPOUT_PERCENTS = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+DROPOUT_PERCENTS_PROTEOMICS = [0.0, 0.3]
 
 ### Take random samples from human lung metabolomics dataset
 
@@ -72,7 +73,7 @@ mct1_proteomics = pd.read_csv(
 )
 
 seed_counter = 0
-for i in DROPOUT_PERCENTS:
+for i in DROPOUT_PERCENTS_PROTEOMICS:
     for j in range(DROPOUT_N):
         np.random.seed(seed_counter)
         seed_counter += 1
@@ -89,7 +90,7 @@ mct1_transcriptomics = pd.read_csv(
 )
 
 seed_counter = 0
-for i in DROPOUT_PERCENTS:
+for i in DROPOUT_PERCENTS_PROTEOMICS:
     for j in range(DROPOUT_N):
         np.random.seed(seed_counter)
         seed_counter += 1

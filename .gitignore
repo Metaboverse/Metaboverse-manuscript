@@ -25,8 +25,10 @@ rna_cancer_data/single_cell/GSE148071_RAW.tar
 **.h5ad
 rna_cancer_data/single_cell/Marker_genes.csv
 sensitivity_analysis/metaboverse-cli-windows.exe
-sensitivity_analysis/lung_graphs/**
-sensitivity_analysis/lung_random_samples/**
-sensitivity_analysis/mct1_graphs/**
-sensitivity_analysis/mct1_random_samples/**
+sensitivity_analysis/lung_graphs
+sensitivity_analysis/lung_random_samples
+sensitivity_analysis/lung_output
+sensitivity_analysis/mct1_graphs
+sensitivity_analysis/mct1_random_samples
+sensitivity_analysis/mct1_output
 sensitivity_analysis/node_modules

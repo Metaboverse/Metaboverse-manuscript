@@ -80,7 +80,7 @@ function gatherMotifs(data, categories) {
     data.degree_dictionary,
     data.blocklist,
     categories)
-  console.log(collapsed_motifs_Avg)
+
   let collapsed_motifs_ModReg = modifierReg(
     threshold,
     data.collapsed_reaction_dictionary,
@@ -123,37 +123,5 @@ function gatherMotifs(data, categories) {
     data.blocklist,
     categories)
 
-  let all_collapsed_motifs = [];
-  for (let x in categories) { 
-    all_collapsed_motifs[x] = collapsed_motifs_Avg[x].concat(
-      collapsed_motifs_ModReg[x],
-      motifs_Avg[x],
-      motifs_ModReg[x]);
-  }
-
-  let global_collapsed_motifs = [];
-  for (let x in categories) {
-    global_collapsed_motifs[x] = [];
-    for (let m in all_collapsed_motifs[x]) {
-      global_collapsed_motifs[x].push(all_collapsed_motifs[x][m].id);
-    }
-  }
-
-  let all_motifs = [];
-  for (let x in categories) {
-    all_motifs[x] = motifs_Avg[x].concat(
-      motifs_ModReg[x]);
-  }
-
-  let global_motifs = [];
-  for (let x in categories) {
-    global_motifs[x] = [];
-    for (let m in all_motifs[x]) {
-      global_motifs[x].push(all_motifs[x][m].id);
-    }
-  }
-
-  console.log([global_collapsed_motifs, global_motifs])
-
-  return [global_collapsed_motifs, global_motifs];
+  return [collapsed_motifs_Avg, collapsed_motifs_ModReg, motifs_Avg, motifs_ModReg];
 }

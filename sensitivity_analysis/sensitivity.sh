@@ -22,13 +22,10 @@ python generate-sensitivity-graphs-mct1.py
 ### This step requires node.js
 ##### On linux, this can be installed using `sudo apt install nodejs`
 echo "Extracting reaction patterns..."
-npm start
+mkdir -p lung_output
+mkdir -p mct1_output
+npm start # You will likely need to direct to the correct default output directory for each file
 
 # Run network metrics of collapsed vs non-collapsed graphs
-### Small world, connectivity, etc
-echo "Generating network metrics..."
-python generate-network-metrics.py
-### Compare results - top reactions
-### Upset plots of what is missed
 echo "Generating comparison analysis metrics..."
 python generate-results-metrics.py
