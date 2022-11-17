@@ -8,9 +8,9 @@ Perform "average" and "modreg" reaction pattern search in python and output resu
 */
 //import .js scripts
 // Scripts were sourced from Metaboverse v0.10.0 and untested lines of code were removed from the original scripts
-const fs = require("fs");
-const $ = require("jQuery");
-const stat_value = 0.1; 
+var fs = require("fs");
+var $ = require("jQuery");
+var stat_value = 0.1; 
 
 // Read in list of all files to analyze
 console.log("Generating analysis list...")
@@ -45,12 +45,14 @@ for (let f in mct1_file_list) {
     let filename_motifs_collapsed_modreg = mct1_file_list[f].slice(0, -5) + "_mod_collapse.csv";
     exportTable(collapsed_motifs_Avg, entity_species_reverse_dictionary, filename_motifs_collapsed_avg);
     exportTable(collapsed_motifs_ModReg, entity_species_reverse_dictionary, filename_motifs_collapsed_modreg);
-    
+
     console.log(">>> Writing non-collapsed patterns to tables...")
     let filename_motifs_avg = mct1_file_list[f].slice(0, -5) + "_avg_noCollapse.csv";
     let filename_motifs_modreg = mct1_file_list[f].slice(0, -5) + "_mod_noCollapse.csv";
     exportTable(motifs_Avg, entity_species_reverse_dictionary, filename_motifs_avg);
     exportTable(motifs_ModReg, entity_species_reverse_dictionary, filename_motifs_modreg);
+    
+    alert("Pause")
 }
     
 alert("Processing complete. You may exit out of this window now.")

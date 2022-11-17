@@ -9,9 +9,13 @@ conda activate sensitivity-analysis
 
 # Generate sample datasets
 echo "Generating datasets for sensitivity analysis..."
+mkdir -p lung_random_samples
+mkdir -p mct1_random_samples
 python generate-sensitivity-datasets.py
 
 # Build sensitivity analysis graphs
+mkdir -p lung_graphs
+mkdir -p mct1_graphs
 echo "Generating graphs from lung dataset..."
 python generate-sensitivity-graphs-lung.py
 echo "Generating graphs from mct1 dataset..."

@@ -11,9 +11,9 @@ import shutil
 
 __path__ = os.getcwd()
 
-DROPOUT_N = 4
+REPLICATE_N = 6
 DROPOUT_PERCENTS = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
-DROPOUT_PERCENTS_PROTEOMICS = [0.0, 0.3]
+DROPOUT_PERCENTS_PROTEOMICS = [0.0, 0.3, 0.6]
 
 ### Take random samples from human lung metabolomics dataset
 
@@ -32,10 +32,10 @@ lung_metabolomics = pd.read_csv(
 
 seed_counter = 0
 for i in DROPOUT_PERCENTS:
-    for j in range(DROPOUT_N):
+    for j in range(REPLICATE_N):
         np.random.seed(seed_counter)
         seed_counter += 1
-        lung_metabolomics.sample(frac=1-i).to_csv(
+        lung_metabolomics.sample(frac=1.0-i).to_csv(
             os.path.join(lung_output, "lung_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
             sep="\t"
         )
@@ -57,7 +57,7 @@ mct1_metabolomics = pd.read_csv(
 
 seed_counter = 0
 for i in DROPOUT_PERCENTS:
-    for j in range(DROPOUT_N):
+    for j in range(REPLICATE_N):
         np.random.seed(seed_counter)
         seed_counter += 1
         mct1_metabolomics.sample(frac=1-i).to_csv(
@@ -74,7 +74,7 @@ mct1_proteomics = pd.read_csv(
 
 seed_counter = 0
 for i in DROPOUT_PERCENTS_PROTEOMICS:
-    for j in range(DROPOUT_N):
+    for j in range(REPLICATE_N):
         np.random.seed(seed_counter)
         seed_counter += 1
         mct1_proteomics.sample(frac=1-i).to_csv(
@@ -91,7 +91,7 @@ mct1_transcriptomics = pd.read_csv(
 
 seed_counter = 0
 for i in DROPOUT_PERCENTS_PROTEOMICS:
-    for j in range(DROPOUT_N):
+    for j in range(REPLICATE_N):
         np.random.seed(seed_counter)
         seed_counter += 1
         mct1_transcriptomics.sample(frac=1-i).to_csv(
