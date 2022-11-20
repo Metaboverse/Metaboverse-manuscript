@@ -1,4 +1,0 @@
-	log2fc	p-val 
-Arginine	-0.090765464	0.326164235
-Lysine	0.178803153	0.18973474
-Glutathione disulfide	-0.429392792	0.210173577

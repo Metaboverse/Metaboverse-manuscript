@@ -1,7 +1,0 @@
-	log2fc	p-val 
-Glutathione disulfide	-0.429392792	0.210173577
-Adenosine	0.461904104	0.19337773
-alpha-ketoglutarate	0.442943496	0.309423425
-Glutamate	-0.669851398	0.023994311
-Fructose-1,6Bisphosphate	-0.533873729	0.074608202
-Leucine	0.339486466	0.56515044

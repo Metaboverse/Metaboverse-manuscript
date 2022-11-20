@@ -1,4 +1,0 @@
-	log2fc	p-val 
-Alanine	0.452822162	0.033563829
-Fructose-6-Phosphate	-0.153746532	0.554052301
-Adenosine	0.461904104	0.19337773

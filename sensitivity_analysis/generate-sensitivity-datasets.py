@@ -33,12 +33,18 @@ lung_metabolomics = pd.read_csv(
 seed_counter = 0
 for i in DROPOUT_PERCENTS:
     for j in range(REPLICATE_N):
-        np.random.seed(seed_counter)
-        seed_counter += 1
-        lung_metabolomics.sample(frac=1.0-i).to_csv(
-            os.path.join(lung_output, "lung_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
-            sep="\t"
-        )
+        if i == 0.0:
+            lung_metabolomics.to_csv(
+                os.path.join(lung_output, "lung_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
+                sep="\t"
+            )
+        else:
+            np.random.seed(seed_counter)
+            seed_counter += 1
+            lung_metabolomics.sample(frac=1.0-i).to_csv(
+                os.path.join(lung_output, "lung_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
+                sep="\t"
+            )
 
 ### Take random samples from yeast mct1 multi-omics dataset
 
@@ -58,12 +64,18 @@ mct1_metabolomics = pd.read_csv(
 seed_counter = 0
 for i in DROPOUT_PERCENTS:
     for j in range(REPLICATE_N):
-        np.random.seed(seed_counter)
-        seed_counter += 1
-        mct1_metabolomics.sample(frac=1-i).to_csv(
-            os.path.join(mct1_output, "mct1_12hr_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
-            sep="\t"
-        )
+        if i == 0.0 or i == 0:
+            mct1_metabolomics.to_csv(
+                os.path.join(mct1_output, "mct1_12hr_metabolomics_dropout{0}percent_rep{1}.txt".format("0", j)),
+                sep="\t"
+            )
+        else:
+            np.random.seed(seed_counter)
+            seed_counter += 1
+            mct1_metabolomics.sample(frac=1-i).to_csv(
+                os.path.join(mct1_output, "mct1_12hr_metabolomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
+                sep="\t"
+            )
 
 # Read proteomics and generate drop-outs
 mct1_proteomics = pd.read_csv(
@@ -75,12 +87,18 @@ mct1_proteomics = pd.read_csv(
 seed_counter = 0
 for i in DROPOUT_PERCENTS_PROTEOMICS:
     for j in range(REPLICATE_N):
-        np.random.seed(seed_counter)
-        seed_counter += 1
-        mct1_proteomics.sample(frac=1-i).to_csv(
-            os.path.join(mct1_output, "mct1_12hr_proteomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
-            sep="\t"
-        )
+        if i == 0.0 or i == 0:
+            mct1_proteomics.to_csv(
+                os.path.join(mct1_output, "mct1_12hr_proteomics_dropout{0}percent_rep{1}.txt".format("0", j)),
+                sep="\t"
+            )
+        else:
+            np.random.seed(seed_counter)
+            seed_counter += 1
+            mct1_proteomics.sample(frac=1-i).to_csv(
+                os.path.join(mct1_output, "mct1_12hr_proteomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
+                sep="\t"
+            )
 
 # Read transcriptomics and generate drop-outs
 mct1_transcriptomics = pd.read_csv(
@@ -92,9 +110,15 @@ mct1_transcriptomics = pd.read_csv(
 seed_counter = 0
 for i in DROPOUT_PERCENTS_PROTEOMICS:
     for j in range(REPLICATE_N):
-        np.random.seed(seed_counter)
-        seed_counter += 1
-        mct1_transcriptomics.sample(frac=1-i).to_csv(
-            os.path.join(mct1_output, "mct1_12hr_transcriptomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
-            sep="\t"
-        )
+        if i == 0.0 or i == 0:
+            mct1_transcriptomics.to_csv(
+                os.path.join(mct1_output, "mct1_12hr_transcriptomics_dropout{0}percent_rep{1}.txt".format("0", j)),
+                sep="\t"
+            )
+        else:
+            np.random.seed(seed_counter)
+            seed_counter += 1
+            mct1_transcriptomics.sample(frac=1-i).to_csv(
+                os.path.join(mct1_output, "mct1_12hr_transcriptomics_dropout{0}percent_rep{1}.txt".format(int(i*100), j)),
+                sep="\t"
+            )
