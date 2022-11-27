@@ -88,7 +88,7 @@ print("\nGathered {0} files for mct1 metabolomics.".format(len(mct1_metabolomics
 print("\nGenerating graph objects...")
 for f in range(len(mct1_metabolomics)):
     for i in range(len(mct1_proteomics)):
-        for j in range(4):
+        for j in range(6):
             yeast_graph_cmd = """
                 {0} curate \
                     --output "{1}" \
@@ -117,7 +117,7 @@ for f in range(len(mct1_metabolomics)):
                 os.path.join(mct1_output, "SCE.mvdb"),
                 os.path.join(mct1_output, "SCE.nbdb"),
                 os.path.join(mct1_output, "SCE_template.mvrs"),
-                os.path.join(mct1_input, mct1_transcriptomics[i] + "_rep" + str(int(j)) + ".txt"),
+                "None", #os.path.join(mct1_input, mct1_transcriptomics[i] + "_rep" + str(int(j)) + ".txt"),
                 os.path.join(mct1_input, mct1_proteomics[i] + "_rep" + str(int(j)) + ".txt"),
                 os.path.join(mct1_input, mct1_metabolomics[f] + "_rep" + str(int(j)) + ".txt"),
                 str(mct1_metabolomics[f].split(".")[0]) + "_" + str(mct1_proteomics[i].split(".")[0]) + "_rep" + str(int(j)),

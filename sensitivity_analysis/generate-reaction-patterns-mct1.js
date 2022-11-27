@@ -41,14 +41,14 @@ for (let f in mct1_file_list) {
 
     // Export Average and ModReg patterns to tables for each network
     console.log(">>> Writing collapsed patterns to tables...")
-    let filename_motifs_collapsed_avg = mct1_file_list[f].slice(0, -5) + "_avg_collapse.csv";
-    let filename_motifs_collapsed_modreg = mct1_file_list[f].slice(0, -5) + "_mod_collapse.csv";
+    let filename_motifs_collapsed_avg = mct1_file_list[f].slice(0, -5) + "_avg_collapse.tsv";
+    let filename_motifs_collapsed_modreg = mct1_file_list[f].slice(0, -5) + "_mod_collapse.tsv";
     exportTable(collapsed_motifs_Avg, entity_species_reverse_dictionary, filename_motifs_collapsed_avg);
     exportTable(collapsed_motifs_ModReg, entity_species_reverse_dictionary, filename_motifs_collapsed_modreg);
 
     console.log(">>> Writing non-collapsed patterns to tables...")
-    let filename_motifs_avg = mct1_file_list[f].slice(0, -5) + "_avg_noCollapse.csv";
-    let filename_motifs_modreg = mct1_file_list[f].slice(0, -5) + "_mod_noCollapse.csv";
+    let filename_motifs_avg = mct1_file_list[f].slice(0, -5) + "_avg_noCollapse.tsv";
+    let filename_motifs_modreg = mct1_file_list[f].slice(0, -5) + "_mod_noCollapse.tsv";
     exportTable(motifs_Avg, entity_species_reverse_dictionary, filename_motifs_avg);
     exportTable(motifs_ModReg, entity_species_reverse_dictionary, filename_motifs_modreg);
     
