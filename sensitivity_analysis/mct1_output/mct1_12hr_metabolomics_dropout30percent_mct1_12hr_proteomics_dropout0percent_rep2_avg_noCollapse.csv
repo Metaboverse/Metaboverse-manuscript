@@ -1,0 +1,2 @@
+index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
+0	0	reaction_10896512	PNP catalyzes the conversion of (deoxy)inosine to hypoxanthine and (deoxy)ribose	undefined	Pi,Ino, dI	Hypoxanthine,R1P, dRibP	PNP trimer,catalyst	CHEBI:17596,CHEBI:28997,species_112016,CHEBI:58576,Q05788,YLR209C	1.4439186190000002	0.052712799	0.276087319	0.32792592356978784

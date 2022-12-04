@@ -1,0 +1,3 @@
+index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
+0	0	reaction_74376	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate (UPP)	undefined	Pi,(d)Ura	uracil,R1P, dRibP	UPP1, UPP2,catalyst	CHEBI:16450,CHEBI:16704,species_112016,species_112032,Q16831,ENST00000457596,O95045,ENST00000605860	1.062848662	0.008806056	0.002572302	0.012937375427977089
+1	0	reaction_74372	uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]	undefined	uracil,R1P, dRibP	Pi,(d)Ura	UPP1, UPP2,catalyst	species_112016,species_112032,CHEBI:16450,CHEBI:16704,Q16831,ENST00000457596,O95045,ENST00000605860	1.062848662	0.002572302	0.008806056	0.012937375427977089

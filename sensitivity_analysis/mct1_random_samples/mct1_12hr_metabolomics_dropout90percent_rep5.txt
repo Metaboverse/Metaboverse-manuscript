@@ -1,0 +1,4 @@
+	log2fc	p-val 
+Adenine	0.382145618	0.422732474
+Glutathione disulfide	-0.429392792	0.210173577
+Glucose	0.653243768	0.326518995
