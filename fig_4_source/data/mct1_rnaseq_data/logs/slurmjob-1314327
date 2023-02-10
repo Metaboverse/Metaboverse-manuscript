@@ -1,0 +1,509 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!WARNING: You appear to be using an outdated version of XPRESSpipe.
+!!!The current version is 0.6.1 and you are currently using version 0.6.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+======================
+User commands summary:
+======================
+XPRESSpipe version: 0.6.0
+cmd: seRNAseq
+input: /scratch/general/lustre/u0690617/1314327/input/
+output: /scratch/general/lustre/u0690617/1314327/output/
+reference: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/references/yeast_ensembl_v100_se49/
+gtf: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/references/yeast_ensembl_v100_se49/transcripts.gtf
+experiment: sce_mct1
+small_output: False
+two_pass: False
+adapters: ['AGATCGGAAGAGCACACGTCTGAACTCCAGTCA']
+quality: 28
+min_length: 17
+max_length: 0
+remove_rrna: False
+front_trim: 1
+umi_location: none
+umi_length: 0
+spacer_length: 0
+no_multimappers: False
+deduplicate: False
+output_bed: False
+quantification_method: htseq
+feature_type: exon
+stranded: no
+method: None
+vcf: None
+batch: None
+sjdbOverhang: 49
+mismatchRatio: 0.1
+seedSearchStartLmax: 50
+genome_size: 10
+gene_name: GAPDH
+max_processors: 128
+path: /uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/
+log_loc: /scratch/general/lustre/u0690617/1314327/output/
+log:  >> /scratch/general/lustre/u0690617/1314327/output/sce_mct1.log 2>&1
+log_file: /scratch/general/lustre/u0690617/1314327/output/sce_mct1.log
+=====================
+End commands summary
+=====================
+
+
+XPRESSpipe initialized...
+    
+Adaptor and quality trimming...
+
+  _       ,/'
+ (_).  ,/'
+  __  ::
+ (__)'  `\.
+           `\.
+       
+Resetting parallelization specs based on max file size to be processed:
+Max number of workers: 67
+Number of threads per worker (where available): 1
+14251X10_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X11_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X12_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X13_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X14_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X15_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X16_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+14251X17_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X18_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X19_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X1_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X20_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X21_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X22_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X23_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X24_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+14251X2_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X3_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X4_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X5_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X6_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X7_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X8_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+14251X9_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 1 of 1 complete...
+Process complete.
+************************
+    
+
+Running some QC on trimmed reads...
+
+Resetting parallelization specs based on max file size to be processed:
+Max number of workers: 67
+Number of threads per worker (where available): 1
+trimmed_14251X10_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X11_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X12_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X13_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X14_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X15_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X16_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X17_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X18_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X19_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X1_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X20_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X21_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X22_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X23_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X24_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X2_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X3_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X4_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X5_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X6_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X7_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X8_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X9_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 1 of 1 complete...
+Aligning...
+
+                                                     __________
+|             _,---.                          _..--'/          \              |
+|          ,-'      )                    _,-,'     /            \             |
+|         (          )               _,-'  /      /              \            |
+|          `-.__, -'             _,-/     /     _/ ,------------. \           |
+|     ,--._,---.             _,-'  /     /_,--'' | |            | |           |
+|   _(_,-'      )        _,-'/    /_, - '|       | |   XPRESS   | |           |
+| ,'  (        )      ,'/   /_, -'|      ||_  -  | |            | |           |
+|(     `--._,-'    _,' /_,-'|     ||_  - |       | |  yourself  | |           |
+| `--.__,-'     _,'/,-'|  - ||_ - |      ||_  -  | |            | |           |
+|            _,'/,'|  - ___ |     ||_  - |       | `------------' |           |
+|        _ ,' |_' -|- _(   ) |_   |      ||_  -  |                |           |
+|       ( ): ((`) -| (. `-/ )   - ||_  - |       |                |           |
+|      ` | '(-.,') '( _\`/-') _ - |      | _   - |                |           |
+|        `   (_.) -(_._|,-_)      ||_  - |       |                |           |
+| .        `. || ` | (_\||_)  _ - |      ||_  -  |                |           |
+|             `.    ` . ||  |   - ||_  - |       |                |           |
+|                `.     ||-.|  :  |  _   ||_   - |     __________ |           |
+|                   `.  ||    ` -.|   |  |   _   |    | ________ |`'--.._     |
+|                      `.           ` - .|  | |  |    || ()._o  ||   __ |     |
+|`.          `            `.   `           ` -' .|____|`'---.|>_||  |. ||     |
+|  `.                        `.                         `' -- .._|__|__||     |
+|    `.                ,----.---------- .                            .-_.     |
+|   _  `.             |.`.,' `.           `.                         || |     |
+|        `.         _|`. / `.  `.            `.                       |_o     |
+|          `.        |  `.   `.  `.-----_-----.\     `                        |
+|            `.      `.|.`|  | `. `./\  c__)___/\             .               |
+|              `.       `. `.|    `.\____\___)___\                            |
+|                `.          `.  _ `.\`____________\                          |
+|                  `.          |    |_|   ____   |_|                          |
+|          _         `.        `.|\ |#|__[....]__|#|`.                        |
+|                      `.         `================'  `.                      |
+
+       
+trimmed_14251X10_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 1 of 24 complete...
+trimmed_14251X11_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 2 of 24 complete...
+trimmed_14251X12_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 3 of 24 complete...
+trimmed_14251X13_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 4 of 24 complete...
+trimmed_14251X14_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 5 of 24 complete...
+trimmed_14251X15_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 6 of 24 complete...
+trimmed_14251X16_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 7 of 24 complete...
+trimmed_14251X17_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 8 of 24 complete...
+trimmed_14251X18_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 9 of 24 complete...
+trimmed_14251X19_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 10 of 24 complete...
+trimmed_14251X1_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 11 of 24 complete...
+trimmed_14251X20_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 12 of 24 complete...
+trimmed_14251X21_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 13 of 24 complete...
+trimmed_14251X22_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 14 of 24 complete...
+trimmed_14251X23_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 15 of 24 complete...
+trimmed_14251X24_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+Processing of batch 16 of 24 complete...
+trimmed_14251X2_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 17 of 24 complete...
+trimmed_14251X3_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 18 of 24 complete...
+trimmed_14251X4_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 19 of 24 complete...
+trimmed_14251X5_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 20 of 24 complete...
+trimmed_14251X6_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 21 of 24 complete...
+trimmed_14251X7_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 22 of 24 complete...
+trimmed_14251X8_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+Processing of batch 23 of 24 complete...
+trimmed_14251X9_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 24 of 24 complete...
+Process complete.
+************************
+    
+Generating count tables...
+
+    1...2...3...4...5...6...7...8...9...
+ _______________________________________________________________________________
+|{ _ ` ~~'"  /  },\    `,   ,`      _    ,~'                                ,~  |
+| '  \       {  |`,     `,'        / `~,/                               ,~`'    |
+|     \       ``'   \             (,\,'                       /`'~`,,~`'        |
+|      ,'          /            o\_,~'  _                    '~,   {}           |
+|     (       __  /             ,~'/~|\/_\  {}                ,'/               |
+|      `\  (   `'              |,'_  '<_                  ,,''/                 |
+|         `, '_,-              /"'` `'~-/,                )                     |
+|          `_`                {            \  `~,~  ,`, ,~`                     |
+|            ``~{^'~,_         \            \,_/  \/  '\)                       |
+|               /     `~~,,     ``~~~,        /       ; \/\                     |
+|               \          `,         \      /           `' <_>                 |
+|                `,       _|          ,     / _          _,~,|\                 |
+|                  {    ,/            \    / //         /      \                |
+|                  {  ,/               \  /  `          \_,-^,_/                |
+|                  { /                 `~'                    v     v           |
+|                  {,                                              /            |
+|                  `,_                                                          |
+|_______________________________________________________________________________|
+
+       
+14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X11_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X12_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X13_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X14_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X15_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X16_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+14251X17_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X18_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X19_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X1_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X20_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X21_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X22_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X23_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X24_170420_D00294_0314_BCB1VVANXX_7_Aligned.sort.bam has been processed.
+14251X2_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X3_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X4_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X5_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X6_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X7_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X8_170420_D00294_0314_BCB1VVANXX_5_Aligned.sort.bam has been processed.
+14251X9_170420_D00294_0314_BCB1VVANXX_6_Aligned.sort.bam has been processed.
+Processing of batch 1 of 1 complete...
+Process complete.
+************************
+    
+Normalizing counts based on parameters provided...
+
+                           ___,
+                    o___.-' /
+                    |      _\_
+                    |___.-'   `
+                    |
+                    |
+            _   _   j   _   _
+           [_]_[_]_[_]_[_]_[_]
+           [__j__j__j__j__j__]
+             [_j__j__j__j__]
+             [__j__j__j__j_]
+             [_j__j/V\_j__j]
+             [__j_// \__j_]
+             [_j__|   |_j__]
+             [__j_|___|__j_]
+             [_j__j__j__j__]
+             [__j__j__j__j_]
+  _   _   _  [_j__j__j__j__]  _   _   _   _
+_[_]_[_]_[_]_[__j__j__j__j_]_[_]_[_]_[_]_[_]_
+  _j__j__j__j[_j__j__j__j__]j__j__j__j__j_
+     j  j  j [  j  j  j  j ] j  j  j  j
+       
+Process complete.
+************************
+    
+Performing quality control on the processed sequencing data...
+
+      _               _               _
+     | |             | |             | |
+  ___| |__   ___  ___| | _____  _   _| |_
+ / __| '_ \ / _ \/ __| |/ / _ \| | | | __|
+| (__| | | |  __/ (__|   < (_) | |_| | |_
+ \___|_| |_|\___|\___|_|\_\___/ \__,_|\__|
+
+
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X8_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X9_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X6_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X2_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X7_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X18_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X22_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X24_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X14_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X23_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X3_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X5_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X11_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X4_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X16_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X15_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X17_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X20_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X12_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X13_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X10_170420_D00294_0314_BCB1VVANXX_6.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X1_170420_D00294_0314_BCB1VVANXX_5.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X21_170420_D00294_0314_BCB1VVANXX_7.txt
+Evaluating the read distribution profile for /scratch/general/lustre/u0690617/1314327/output/trimmed_fastq/trimmed_14251X19_170420_D00294_0314_BCB1VVANXX_7.txt
+trimmed_14251X10_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X11_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X12_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X13_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X14_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X15_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X16_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+trimmed_14251X17_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X18_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X19_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X1_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X20_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X21_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X22_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X23_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X24_170420_D00294_0314_BCB1VVANXX_7.txt has been processed.
+trimmed_14251X2_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X3_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X4_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X5_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X6_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X7_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X8_170420_D00294_0314_BCB1VVANXX_5.txt has been processed.
+trimmed_14251X9_170420_D00294_0314_BCB1VVANXX_6.txt has been processed.
+Processing of batch 1 of 1 complete...
+
+Running complexity analysis of sequence libraries...
+14251X10_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 1 of 24 complete...
+14251X11_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 2 of 24 complete...
+14251X12_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 3 of 24 complete...
+14251X13_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 4 of 24 complete...
+14251X14_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 5 of 24 complete...
+14251X15_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 6 of 24 complete...
+14251X16_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 7 of 24 complete...
+14251X17_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 8 of 24 complete...
+14251X18_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 9 of 24 complete...
+14251X19_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 10 of 24 complete...
+14251X1_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 11 of 24 complete...
+14251X20_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 12 of 24 complete...
+14251X21_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 13 of 24 complete...
+14251X22_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 14 of 24 complete...
+14251X23_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 15 of 24 complete...
+14251X24_170420_D00294_0314_BCB1VVANXX_7_dedupMarked.bam has been processed.
+Processing of batch 16 of 24 complete...
+14251X2_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 17 of 24 complete...
+14251X3_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 18 of 24 complete...
+14251X4_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 19 of 24 complete...
+14251X5_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 20 of 24 complete...
+14251X6_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 21 of 24 complete...
+14251X7_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 22 of 24 complete...
+14251X8_170420_D00294_0314_BCB1VVANXX_5_dedupMarked.bam has been processed.
+Processing of batch 23 of 24 complete...
+14251X9_170420_D00294_0314_BCB1VVANXX_6_dedupMarked.bam has been processed.
+Processing of batch 24 of 24 complete...
+Generating index for GAPDH...
+Could not find GAPDH in reference. Please try running the geneCoverage module with another known housekeeping gene for your organism.
+Generating index for genes...
+
+Generating metagene profiles...
+
+Getting positions of reads...
+Resetting parallelization specs based on max file size to be processed:
+Max number of workers: 42
+Number of threads per worker (where available): 3
+Evaluating the metagene profile for "14251X22_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X12_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X7_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X24_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X2_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X5_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X14_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X16_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X1_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X20_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X18_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X3_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X9_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X17_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X21_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X13_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X15_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X23_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X19_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X11_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X8_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X6_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+Evaluating the metagene profile for "14251X4_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam"
+14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X11_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X12_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X13_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X14_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X15_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X16_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+14251X17_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X18_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X19_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X1_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X20_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X21_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X22_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X23_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X24_170420_D00294_0314_BCB1VVANXX_7_Aligned.toTranscriptome.out.bam has been processed.
+14251X2_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X3_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X4_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X5_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X6_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X7_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X8_170420_D00294_0314_BCB1VVANXX_5_Aligned.toTranscriptome.out.bam has been processed.
+14251X9_170420_D00294_0314_BCB1VVANXX_6_Aligned.toTranscriptome.out.bam has been processed.
+Processing of batch 1 of 1 complete...
+
+Converting positions to metapositions...
+Resetting parallelization specs based on max file size to be processed:
+Max number of workers: 42
+Number of threads per worker (where available): 3
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/process.py", line 232, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/process.py", line 191, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/process.py", line 191, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/metagene.py", line 55, in finish_metagene
+    sep = '\t')
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/pandas/io/parsers.py", line 676, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/pandas/io/parsers.py", line 448, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/pandas/io/parsers.py", line 880, in __init__
+    self._make_engine(self.engine)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/pandas/io/parsers.py", line 1114, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/pandas/io/parsers.py", line 1891, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 374, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 674, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File /scratch/general/lustre/u0690617/1314327/output/metagene/metrics/14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.metaposit does not exist: '/scratch/general/lustre/u0690617/1314327/output/metagene/metrics/14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.metaposit'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/bin/xpresspipe", line 8, in <module>
+    sys.exit(main())
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/__main__.py", line 561, in main
+    make_metagene(args_dict, files)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/metagene.py", line 193, in make_metagene
+    mod_workers = True)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/parallel.py", line 169, in parallelize
+    args_dict)
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/parallel.py", line 128, in run_pools
+    for file in zip(batch, executor.map(func, batch)):
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/process.py", line 476, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/_base.py", line 586, in result_iterator
+    yield fs.pop().result()
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+FileNotFoundError: [Errno 2] File /scratch/general/lustre/u0690617/1314327/output/metagene/metrics/14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.metaposit does not exist: '/scratch/general/lustre/u0690617/1314327/output/metagene/metrics/14251X10_170420_D00294_0314_BCB1VVANXX_6_Aligned.metaposit'

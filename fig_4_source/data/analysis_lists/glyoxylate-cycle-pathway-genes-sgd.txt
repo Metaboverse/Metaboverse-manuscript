@@ -1,0 +1,17 @@
+# glyoxylate cycle						
+# source: SGD						
+# url: https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYOXYLATE-BYPASS						
+Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
+YDL078C	YDL078C	MDH3	MALATE-DEH-RXN	1.1.1.37	peroxisome malate dehydrogenase	No Evidence Code
+YOL126C	YOL126C	MDH2	MALATE-DEH-RXN	1.1.1.37	cytosolic malate dehydrogenase	No Evidence Code
+YKL029C	YKL029C	MAE1	MALATE-DEH-RXN	1.1.1.37	malate dehydrogenase	EV-EXP
+YCR005C	YCR005C	CIT2	CITSYN-RXN	2.3.3.1/2.3.3.16	citrate synthase	No Evidence Code
+YLR304C	YLR304C	ACO1	ACONITATEDEHYDR-RXN	No EC#	aconitate hydratase	No Evidence Code
+YJL200C	YJL200C	ACO2	ACONITATEDEHYDR-RXN	No EC#	aconitate hydratase	No Evidence Code
+YLR304C	YLR304C	ACO1	ACONITATEHYDR-RXN	No EC#	aconitate hydratase	No Evidence Code
+YJL200C	YJL200C	ACO2	ACONITATEHYDR-RXN	No EC#	aconitate hydratase	No Evidence Code
+YER065C	YER065C	ICL1	ISOCIT-CLEAV-RXN	4.1.3.1	isocitrate lyase	No Evidence Code
+YNL117W	YNL117W	MLS1	MALSYN-RXN	2.3.3.9	malate synthase	EV-EXP
+YIR031C	YIR031C	DAL7	MALSYN-RXN	2.3.3.9	malate synthase	EV-EXP
+YBR291C	YBR291C	CTP1	custom	custom	custom	custom
+YJR095W	YJR095W	SFC1	custom	custom	custom	custom

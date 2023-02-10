@@ -1,0 +1,9 @@
+	Condition	Time	Media	Group
+14251X1	a_WT	12	Raffinose	1
+14251X2	mct1	12	Raffinose	1
+14251X7	a_WT	12	Raffinose	1
+14251X8	mct1	12	Raffinose	1
+14251X13	a_WT	12	Raffinose	2
+14251X14	mct1	12	Raffinose	2
+14251X19	a_WT	12	Raffinose	3
+14251X20	mct1	12	Raffinose	3
