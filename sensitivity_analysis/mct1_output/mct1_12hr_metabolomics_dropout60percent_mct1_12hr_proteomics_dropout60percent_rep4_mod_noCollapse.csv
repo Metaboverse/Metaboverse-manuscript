@@ -1,7 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_10894511	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	undefined	Glutamate,NH4+,ATP	ADP,Pi,L-Gln	GLUL decamer,catalyst	P32288,YPR035W	1.512652852	0.023994311	0.030856243	0.07396395858237488
-1	0	reaction_10894720	Succinate <=> Fumarate (with FAD redox reaction on enzyme)	undefined	Succinate	FUMA	SDH complex (ox.),catalyst	Q04487,YMR118C,P21801,YLL041C,Q08749,TIM18,Q00711,YKL148C,species_113596	1.2781644970000001	0.039402047	0.331981197	0.3108927665153215
-2	0	reaction_10916855	VDAC1 transports PYR from cytosol to mitochondrial intermembrane space	undefined	Pyruvate	Pyruvate	Homologues of VDAC1,catalyst	P04840,POR1,P40478,YIL114C	1.3187165079999998	0.692554609	0.020062939	0.3204193759102033
-3	0	reaction_10894544	ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]	undefined	L-Orn,2OG	Glutamate,L-Glu5S	OAT hexamer,catalyst	P07991,YLR438W	1.462620537	0.023994311	0.000137623	0.004939626752380706
-4	0	reaction_10903131	PXLP-K341-GPT2 transaminates PYR to form L-Ala	undefined	Pyruvate,Glutamate	L-Ala,2OG	PXLP-K341-GPT2 dimer,catalyst	P52892,YDR111C,P52893,YLR089C	1.3904013339999999	0.023994311	0.050746438	0.09485307300420338
-5	0	reaction_10916143	MCAT transfers Mal from Mal-CoA to NDUFAB1	undefined	Malonyl-CoA,P32463	CoA-SH,P32463	Q12283,catalyst	YKL192C,YKL192C,YOR221C	3.227369453	0.065849952	0.000012	0.002416366667804927

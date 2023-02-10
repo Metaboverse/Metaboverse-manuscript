@@ -1,3 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_70692	ornithine => putrescine + CO2	undefined	ornithine	CO2,putrescine	PXLP-K69-ODC1,catalyst	ENST00000405333	1.032806715	3.2200000000000004e-8	0.330032371	0.00028022100574686293
-1	0	reaction_351210	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	undefined	dc-AdoMet,spermidine	SPN,5'-deoxy-5'-methylthioadenosine	SMS,catalyst	ENST00000404933	1.3999084970000002	0.0000312	0.001734452	0.0006323433004482271

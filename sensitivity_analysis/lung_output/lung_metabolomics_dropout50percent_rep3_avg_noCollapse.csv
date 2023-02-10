@@ -1,6 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_74247	XDH oxidizes hypoxanthine to form xanthine	undefined	H2O,O2,hypoxanthine	H2O2,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.1769716920000002	0.108933753	0.0000187	0.0038796854697387296
-1	0	reaction_9727347	XDH dehydrogenates hypoxanthine to form xanthine	undefined	H2O,hypoxanthine,NAD+	H+,NADH,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.1769716920000002	0.108933753	0.0000187	0.0038796854697387296
-2	0	reaction_5652195	SORD oxidizes D-sorbitol to Fru	undefined	sorbitol,NAD+	H+,fructose,NADH	SORD tetramer,catalyst	Q00796,ENST00000558789,species_216667	1.059399438	0.100168575	0.824893923	0.781374585905896
-3	0	reaction_5676912	Methionine is oxidised to methionine sulfoxide	undefined	H2O2,methionine	MetO,H2O		species_5676932,species_5676925	1.033109004	0.094225561	0.024643156	0.1309866427057332
-4	0	reaction_5676940	MSRA reduces L-methyl-(S)-S-oxide to L-Methionine	undefined	TXN,methionine sulfoxide	2xHC-TXN,methionine	MSRA,catalyst	ENST00000374517,ENST00000374517,ENST00000645318	1.033109004	0.024643156	0.094225561	0.1309866427057332

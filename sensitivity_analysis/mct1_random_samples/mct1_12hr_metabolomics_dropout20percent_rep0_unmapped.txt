@@ -1,2 +1,0 @@
-	log2fc	p-val 
-Acetoacetate	0.690044547	0.184730578

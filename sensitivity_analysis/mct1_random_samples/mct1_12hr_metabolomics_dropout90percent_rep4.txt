@@ -1,4 +1,0 @@
-	log2fc	p-val 
-Hypoxanthine	-0.121990524	0.276087319
-Fructose	0.11321061	0.702549414
-Glutathione disulfide	-0.429392792	0.210173577

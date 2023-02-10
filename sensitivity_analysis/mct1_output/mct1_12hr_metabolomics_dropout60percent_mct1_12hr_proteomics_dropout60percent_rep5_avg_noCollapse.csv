@@ -1,3 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_10894420	PXLP-K314-GPT transaminates L-Ala to form PYR	undefined	2OG,Alanine	Glutamate,PYR	PXLP-K314-GPT dimer,catalyst	P52893,YLR089C	1.12267356	0.033563829	0.023994311	0.07714084176679366
-1	0	reaction_10903131	PXLP-K341-GPT2 transaminates PYR to form L-Ala	undefined	PYR,Glutamate	Alanine,2OG	PXLP-K341-GPT2 dimer,catalyst	P52892,YDR111C,P52893,YLR089C	1.12267356	0.023994311	0.033563829	0.07714084176679366

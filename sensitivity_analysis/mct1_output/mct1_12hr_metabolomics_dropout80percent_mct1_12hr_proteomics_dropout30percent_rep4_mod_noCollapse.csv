@@ -1,3 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_10900771	SLC25A12,13 exchange cytosolic L-Glu for mitochondrial matrix L-Asp	undefined	L-Glu,H+,Aspartate	Aspartate,H+,L-Glu	Q12482,catalyst	YPR021C	1.477409957	0.142021774	0.00000123	0.0011361207823499446
-1	0	reaction_10916143	MCAT transfers Mal from Mal-CoA to NDUFAB1	undefined	Malonyl-CoA,P32463	CoA-SH,P32463	Q12283,catalyst	YKL192C,YKL192C,YOR221C	3.227369453	0.065849952	0.000012	0.002416366667804927

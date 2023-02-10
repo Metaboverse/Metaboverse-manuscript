@@ -1,3 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_10894328	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	undefined	Fructose-1,6Bisphosphate,H2O	Pi,Fru(6)P	FBP tetramer,catalyst,AMP,inhibitor	P09201,YLR377C,species_29926	2.4966985380000004	0.074608202	0.000745809	0.020276900908999765
-1	0	reaction_10916143	MCAT transfers Mal from Mal-CoA to NDUFAB1	undefined	Malonyl-CoA,P32463	CoA-SH,P32463	Q12283,catalyst	YKL192C,YKL192C,YOR221C	3.227369453	0.065849952	0.000012	0.002416366667804927

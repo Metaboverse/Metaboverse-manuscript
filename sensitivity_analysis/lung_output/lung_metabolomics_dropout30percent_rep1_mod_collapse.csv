@@ -1,5 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_74247	XDH oxidizes hypoxanthine to form xanthine	false	H2O,O2,hypoxanthine	H2O2,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.131447801	0.0000187	0.056344272	0.0027902310747621455
-1	0	reaction_9727347	XDH dehydrogenates hypoxanthine to form xanthine	false	H2O,hypoxanthine,NAD+	H+,NADH,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.131447801	0.0000187	0.056344272	0.0027902310747621455
-2	0	reaction_9727349	XDH dehydrogenates xanthine to form urate	false	H2O,xanthine,NAD+	uric acid,H+,NADH	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.131447801	0.0000187	0.056344272	0.0027902310747621455
-3	0	reaction_74258	XDH oxidizes xanthine to form urate	false	H2O,O2,xanthine	uric acid,H2O2	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.131447801	0.0000187	0.056344272	0.0027902310747621455

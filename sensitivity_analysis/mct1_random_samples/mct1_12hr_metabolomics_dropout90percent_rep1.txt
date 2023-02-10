@@ -1,4 +1,0 @@
-	log2fc	p-val 
-Fructose-1,6Bisphosphate	-0.533873729	0.074608202
-Sucrose	0.126830022	0.727564205
-Uracil	0.592739851	0.302592278

@@ -1,4 +1,0 @@
-index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
-0	0	reaction_74247	XDH oxidizes hypoxanthine to form xanthine	undefined	H2O,O2,hypoxanthine	H2O2,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.1769716920000002	0.108933753	0.0000187	0.0038796854697387296
-1	0	reaction_9727347	XDH dehydrogenates hypoxanthine to form xanthine	undefined	H2O,hypoxanthine,NAD+	H+,NADH,xanthine	XDH dimer,catalyst	P47989,ENST00000379416,CHEBI:44074,species_113596	1.1769716920000002	0.108933753	0.0000187	0.0038796854697387296
-2	0	reaction_351210	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	undefined	dc-AdoMet,spermidine	SPN,5'-deoxy-5'-methylthioadenosine	SMS,catalyst	ENST00000404933	1.3999084970000002	0.0000312	0.001734452	0.0006323433004482271
