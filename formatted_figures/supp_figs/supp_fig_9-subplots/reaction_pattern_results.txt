@@ -1,0 +1,31 @@
+MCT1-12hr-non-collapse-modreg-sort_stat
+---------------------------------------
+\textbf{a.} Reaction \#1: propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
+\textbf{b.} Reaction \#2: alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+, 
+\textbf{c.} Reaction \#3: FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
+\textbf{d.} Reaction \#4: Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
+
+
+
+MCT1-12hr-non-collapse-transreg-sort_stat
+-----------------------------------------
+\textbf{e.} Reaction \#1: SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
+\textbf{f.} Reaction \#2: SLC25A18,A22 cotransport Glu, H+ from cytosol to mitochondrial matrix, 
+\textbf{g.} Reaction \#4: Electron transfer from ubiquinol to cytochrome c of complex III, and 
+\textbf{h.} Reaction \#6: Transport of Citrate from Mitochondrial Matrix to cytosol.
+
+
+
+
+
+
+
+
+    \textbf{a.} \texttt{ModReg} reaction \#1: propionyl-CoA + carnitine => propionylcarnitine + CoA SH, 
+    \textbf{b.} \texttt{ModReg} reaction \#2: alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+, 
+    \textbf{c.} \texttt{ModReg} reaction \#3: FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster, 
+    \textbf{d.} \texttt{ModReg} reaction \#4: Succinate <=> Fumarate (with FAD redox reaction on enzyme), 
+    \textbf{e.} \texttt{TransReg} reaction \#1: SLC25A16 transports cytosolic CoA-SH to mitochondrial matrix, 
+    \textbf{f.} \texttt{TransReg} reaction \#2: SLC25A18,A22 cotransport Glu, H+ from cytosol to mitochondrial matrix, 
+    \textbf{g.} \texttt{TransReg} reaction \#4: Electron transfer from ubiquinol to cytochrome c of complex III, and 
+    \textbf{h.} \texttt{TransReg} reaction \#6: Transport of Citrate from Mitochondrial Matrix to cytosol.

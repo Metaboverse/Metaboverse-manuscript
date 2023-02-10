@@ -1,0 +1,997 @@
+Name,Formula,m/z,RT
+,,,
+ 5-Methoxytryptamine,C11H14N2O,189.10333,8.18
+,,,
+1-Methyl imidozolacetic Acid Hydrochloride,C6H8N2O2,139.0513,9.05
+,,,
+1-Methyladenosine,C11H15N5O4,280.10513,6.85
+,,,
+1-Methyl-Histidine,C7H11N3O2,168.07785,14.76
+,,,
+2-Amino-3-phosphonopropionic acid,C3H8NO5P,168.00673,13.79
+,,,
+2-Furoylglycine,C7H7NO4,168.03023,7.01
+,,,
+2-Hydroxybutyric acid,C4H8O3,103.04007,6.23
+,,,
+2-Methyl-3-ketovaleric acid,C6H10O3,129.05573,2.57
+,,,
+2-Phenylbutyric acid,C10H12O2,163.07645,2.68
+,,,
+3-Cresotinic acid,C8H8O3,151.04007,2.26
+,,,
+3-Hydroxyanthranilic acid,C7H7NO3,152.03532,5.37
+,,,
+3-hydroxylbutyrate,C4H8O3,103.04007,7.73
+,,,
+3-Methyladipic acid,C7H12O4,159.06628,11.41
+,,,
+3-Methyl-Histidine,C7H11N3O2,168.07785,13.27
+,,,
+4-aminobutyrate,C4H9NO2,102.05605,11.42
+,,,
+4-Aminohippuric acid,C9H10N2O3,193.06186,7.4
+,,,
+4-Guanidinobutanoic acid,C5H11N3O2,144.07785,13.17
+,,,
+4-Pyridoxic acid,C8H9NO4,182.04588,2.45
+,,,
+5-Aminopentanoic acid,C5H11NO2,116.0717,13.57
+,,,
+5-Hydroxy-DL-lysine hydrochloride,C6H14N2O3,161.09317,16.64
+,,,
+5-Hydroxymethyluracil,C5H6N2O3,141.03056,7.29
+,,,
+5-L-Hydroxytryptophan,C11H12N2O3,219.07751,10.24
+,,,
+5-Methoxytryptophan,C12H14N2O3,233.09317,8.47
+,,,
+5-methyl-THF,C20H25N7O6,458.17935,13.01
+,,,
+5'-Methylthioadenosine,C11H15N5O3S,296.08228,4.72
+,,,
+5-Phenylvaleric acid,C11H14O2,177.0921,2.76
+,,,
+6-Dimethylaminopurine,C7H9N5,162.07852,4.33
+,,,
+7-methylguanosine,C11H16N5O5,297.10788,7.2
+,,,
+acetoacetate,C4H6O3,101.02442,7.02
+,,,
+acetoacetyl-CoA,C25H40N7O18P3S,850.12909,13.04
+,,,
+acetyl-CoA,C23H38N7O17P3S,808.11847,13.14
+,,,
+acetylphosphate,C2H5O5P,138.98018,13.23
+,,,
+aconitate,C6H6O6,173.00916,13.67
+,,,
+Aconitic acid,C6H6O6,173.00916,13.51
+,,,
+adenine,C5H5N5,134.04723,7.28
+,,,
+adenosine,C10H13N5O4,266.08948,8.5
+,,,
+adenosine 5'-phosphosulfate,C10H14N5O10PS,426.01263,8.9
+,,,
+Adipic acid,C6H10O4,145.05063,12.23
+,,,
+Adonitol,C5H12O5,151.0612,9.27
+,,,
+ADP,C10H15N5O10P2,426.02213,13.86
+,,,
+ADP-D-glucose,C16H25N5O15P2,588.07495,13.38
+,,,
+a-ketoglutarate,C5H6O5,145.01425,11.34
+,,,
+alanine,C3H7NO2,88.04041,12.99
+,,,
+allantoin,C4H6N4O3,157.03671,7.82
+,,,
+Alloisoleucine,C6H13NO2,130.08736,9.69
+,,,
+Aminoadipic acid,C6H11NO4,160.06154,13.35
+,,,
+Aminolevulinic acid,C5H9NO3,130.05096,12.21
+,,,
+AMP,C10H14N5O7P,346.05582,13.5
+,,,
+Anserine,C10H16N4O3,239.11496,13.89
+,,,
+anthranilate,C7H7NO2,136.04041,4.07
+,,,
+Arachidic acid,C20H40O2,311.29556,2.43
+,,,
+arginine,C6H14N4O2,173.1044,17.87
+,,,
+asparagine,C4H8N2O3,131.04622,13.46
+,,,
+aspartate,C4H7NO4,132.03023,13.46
+,,,
+ATP,C10H16N5O13P3,505.98846,14.01
+,,,
+b-alanine,C3H7NO2,88.04041,13.35
+,,,
+b-Aminoisobutyric acid,C4H9NO2,102.05605,12.17
+,,,
+betaine,C5H11NO2,116.0717,10.21
+,,,
+biotin,C10H16N2O3S,243.08089,8.58
+,,,
+Butyric acid,C4H8O2,,
+,,,
+butyryl-CoA,C25H42N7O17P3S,836.14978,12.86
+,,,
+carnitine,C7H15NO3,160.09792,13.12
+,,,
+Carnosine,C9H14N4O3,225.09932,14
+,,,
+CDP,C9H15N3O11P2,402.01089,13.98
+,,,
+CDP-choline,C14H27N4O11P2,488.10788,8.51
+,,,
+Cellobiose,C12H22O11,341.10895,13.71
+,,,
+Cholic acid,C24H40O5,407.2803,7.03
+,,,
+Citraconic acid,C5H6O4,129.01933,13.51
+,,,
+citrate/isocitrate,C6H8O7,191.01973,13.98
+,,,
+citrulline,C6H13N3O3,174.08841,13.56
+,,,
+CMP,C9H14N3O8P,322.04459,13.76
+,,,
+coenzyme A,C21H36N7O16P3S,766.10791,13.29
+,,,
+creatine,C4H9N3O2,130.06219,12.98
+,,,
+Creatine phosphate ,C4H10N3O5P,210.02853,13.55
+,,,
+Creatinine,C4H7N3O,112.05164,7.55
+,,,
+CTP,C9H16N3O14P3,481.97723,14.23
+,,,
+cyclic-AMP,C10H12N5O6P,328.04526,8.89
+,,,
+cystathionine,C7H14N2O4S,221.06015,14.41
+,,,
+cysteine,C3H7NO2S,120.01247,13.82
+,,,
+cytidine,C9H13N3O5,242.07825,9.11
+,,,
+cytosine,C4H5N3O,110.03599,7.99
+,,,
+D-2-Aminobutyric acid,C4H9NO2,102.05605,12.1
+,,,
+dAMP,C10H14N5O6P,330.06088,13.38
+,,,
+dATP,C10H16N5O12P3,489.99356,13.88
+,,,
+dCDP,C9H15N3O10P2,386.01599,13.83
+,,,
+dCMP,C9H14N3O7P,306.04965,13.62
+,,,
+dCTP,C9H16N3O13P3,465.98233,14.08
+,,,
+deoxyadenosine,C10H13N5O3,250.09456,5.76
+,,,
+deoxyguanosine,C10H13N5O4,266.08948,8.5
+,,,
+deoxyinosine,C10H12N4O4,251.07858,7.61
+,,,
+deoxyribose-phosphate,C5H11O7P,213.01697,13.47
+,,,
+deoxyuridine,C9H12N2O5,227.06735,6.14
+,,,
+dephospho-CoA,C21H35N7O13P2S,686.1416,10.71
+,,,
+D-erythrose-4-phosphate,C4H9O7P,199.00131,13.76
+,,,
+D-Fructose-6-phosphate,C6H13O9P,259.02243,13.74
+,,,
+dGDP,C10H15N5O10P2,426.02213,13.94
+,,,
+D-gluconate,C6H12O7,195.05103,7.04
+,,,
+D-glucosamine-1/6-phosphate,C6H14NO8P,258.03842,13.85
+,,,
+D-glyceraldehdye-3-phosphate,C3H7O6P,168.99075,13.73
+,,,
+dGMP,C10H14N5O7P,346.05582,13.72
+,,,
+Diaminopimelic Acid,C7H14N2O4,189.08807,14.51
+,,,
+Diethylthiophosphate,C4H11O3PS,169.00937,2.39
+,,,
+Dihydrouracil,C4H6N2O2,113.03565,4.4
+,,,
+dihydroxy-acetone-phosphate,C3H7O6P,168.99075,13.51
+,,,
+dimethylglycine,C4H9NO2,102.05605,11.34
+,,,
+Dimethylmalonic acid,C5H8O4,131.03499,9.07
+,,,
+DL-2-Aminooctanoic acid,C8H17NO2,158.11865,7
+,,,
+DL-Arabinose,C5H10O5,149.04555,10.6
+,,,
+DL-Pipecolic acid,C6H11NO2,128.0717,11.48
+,,,
+DL-Valine,C5H11NO2,116.0717,10.97
+,,,
+D-Pantethine,C22H42N4O8S2,553.23712,7.06
+,,,
+D-Phenyllactic acid,C9H10O3,165.05573,2.75
+,,,
+D-phospho-L-serine,C3H8NO6P,184.0065,13.94
+,,,
+dTDP,C10H16N2O11P2,401.01566,13.37
+,,,
+dTTP,C10H17N2O14P3,480.98199,13.85
+,,,
+dUMP,C9H13N2O8P,307.03366,13.59
+,,,
+dUTP,C9H15N2O14P3,466.96634,13.94
+,,,
+D-Xylose,C5H10O5,149.04555,10.04
+,,,
+FAD,C27H33N9O15P2,784.14984,12.52/12.77
+,,,
+FMN,C17H21N4O9P,455.09735,13.17
+,,,
+folate,C19H19N7O6,440.13242,13.26
+,,,
+Fructose,C6H12O6,179.05611,10.65
+,,,
+fructose-1-6-bisphosphate,C6H14O12P2,338.98877,13.9
+,,,
+fumarate,C4H4O4,115.00368,11.61
+,,,
+Galactose,C6H12O6,179.05611,12.12
+,,,
+Galacturonic acid,C6H10O7,193.03537,13.43
+,,,
+GDP,C10H15N5O11P2,442.01706,13.99
+,,,
+Gluconolactone,C6H10O9,177.04047,7.81
+,,,
+glucosamine-6-phosphate,C6H14NO8P,258.03842,13.85
+,,,
+Glucose,C6H12O6,179.05611,11.75
+,,,
+glucose-1-phosphate,C6H13O9P,259.02243,13.86
+,,,
+Glutaconic acid,C5H6O4,129.01933,13.51
+,,,
+glutamate,C5H9NO4,146.04588,13.21
+,,,
+glutamine,C5H10N2O3,145.06186,13.3
+,,,
+Glutaric acid,C5H8O4,131.03499,12.24
+,,,
+glutathione,C10H17N3O6S,306.07654,13.05
+,,,
+glutathione disulfide,C20H32N6O12S2,611.14471,13.76
+,,,
+Glyceraldehyde-3-phosphate,C3H7O6P,168.99075,13.73
+,,,
+glycerate,C3H6O4,105.01933,10.56
+,,,
+glycine,C2H5NO2,74.02475,13.3
+,,,
+glycolate,C2H4O3,75.00877,8.88
+,,,
+Glycyl-L-leucine,C8H16N2O3,187.10881,8.54
+,,,
+Glycyl-L-proline,C7H12N2O3,171.07751,12.72
+,,,
+GMP,C10H14N5O8P,362.05072,13.79
+,,,
+GTP,C10H16N5O14P3,521.9834,14.34
+,,,
+Guanidoacetic acid,C3H7N3O2,116.04655,13.1
+,,,
+guanine,C5H5N5O,150.04213,8.51
+,,,
+guanosine,C10H13N5O5,282.08438,9.58
+,,,
+Histamine,C5H9N3,110.07237,14
+,,,
+histidine,C6H9N3O2,154.06219,14.24
+,,,
+Homoarginine,C7H16N4O2,187.12006,17.98
+,,,
+Homocarnosine,C10H16N4O3,239.11496,14.27
+,,,
+Homocitrulline,C7H15N3O3,188.10406,13.43
+,,,
+homocysteine,C4H9NO2S,134.02812,10.75
+,,,
+homocysteine,C4H9NO2S,134.02812,7.96
+,,,
+homocystine,C8H16N2O4S2,267.04788,13.82
+,,,
+homoserine,C4H9NO3,118.05096,13.15
+,,,
+Hydroquinone,C6H6O2,109.0295,2.9
+,,,
+Hydroxyindoleacetic acid,C10H9NO3,190.05096,7.04
+,,,
+Hydroxyphenyllactic acid,C9H10O4,181.05063,2.85
+,,,
+hydroxyphenylpyruvate,C9H8O4,179.03499,2.74
+,,,
+hydroxyproline,C5H9NO3,130.05096,12.91
+,,,
+hypoxanthine,C5H4N4O,135.03123,7.5
+,,,
+IDP,C10H14N4O11P2,427.00616,13.82
+,,,
+Imidazoleacetic acid,C6H8N2O2,139.0513,4.04
+,,,
+IMP,C10H13N4O8P,347.03983,13.68
+,,,
+indole,C8H7N,116.05058,2.6
+,,,
+Indole-3-ethanol,C10H11NO,160.07678,2.76
+,,,
+inosine,C10H12N4O5,267.07349,8.43
+,,,
+isoleucine,C6H13NO2,130.08736,9.73
+,,,
+Isovaleric acid,C5H10O2,101.06081,12.01
+,,,
+Isoxanthopterin,C6H5N5O2,178.03705,10.76
+,,,
+L-2-Hydroxyglutaric acid,C5H8O5,147.02989,5.24
+,,,
+lactate,C3H6O3,89.02442,7.8
+,,,
+Lactose,C12H22O11,341.10895,13.86
+,,,
+L-Aspartyl-L-phenylalanine,C13H16N2O5,279.09863,10.72
+,,,
+leucine,C6H13NO2,130.08736,9.18
+,,,
+Linoleic acid,C18H32O2,279.23294,2.37
+,,,
+lysine,C6H14N2O2,145.09825,17.53
+,,,
+malate,C4H6O5,133.01425,13.28
+,,,
+Malonic acid,C3H4O4,103.00368,13.04
+,,,
+malonyl-CoA,C24H38N7O19P3S,852.10834,13.46
+,,,
+Mandelic acid,C8H8O3,151.04007,2.77
+,,,
+Mannose,C6H12O6,179.05611,11.14
+,,,
+Mannose 6-phosphate,C6H13O9P,259.02243,13.75
+,,,
+m-Coumaric acid,C9H8O3,163.04007,2.95
+,,,
+Melatonin,C13H16N2O2,231.11391,2.85
+,,,
+methionine,C5H11NO2S,148.04378,9.98
+,,,
+Methionine sulfoxide,C5H11NO3S,164.03868,12.98
+,,,
+Methylcysteine,C4H9NO2S,134.02812,10.77
+,,,
+Methylglutaric acid,C6H10O4,145.0506,11.65
+,,,
+Methylmalonic acid,C4H6O4,117.01933,11.63
+,,,
+methylnicotinamide,C7H9N2O,121.04073,4.23
+,,,
+Methyloxovaleric acid (Ketoleucine),C6H10O3,129.05573,2.51
+,,,
+Methylsuccinic acid,C5H8O4,131.03499,11.43/10.97
+,,,
+myo-inositol,C6H12O6,179.05611,13.86
+,,,
+Myristic acid,C14H28O2,227.20166,2.42
+,,,
+N-Acetylaspartic acid,C6H9NO5,174.0408,12.29/12.66
+,,,
+N-Acetylcarnitine ,C9H17NO4,202.10847,11.38
+,,,
+N-Acetyl-cysteine,C5H9NO3S,,7.02
+,,,
+N-Acetylglycine,C4H7NO3,116.03532,8.73
+,,,
+N-Acetyl-L-alanine,C5H9NO3,130.05096,8.08
+,,,
+N-Acetyl-L-arginine,C8H16N4O3,,13.26
+,,,
+N-Acetyl-L-asparagine,C6H10N2O4,,10.64
+,,,
+N-acetyl-L-glutamine,C7H12N2O4,,10.56
+,,,
+N-Acetyl-L-leucine,C8H15NO3,,6.72
+,,,
+N-Acetyl-L-isoleucine,C8H15NO3,,6.6
+,,,
+N-acetyl-L-ornithine,C7H14N2O3,,13.84
+,,,
+N-Acetyl-L-phenylalanine,C11H13NO3,,5.17
+,,,
+N-Acetyl-L-proline,C7H11NO3,,8.65
+,,,
+N-Acetyllysine,C8H16N2O3,187.10881,13.65
+,,,
+N-Acetylputrescine,C6H14N2O,129.1033,15.7
+,,,
+N-Acetylserine,C5H9NO4,146.04588,10.51
+,,,
+N-Acetylserotonin ,C12H14N2O2,217.09825,4.01
+,,,
+N-Acetyltyrosine,C11H13NO4,222.07718,7.04
+,,,
+NAD+,C21H27N7O14P2,662.10187,13.68
+,,,
+NADH,C21H29N7O14P2,664.11749,12.86
+,,,
+NADP+,C21H28N7O17P3,742.06818,13.82
+,,,
+NADPH,C21H30N7O17P3,744.0838,13.61
+,,,
+N-carbamoyl-L-aspartate,C5H8N2O5,175.03604,13.26
+,,,
+nicotinamide,C6H6N2O,121.0407,4.26
+,,,
+nicotinate,C6H5NO2,122.02475,7.11
+,,,
+N-Methyl-a-aminoisobutyric acid,C5H11NO2,116.0717,13.57
+,,,
+N-Methyl-D-aspartic acid,C5H9NO4,146.04588,12.87
+,,,
+N-Octanoylglycine,C10H19NO3,200.12921,2.81
+,,,
+O-acetyl-L-serine,C5H9NO4,,10.2
+,,,
+o-Cresol ,C7H8O,107.05024,2.22
+,,,
+O-Phosphoethanolamine,C2H8NO4P,140.01183,14.15
+,,,
+ornithine,C5H12N2O2,131.0826,16.6
+,,,
+orotate,C5H4N2O4,155.00983,7.85
+,,,
+pantothenate,C9H17NO5,218.10339,8.29
+,,,
+Parahydroxyphenylacetic acid,C8H8O3,151.04007,2.79
+,,,
+p-Cresol,C7H8O,107.05024,2.65
+,,,
+PEP,C3H5O6P,166.9751,13.69
+,,,
+Phenylacetylglycine,C10H11NO3,192.06662,2.91
+,,,
+phenylalanine,C9H11NO2,164.0717,8.66
+,,,
+Phenylethanolamine,C8H11NO,136.07678,7.75
+,,,
+phosphoenolpyruvate,C3H5O6P,166.9751,13.86
+,,,
+Phosphoserine,C3H8NO6P,184.00165,13.81
+,,,
+Pimelic acid,C7H12O4,159.06628,11.26/11.50
+,,,
+proline,C5H9NO2,114.05605,11.81
+,,,
+propionyl-CoA,C24H40N7O17P3S,822.13416,13.09
+,,,
+purine,C5H4N4,119.03632,6.18
+,,,
+Pyridoxal 5-phosphate,C8H10NO6P,246.0173,13.79
+,,,
+Pyridoxamine,C8H12N2O2,167.0826,12.79
+,,,
+pyridoxine,C8H11NO3,168.06662,6.28
+,,,
+Pyroglutamic acid,C5H7NO3,128.03532,9.03
+,,,
+Pyrrolidonecarboxylic acid,C5H7NO3,128.03532,9.03
+,,,
+pyruvate,C3H4O3,87.0087,4.08
+,,,
+quinolinate,C7H5NO4,166.01459,13.3
+,,,
+riboflavin,C17H20N4O6,375.13101,7.8
+,,,
+Ribose,C5H10O5,149.04555,10.6
+,,,
+ribose-phosphate,C5H11O8P,229.01187,13.67
+,,,
+Ribothymidine,C10H14N2O6,257.07791,7.04
+,,,
+S-adenosyl-L-homoCysteine,C14H20N6O5S,383.11432,13.37
+,,,
+sarcosine,C3H7NO2,88.04041,12.62
+,,,
+Sepiapterin,C9H11N5O3,236.07892,7.57
+,,,
+serine,C3H7NO3,104.03532,13.4
+,,,
+Serotonin,C10H12N2O,175.08769,9.53
+,,,
+shikimate,C7H10O5,173.04555,11.35/11.72
+,,,
+sn-glycerol-3-phosphate,C3H9O6P,171.00639,13.56
+,,,
+Stearic acid,C18H36O2,283.26425,2.35
+,,,
+Suberic acid,C8H14O4,173.08194,2.92
+,,,
+succinate,C4H6O4,117.01933,11.63/12.57
+,,,
+Sucrose,C12H22O11,341.10895,13.34
+,,,
+Tartaric acid,C4H6O6,149.00916,13.3
+,,,
+taurine,C2H7NO3S,124.00739,10.78
+,,,
+threonine,C4H9NO3,118.05096,12.97
+,,,
+thymidine,C10H14N2O5,241.08299,5.27
+,,,
+thymine,C5H6N2O2,125.03565,4.45
+,,,
+Tiglic acid,C5H8O2,99.04515,4.07
+,,,
+trans-Glutaconic acid,C5H6O4,129.01933,13.51
+,,,
+trehalose,C12H22O11,341.10895,7.19
+,,,
+trehalose-6-Phosphate,C12H23O14P,421.07526,13.96
+,,,
+Tryptamine,C10H12N2,159.09277,8.34
+,,,
+tryptophan,C11H12N2O2,203.0826,8.6
+,,,
+tyrosine,C9H11NO3,180.06662,10.73
+,,,
+UDP,C9H14N2O12P2,402.99493,13.88
+,,,
+UDP-D-glucose,C15H24N2O17P2,565.04773,13.51
+,,,
+UMP,C9H13N2O9P,323.02859,13.59
+,,,
+Undecanoic acid,C11H22O2,185.15471,2.54
+,,,
+uracil,C4H4N2O2,111.02,5.03
+,,,
+Uric acid,C5H4N4O3,167.02106,9.19
+,,,
+uridine,C9H12N2O6,243.06226,7.43
+,,,
+Urocanic acid,C6H6N2O2,137.03564,8.58
+,,,
+UTP,C9H15N2O15P3,482.96124,14.05
+,,,
+valine,C5H11NO2,116.0717,11.01
+,,,
+xanthine,C5H4N4O2,151.02615,8.25
+,,,
+xanthosine,C10H12N4O6,283.06842,9
+,,,
+Xanthurenic acid,C10H7NO4,204.03023,7.1
+,,,
+Taurodeoxycholic acid,C26H45NO6S,498.28949,2.72/4.14
+,,,
+Ala-Ala,C6H12N2O3,,10.43
+,,,
+Glycerophosphocholine,C8H20NO6P,,13.31
+,,,
+oxoadipate,C6H8O5,159.029495,10.35
+,,,
+2-hydroxypyridine,C5H5NO,94.0298,13.2499
+,,,
+O-phosphohomoserine,C4H10NO6P,198.0171,14.0775
+,,,
+Glyoxylic acid,C2H2O3,72.9927,11.6607
+,,,
+2-hydroxyglutarate,C5H8O5,147.029556,12.03
+,,,
+N-acetyl-glutamate,C7H12O6,188.056,11.99
+,,,
+Thymidine-5-triphosphate,C10H17N2O14P3,480.981506,13.69
+,,,
+phenylpyruvate,C9H8O3,163.039716,4.03
+,,,
+pyridoxamine-5-phosphate,C8H13N2O5P,247.0486,14.03
+,,,
+Quinic acid,C7H12O6,191.055756,10.42
+,,,
+Mannitol-1-phosphate,C6H15O9P,261.0376,13.66
+,,,
+Cyclic-ADP-ribose,C15H21N5O13P2,540.053223,13.27
+,,,
+,,,
+,,,
+5-Methylcytosine,C5H7N3O,124.051559,7.72
+,,,
+Pipecolate,C6H11NO2,128.0717,11.61
+,,,
+Muramic acid,C9H17NO7,250.093231,13.09
+,,,
+Indole-3-acetic acid ,C10H9NO2,174.056,3
+,,,
+Tyramine,C8H11NO,136.076782,9.58
+,,,
+Pimelic acid,C7H12O4,159.066284,12.35
+,,,
+Glyoxylic acid ,C2H2O3,72.993118,11.09
+,,,
+3-Methylindole,C9H9N,130.066223,3
+,,,
+2-Oxo-3-phenylpropanoic acid,C9H8O3,163.04007,3
+,,,
+Kynurenic acid,C10H7NO3,188.035,4.83
+,,,
+L-Homoserine,C4H9NO3,118.050964,13.31
+,,,
+Glycolic acid,C2H4O3,75.008766,9.09
+,,,
+Sebacic acid,C10H18O4,201.1132,11
+,,,
+Gentisic acid,C7H6O4,153.019,2.53
+,,,
+Glycocholic acid ,C26H43NO6,75.0087,7.2
+,,,
+L-Gulonic acid-lactone,C6H10O6,177.0404,7.64
+,,,
+3-Methoxytyramine ,C9H13NO2,166.087357,9.13
+,,,
+DL-5-Hydroxylysine ,C6H14N2O3,161.093,16.33
+,,,
+Ureidosuccinic acid (carbamoylAspartate),C5H8N2O5,175.03604,13.48
+,,,
+Bilirubin,C33H36N4O6,583.2562,2.29
+,,,
+L-(?)-3-Phenyllactic acid,C9H10O3,165.0557,2.8
+,,,
+?-N-Acetylglucosamine,C8H15NO6,220.08265,10.11
+,,,
+L-Dopa,C9H11NO4,196.0615,2.74
+,,,
+Dopamine ,C8H11NO2,152.0717,8.1
+,,,
+DL-4-Hydroxy-3-methoxymandelic acid,C9H10O5,197.045547,4.34
+,,,
+Pyridoxamine,C8H12N2O2,167.082596,12.4
+,,,
+2-Furoylglycine,C7H7NO4,,7.11
+,,,
+2-Methylmalonic acid,C4H6O4,117.0193,12.98
+,,,
+L-Fucose,C6H12O5,163.0612,9.06
+,,,
+N-Acetylneuraminic acid,C11H19NO9,308.098,13
+,,,
+3-Hydroxyphenylacetic acid,C8H8O3,151.04007,2.86
+,,,
+2-Hydroxycaproic acid,C6H12O3,131.0713,2.9
+,,,
+3-4-Dihydroxyhydrocinnamic acid,C9H10O4,181.0506,7.15
+,,,
+2-Hydroxyoctanoic acid,C8H16O3,159.1026,2.65
+,,,
+trans-3-Hydroxycinnamic acid,C9H8O3,163.04007,3.04
+,,,
+2-Methylhippuric acid,C10H11NO3,192.066,2.96
+,,,
+Phosphorylcholine,C5H14NO4P,182.05877,14.3
+,,,
+Quinaldic acid,C10H7NO2,172.0404,7.08
+,,,
+2-Methylbutyrylglycine,C7H13NO3,158.0822,6
+,,,
+3-Furoic acid,C5H4O3,111.0087,4.08
+,,,
+D-Saccharic acid ,C6H10O8,209.03089,14
+,,,
+4-hydroxy-3-methylbenzoic acid,C8H8O3,151.04007,3
+,,,
+N-Methyl-D-aspartic acid,C5H9NO4,146.045883,12.98
+,,,
+3-4-5-Trimethoxycinnamic acid,C12H14O5,237.0768,2.85
+,,,
+3-Indolebutyric acid,C12H13NO2,202.0873,2.9
+,,,
+3-4-Dimethoxyphenylacetic acid,C10H12O4,195.066,3.06
+,,,
+Phenylacetylglycine,C10H11NO3,192.066,3
+,,,
+Folinic acid ,C20H23N7O7,472.1586,13.38
+,,,
+3-Nitro-L- tyrosine,C9H10N2O5,225.051697,11.61
+,,,
+Phenylglyoxylic acid,C8H6O3,149.0244,2.49
+,,,
+L-Kynurenine,C10H12N2O3,207.077515,9.02
+,,,
+L-Cysteic acid ,C3H7NO5S,167.997223,12.5
+,,,
+Isoxanthopterin,C6H5N5O2,178.037048,10.52
+,,,
+2-Isopropylmalic acid,C7H12O5,175.0612,13.03
+,,,
+L-Hydroorotic acid,C5H6N2O4,157.025,9.21
+,,,
+,,,
+,,,
+Glycodeoxycholic acid ,C26H43NO5,448.3068,3.11
+,,,
+Chenodeoxycholic acid ,C24H40O4,391.2853,3.09
+,,,
+1-6-anhydro-b-D-Glucose,C6H10O5,161.045547,6.58
+,,,
+5-Hydroxymethyl-2-furancarboxylic acid,C6H6O4,141.030563,7.39
+,,,
+Aminomalonic acid,C3H5NO4,118.01458,13.89
+,,,
+2-Amino-1-phenylethanol,C8H11NO,136.076782,8.82
+,,,
+2-Methylglutaric acid,C6H10O4,145.0506,12.47
+,,,
+Menadione,C11H8O2,171.045,2.69
+,,,
+N-Acetyl-L-phenylalanine,C11H13NO3,206.08226,2.95
+,,,
+DL-p-Hydroxyphenyllactic acid,C9H10O4,181.050629,6.19
+,,,
+3-4-Dihydroxybenzeneacetic acid,C8H8O4,167.034988,6.37
+,,,
+D-Arabitol,C5H12O5,151.0612,9.8
+,,,
+Indole-2-carboxylic acid,C9H7NO2,160.0404,2.74
+,,,
+Purine,C5H4N4,119.0363,6.54
+,,,
+Indole-3-ethanol,C10H11NO,160.076782,2.8
+,,,
+trans-4-Hydroxycinnamic acid,C9H8O3,163.04007,3
+,,,
+2-5-Furandicarboxylic acid,C6H4O5,154.9985,11.44
+,,,
+L-Rhamnose ,C6H12O5,163.0612,8.11
+,,,
+1-Methyl-hydantoin,C4H6N2O2,113.035652,3.78
+,,,
+Nicotinuric acid,C8H8N2O3,179.0462,8.5
+,,,
+?-Hydroxyhippuric acid,C9H9NO4,194.045883,7.57
+,,,
+5-Hydroxyindole-3-acetic acid,C10H9NO3,190.05096,7.13
+,,,
+(R)-(-) Citramalic acid,C5H8O5,147.02989,13.5
+,,,
+L-Hydroxyproline,C5H9NO3,130.05096,7.84
+,,,
+(R)-(+)-2-Pyrrolidone-5-carboxylic acid,C5H7NO3,128.035324,9.35
+,,,
+4-8-Dihydroxyquinoline-2-carboxylic acid (Xanthurenic acid),C10H7NO4,204.030228,7.24
+,,,
+D-(+)-Glucuronic acid-lactone,C6H8O6,175.0248,5.09
+,,,
+3-5-Dihydroxybenzoic acid,C7H6O4,153.01933,2
+,,,
+2-6-Dihydroxybenzoic acid,C7H6O4,153.01933,2
+,,,
+Glycyl-L-tyrosine ,C11H14N2O4,237.088089,9.4
+,,,
+Dehydroascorbic acid,C6H6O6,173.00917,7.19
+,,,
+DL-Indole-3-lactic acid,C11H11NO3,204.066,2.84
+,,,
+4-Hydroxyphenylpyruvic acid,C9H8O4,179.034988,2.76
+,,,
+N-(3-Phenylpropionyl)glycine,C11H13NO3,206.08226,2.92
+,,,
+m-Hydroxyhippuric Acid,C9H9NO4,194.045883,7
+,,,
+3-Methylglutaconic Acid,C6H8O4,143.034988,10.51
+,,,
+Suberyl Glycine,C10H17NO5,230.1033,12
+,,,
+5-(Hydroxymethyl)uracil,C5H6N2O3,141.030563,8.95
+,,,
+3-Methylglutaric acid,C6H10O4,145.0506,12.59
+,,,
+Norepinephrine ,C8H11NO3,168.066,4.12
+,,,
+Indole-3-carboxylic acid,C9H7NO2,160.0404,4.4
+,,,
+4-Hydroxy-3-methoxyphenylacetic Acid (Homovanillic acid),C9H10O4,181.0506,7.03
+,,,
+(R)-3-Hydroxybutanoic acid,C4H8O3,103.04007,7.93
+,,,
+2-Hydroxyhexanedioic Acid ,C6H10O5,161.045547,13.07
+,,,
+N-Propionylglycine,C5H9NO3,130.0509,13.15
+,,,
+2-[(4-Hydroxyphenyl)formamido]acetic acid,C9H9NO4,194.04588,7
+,,,
+2-Methylsuccinic acid,C5H8O4,131.034988,12.79
+,,,
+3-Hydroxymandelic acid,C8H8O4,167.034988,5
+,,,
+N-Iso valerylglycine,C7H13NO3,,6.8
+,,,
+5-6-Dihydro Thymine,C5H8N2O2,127.0513,4.13
+,,,
+(�)-Lipoic acid,C8H14O2S2,205.036,2.89
+,,,
+2-3-Pyridinedicarboxylic acid,C7H5NO4,166.0145,13.22
+,,,
+3-Hydroxypropionic Acid ,C3H6O3,89.024422,9.25
+,,,
+Inosine 5-triphosphate,C10H15N4O14P3,506.972504,16.1
+,,,
+Pyridoxal 5-phosphate,C8H10NO6P,246.017303,13.8
+,,,
+L-Threonic acid ,C4H8O5,135.029892,10
+,,,
+Dihydrouracil,C4H6N2O2,113.03565,4.5
+,,,
+L(-)-Pipecolinic acid,C6H11NO2,128.0717,11.72
+,,,
+D-Galactonic acid,C6H12O7,195.051,12.7
+,,,
+6-Hydroxynicotinic acid,C6H5NO3,138.019,9.4
+,,,
+N-Tiglylglycine,C7H11NO3,156.066,7.02
+,,,
+Lithocholic acid,C24H40O3,375.2904,2.73
+,,,
+DL -3-4-Dihydroxymandelic acid,C8H8O5,183.029892,2.07
+,,,
+Acetylcholine ,C7H15NO2,144.10299,9.71
+,,,
+Tricarballylic acid,C6H8O6,175.02481,13.75
+,,,
+D-3-Phenyllactic acid	,C9H10O3,165.05572,2.77
+,,,
+3-Methyladipic acid,C7H12O4,159.0662,12.22
+,,,
+N-Acetyl-L-lysine,C8H16N2O3,187.10881,12.97
+,,,
+Mucic acid,C6H10O8,209.0302989,13.88
+,,,
+4-Hydroxymandelic acid,C8H8O4,167.0349,7
+,,,
+N-Butyrylglycine,C6H11NO3,144.0666,7.14
+,,,
+4-6-Dioxoheptanoic acid,C7H10O4,157.0506,7.09
+,,,
+8-Aminooctanoic acid,C8H17NO2,158.118652,13
+,,,
+Retinoic Acid,C20H28O2,299.2016,2.4
+,,,
+S-Adenosylmethionine,C15H22N6O5S,397.12997,15.1
+,,,
+2-Deoxy-D-ribose,C5H10O4,133.0506,7.12
+,,,
+Synephrine,C9H13NO2,166.0873,10.02
+,,,
+N-Methyltyramine ,C9H13NO,150.0924,9.54
+,,,
+Capryloyl glycine,C10H19NO3,200.1292,2.85
+,,,
+5-Methylcytosine,C5H7N3O,124.0516,7.85
+,,,
+Cysteamine ,C2H7NS,76.022644,2.68
+,,,
+p-Benzoquinone,C6H4O2,107.01385,3
+,,,
+2-6-Diaminopimelic Acid,C7H14N2O4,189.088089,14.7
+,,,
+5-Phenylvaleric Acid,C11H14O2,177.092102,2.79
+,,,
+trans-4-Hydroxycyclohexanecarboxylic Acid,C7H12O3,143.0713,8.94
+,,,
+5-Aminovaleric acid,C5H11NO2,116.0717,13.54
+,,,
+Glycoursodeoxycholic acid,C26H43NO5,448.3068,3
+,,,
+N'-Methylnicotinamide,C7H8N2O,135.056381,4.15
+,,,
+5-Keto-D-gluconic acid ,C6H10O7,193.0353,11
+,,,
+2-3-Dihydroxybenzoic acid,C7H6O4,153.019333,2.52
+,,,
+N-Formyl-L-methionine,C6H11NO3S,176.038696,6.8
+,,,
+Hyodeoxycholic acid,C24H40O4,391.2853,3
+,,,
+DL-Benzylsuccinic acid,C11H12O4,207.06628,9
+,,,
+N-Acetyl-L-methionine,C7H13NO3S,190.054337,6.8
+,,,
+Shikimic acid,C7H10O5,173.04554,12
+,,,
+3-(3-Methoxyphenyl)propionic acid,C10H12O3,179.071365,2.87
+,,,
+1-3-Dimethyluracil,C6H8N2O2,139.0513,3.09
+,,,
+3-Hydroxybenzoic acid,C7H6O3,137.024414,2.96
+,,,
+Pyridoxal ,C8H9NO3,166.050964,6.39
+,,,
+trans-3-Indoleacrylic acid,C11H9NO2,186.05604,2.96
+,,,
+ hyaluronate,C28H44N2O23,775.2261,
+,,,
+2-Hydroxy Hippuric Acid,C9H9NO4,194.045883,3
+,,,
+Homogentisic acid,C8H8O4,167.034988,2.96
+,,,
+Glycyl-L-leucine,C8H16N2O3,187.1088,8.97
+,,,
+Hexanoyl Glycine,C8H15NO3,172.097916,3.05
+,,,
+Guaiacol,C7H8O2,123.0451,2.96
+,,,
+3-Indolepropionic acid,C11H11NO2,188.0717,2.98
+,,,
+O-Phosphorylethanolamine,C2H8NO4P,140.011826,14.1
+,,,
+N-Acetyl-L-tyrosine,C11H13NO4,222.077179,7.1
+,,,
+Indole-3-pyruvic acid,C11H9NO3,202.050964,2.57
+,,,
+2-Ketobutyric acid,C4H6O3,101.024422,2.83
+,,,
+2-Phenylpropionic acid,C9H10O2,149.0608,2.8
+,,,
+4-Methylvaleric acid,C6H12O2,115.0764,3
+,,,
+N-(5-Aminopentyl)acetamide,C7H16N2O,143.118988,13.22
+,,,
+3-Hydroxyisovaleric acid,C5H10O3,117.0557,6
+,,,
+dCMP,C9H14N3O7P,306.049,13.63
+,,,
+,,,
+,,,
+2-Hydroxyvaleric acid,C5H10O3,117.0557,4
+,,,
+Indole-3-acetaldehyde,C10H9NO,158.061142,2.65
+,,,
+Cysteine-glutathione disulphide,�C13H22N4O8S2,425.0806,13.8
+,,,
+3-Ureidopropionic acid,C4H8N2O3,131.0462,11
+,,,
+Benzoic acid,C7H6O2,121.029503,10.4
+,,,
+2-Oxoisopentanoic acid,C5H8O3,115.04007,2.6
+,,,
+3-Indoxyl sulfate,C8H7NO4S,212.0023,2
+,,,
+Hypotaurine,C2H7NO2S,108.01247,12.6
+,,,
+Cysteine S-sulfate,C3H7NO5S2,199.9692,9.8
+,,,
+3-Phenylpropionic acid,?C9H10O2,149.0608,2.8
+,,,
+Trimethylamine N-oxide,C3H9NO,74.061134,12.6
+,,,
+Pargyline,C11H13N,158.0975,13.5
+,,,
+Phenaceturic acid,C10H11NO3,192.0666,6.9
+,,,
+N-Acetylneuraminic acid, C11H19NO9,308.0986,13.1
+,,,
+Diethanolamine,C4H11NO2�,104.0717,11.8
+,,,
+Triethanolamine,C6H15NO3,148.0979,7.16
+,,,
+gamma-Butyrobetaine,C7H15NO2,144.10299,13.4
+,,,
+2-Oxoadipic acid,C6H8O5,159.02989,12.4
+,,,
+N6-N6-N6-Trimethyllysine,C9H20N2O2,187.1452,17.1
