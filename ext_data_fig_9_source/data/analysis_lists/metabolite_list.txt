@@ -1,0 +1,28 @@
+	label
+ Glycine 	amino acid
+ L-Alanine	amino acid
+ L-Valine	amino acid
+ L-Leucine	amino acid
+ L-Isoleucine	amino acid
+ L-Proline	amino acid
+ L-Phenylalanine	amino acid
+ L-Tyrosine	amino acid
+ L-Serine	amino acid
+ L-Threonine	amino acid
+ L-Methionine	amino acid
+ L-Asparagine	amino acid
+ Glutamine	amino acid
+ L-Aspartic acid	amino acid
+ L-Glutamic acid	amino acid
+ L-Lysine	amino acid
+ Beta-Alanine 	amino acid
+ Adenosine 	nucleotides
+ Inosine 	nucleotides
+ Adenine 	nucleotides
+ Thymine 	nucleotides
+ Adenosine monophosphate	nucleotides
+ Inosine 5'-monophosphate 	nucleotides
+ Uracil 	nucleotides
+ Phosphate 	nucleotides
+ Pyrophosphate 	nucleotides
+ Hypoxanthine	nucleotides

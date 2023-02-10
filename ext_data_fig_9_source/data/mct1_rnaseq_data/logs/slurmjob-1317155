@@ -1,0 +1,112 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!WARNING: You appear to be using an outdated version of XPRESSpipe.
+!!!The current version is 0.6.1 and you are currently using version 0.6.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+======================
+User commands summary:
+======================
+XPRESSpipe version: 0.6.0
+cmd: count
+input: /scratch/general/lustre/u0690617/1314327/output/alignments_coordinates/
+output: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/sce_mct1_rnaseq/deduped_counts/
+gtf: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/references/yeast_ensembl_v100_se49/transcripts.gtf
+experiment: sce_mct1_deduped_counts
+quantification_method: htseq
+feature_type: exon
+stranded: no
+deduplicate: False
+bam_suffix: _dedupRemoved.bam
+max_processors: 64
+path: /uufs/chpc.utah.edu/common/home/u0690617/miniconda3/envs/xpresspipe/lib/python3.7/site-packages/xpresspipe/
+log_loc: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/sce_mct1_rnaseq/deduped_counts/
+log:  >> /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/sce_mct1_rnaseq/deduped_counts/sce_mct1_deduped_counts.log 2>&1
+log_file: /uufs/chpc.utah.edu/common/home/rutter-group1/jordan/sce_mct1_rnaseq/deduped_counts/sce_mct1_deduped_counts.log
+=====================
+End commands summary
+=====================
+
+Counting alignments...
+Generating count tables...
+
+    1...2...3...4...5...6...7...8...9...
+ _______________________________________________________________________________
+|{ _ ` ~~'"  /  },\    `,   ,`      _    ,~'                                ,~  |
+| '  \       {  |`,     `,'        / `~,/                               ,~`'    |
+|     \       ``'   \             (,\,'                       /`'~`,,~`'        |
+|      ,'          /            o\_,~'  _                    '~,   {}           |
+|     (       __  /             ,~'/~|\/_\  {}                ,'/               |
+|      `\  (   `'              |,'_  '<_                  ,,''/                 |
+|         `, '_,-              /"'` `'~-/,                )                     |
+|          `_`                {            \  `~,~  ,`, ,~`                     |
+|            ``~{^'~,_         \            \,_/  \/  '\)                       |
+|               /     `~~,,     ``~~~,        /       ; \/\                     |
+|               \          `,         \      /           `' <_>                 |
+|                `,       _|          ,     / _          _,~,|\                 |
+|                  {    ,/            \    / //         /      \                |
+|                  {  ,/               \  /  `          \_,-^,_/                |
+|                  { /                 `~'                    v     v           |
+|                  {,                                              /            |
+|                  `,_                                                          |
+|_______________________________________________________________________________|
+
+       
+14251X10_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X11_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X12_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X13_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X14_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X15_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X16_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+14251X17_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X18_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X19_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X1_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X20_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X21_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X22_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X23_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X24_170420_D00294_0314_BCB1VVANXX_7_dedupRemoved.bam has been processed.
+14251X2_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X3_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X4_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X5_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X6_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X7_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X8_170420_D00294_0314_BCB1VVANXX_5_dedupRemoved.bam has been processed.
+14251X9_170420_D00294_0314_BCB1VVANXX_6_dedupRemoved.bam has been processed.
+Processing of batch 1 of 1 complete...
+Process complete.
+************************
+    
+Normalizing counts based on parameters provided...
+
+                           ___,
+                    o___.-' /
+                    |      _\_
+                    |___.-'   `
+                    |
+                    |
+            _   _   j   _   _
+           [_]_[_]_[_]_[_]_[_]
+           [__j__j__j__j__j__]
+             [_j__j__j__j__]
+             [__j__j__j__j_]
+             [_j__j/V\_j__j]
+             [__j_// \__j_]
+             [_j__|   |_j__]
+             [__j_|___|__j_]
+             [_j__j__j__j__]
+             [__j__j__j__j_]
+  _   _   _  [_j__j__j__j__]  _   _   _   _
+_[_]_[_]_[_]_[__j__j__j__j_]_[_]_[_]_[_]_[_]_
+  _j__j__j__j[_j__j__j__j__]j__j__j__j__j_
+     j  j  j [  j  j  j  j ] j  j  j  j
+       
+Process complete.
+************************
+    
+Generating multiqc summary...
+Process complete.
+************************
+    

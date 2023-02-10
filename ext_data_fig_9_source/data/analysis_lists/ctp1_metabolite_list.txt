@@ -1,0 +1,16 @@
+	label
+Aspartate	amino acid
+Glutamine	amino acid
+Glutamate	amino acid
+Lysine	amino acid
+Leucine	amino acid
+Asparagine 	amino acid
+Arginine	amino acid
+Alanine	amino acid
+Valine	amino acid
+ATP	nucleotides
+Adenosine	nucleotides
+Inosine	nucleotides
+Adenine	nucleotides
+Uracil	nucleotides
+Hypoxanthine	nucleotides

@@ -1,0 +1,20 @@
+Folder Name	Publication	Description	Data description	Methods	Processed data	Model File
+/data/sce_mct1_omics	This manuscript; DOI: 10.1016/j.molcel.2018.06.039	mct1_ in S. cereviseae	"RNA-seq: WT vs mct1_ at 0,3,12 hours after switch to non-fermentable carbon source; Proteomics: Wt vs mct1_ at 12 hours after switch to non-fermentable carbon source; Metabolomics: Wt vs mct1_ at 0,15,30,60,180 minutes after switch to non-fermentable carbon source"	"Values were obtained by comparing mct1_ to WT values for each time-point. P-values were calculated using a 2-tailed T-test assuming heteroscedasticity, then corrected using the Benjamini-Hochberg procedure."	/data/sce_mct1_omics/sce_mct1_12hr_counts_diffx.txt; /data/sce_mct1_omics/proteomics_mct1_12hr.txt; /data/sce_mct1_omics/metabolomics_timecourse_mct1.txt	/data/databases/mct1_timecourse.json
+/data/mpc_flux_metabolomics	This manuscript	Analysis in progress				
+/data/lung_tumor_pr000305_st000390	DOI:Ê10.1158/1940-6207.CAPR-14-0329	Human lung early stage adenocarcinomas	Paired normal vs tumor lung tissue samples from smokers and ex-smokers	"Values were obtained by comparing tumor vs normal lung tissue samples, using a 2-tailed, paired T-test to calculate p-values, then performing Benjamini-Hochberg correction to the p-values"	/data/lung_tumor_pr000305_st000390/lung_tumor_vs_normalmeasurements.txt	/data/databases/lung_tumor.json
+/data/muir_environment	DOI:Ê10.7554/eLife.44235	Murine PDAC tumors	Tumor interstitial fluid vs plasma	"Removed metabolites where a sample type had no measurements; Calculated variance using var.p function to determine heteroscedasticity; Calculated 2-tailed, heteroscedastic T-test, then corrected p-values using Benjamini-Hochberg procedure"	/data/muir_environment/muir_metabolite_environment_measurements.txt	/data/databases/muir_environment.json
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
