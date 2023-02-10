@@ -22,12 +22,13 @@
 **/single_cell/GSE131907_Lung_Cancer_Feature_Summary.xlsx
 **/single_cell/GSE131907_Lung_Cancer_normalized_log2TPM_matrix.txt
 **/single_cell/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz
-rna_cancer_data/single_cell/GSE148071_RAW.tar
+**/single_cell/GSE148071_RAW.tar
 **.h5ad
-rna_cancer_data/single_cell/Marker_genes.csv
+**/single_cell/Marker_genes.csv
 **/metaboverse-cli-windows.exe
 **/lung_graphs
 **/mct1_graphs
 **/node_modules
 *.mzml
 **/data/mct1_tracing_data/raw_data/Jordan_Raw_tracing.zip
+**/CRISPR_gene_effect.csv
