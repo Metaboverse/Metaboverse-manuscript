@@ -33,3 +33,6 @@
 **/data/mct1_tracing_data/raw_data/Jordan_Raw_tracing.zip
 **/CRISPR_gene_effect.csv
 **/*.tiff
+**/refine.bio.yeast.all/**
+**/tcga_analysis/CRISPR_(DepMap_21Q4_Public+Score,_Chronos)_subsetted_NSCLC.csv
+**/tcga_analysis/org.Hs.eg.db_3.14.0.tar.gz
