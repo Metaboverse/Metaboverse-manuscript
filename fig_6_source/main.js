@@ -1,0 +1,121 @@
+/*
+*********************************
+MODIFIED FROM METABOVERSE-V0.10.0
+*********************************
+
+
+
+Metaboverse
+Visualizing and Analyzing Metabolic Networks
+https://github.com/Metaboverse/Metaboverse/
+alias: metaboverse
+
+MIT License
+
+Copyright (c) 2022 Metaboverse
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*/
+
+// Modules to control application life and create native browser window
+const {
+    app,
+    BrowserWindow,
+    ipcRenderer,
+    dialog
+  } = require("electron");
+  const path = require("path");
+  const fs = require("fs");
+  const ipcMain = require("electron").ipcMain;
+  
+  // Keep a global reference of the window object, if you don't, the window will
+  // be closed automatically when the JavaScript object is garbage collected.
+  let mainWindow;
+  
+  function createWindow() {
+    // Create the browser window.
+    mainWindow = new BrowserWindow({
+      width: 1450,
+      height: 1000,
+      minWidth: 1450,
+      minHeight: 1000,
+      webPreferences: {
+        preload: path.join(__dirname, "Metaboverse-v0.10.0", "preload.js"),
+        enableRemoteModule: true,
+        worldSafeExecuteJavaScript: true,
+        contextIsolation: false,
+        nodeIntegration: true
+      },
+      dependencies: {
+        zerorpc: "fyears" + path.sep + "zerorpc-node"
+      }
+    });
+  
+    // and load the index.html of the app.
+    mainWindow.loadFile("index.html");
+    mainWindow.webContents.openDevTools()
+    mainWindow.webContents.setFrameRate(30)
+  }
+  
+  // This method will be called when Electron has finished
+  // initialization and is ready to create browser windows.
+  // Some APIs can only be used after this event occurs.
+  app.on("ready", createWindow);
+  
+  // Quit when all windows are closed.
+  app.on("window-all-closed", function() {
+    // On macOS it is common for applications and their menu bar
+    // to stay active until the user quits explicitly with Cmd + Q
+    if (process.platform !== "darwin") app.quit();
+  });
+  
+  app.on("activate", function() {
+    // On macOS it's common to re-create a window in the app when the
+    // dock icon is clicked and there are no other windows open.
+    if (mainWindow === null) createWindow();
+  });
+  
+  // In this file you can include the rest of your app's specific main process
+  // code. You can also put them in separate files and require them here.
+  let pyProc = null;
+  let pyPort = null;
+  
+  const selectPort = () => {
+    pyPort = 4242;
+    return pyPort;
+  };
+  
+  const createPyProc = () => {
+    let port = "" + selectPort();
+    let script = path.join(__dirname, "pycalc", "api.py");
+    pyProc = require("child_process").spawn("python", [script, port]);
+    if (pyProc != null) {
+      console.log("child process success");
+    }
+  };
+  
+  const exitPyProc = () => {
+    pyProc.kill();
+    pyProc = null;
+    pyPort = null;
+  };
+  
+  app.on("ready", createPyProc);
+  app.on("will-quit", exitPyProc);

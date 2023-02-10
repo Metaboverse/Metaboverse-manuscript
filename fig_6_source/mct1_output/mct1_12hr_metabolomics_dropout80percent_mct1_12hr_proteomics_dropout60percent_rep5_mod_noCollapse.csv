@@ -1,0 +1,2 @@
+index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
+0	0	reaction_10894720	Succinate <=> Fumarate (with FAD redox reaction on enzyme)	undefined	Succinate	FUMA	SDH complex (ox.),catalyst	Q04487,YMR118C,P21801,YLL041C,Q08749,TIM18,Q00711,YKL148C,species_113596	2.050261431	0.039402047	0.000131232	0.006181213551497666

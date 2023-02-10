@@ -1,0 +1,2 @@
+index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
+0	0	reaction_74255	Guanine + H2O => Xanthine + NH4+	undefined	H+,H2O,guanine	NH4+,xanthine	GDA dimer,catalyst	Q9Y2T3,ENST00000545168,species_216667	1.4416125	0.471141775	0.0000187	0.00806846820732802

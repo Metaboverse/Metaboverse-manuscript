@@ -1,0 +1,5 @@
+index	condition	id	name	collapsed	reactants	products	modifiers	additional_components	magnitude_change	source_p_value	target_p_value	averaged_p_value
+0	0	reaction_1497855_reaction_5696119_reaction_8955794	Ascorbate can reduce the BH3 radical back to BH4 // AGMO cleaves alkylglycerol into fatty aldehyde and glycerol // PGP:Mg2+ dimer hydrolyses 3PG to glycerol	true	ascorbic acid,BH3.	3-phosphoglycerate,H2O	AGMO,catalyst,PGP:Mg2+ dimer,catalyst	ENST00000342526,A6NDG6,ENST00000333503,species_29926	1.728857207	0.33327226	0.001044686	0.05072090016282166
+1	0	reaction_191108	maltose + H2O => 2 D-glucose (sucrase-isomaltase)	false	H2O,maltose	glucose	sucrase-isomaltase dimer,catalyst	P14410,ENST00000264382	1.2330572519999998	0.6438136	5.81e-7	0.001662503703228135
+2	0	reaction_188985	trehalose + H2O => 2 D-glucose	false	H2O,trehalose	glucose	N-seryl-glycosylphosphatidylinositolethanolamine-TREH,catalyst	ENST00000397925	1.283090329	0.55251835	5.81e-7	0.0015401247539437272
+3	0	reaction_189102	maltose + H2O => 2 D-glucose (maltase-glucoamylase)	false	H2O,maltose	glucose	MGAM dimer,catalyst	O43451,ENST00000620571	1.2330572519999998	0.6438136	5.81e-7	0.001662503703228135

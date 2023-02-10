@@ -1,0 +1,4 @@
+	log2fc	p-val 
+CoenzymeA	-1.245306813	0.036937349
+Glutathione disulfide	-0.429392792	0.210173577
+Uracil	0.592739851	0.302592278
