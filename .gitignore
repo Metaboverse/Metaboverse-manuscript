@@ -32,3 +32,4 @@
 *.mzml
 **/data/mct1_tracing_data/raw_data/Jordan_Raw_tracing.zip
 **/CRISPR_gene_effect.csv
+**/*.tiff
